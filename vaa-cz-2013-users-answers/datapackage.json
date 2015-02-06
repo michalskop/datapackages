@@ -1,0 +1,76 @@
+{
+"name": "vaa-cz-2013-users-answers",
+"description": "Users' answers to VolebniKalkulacka.cz's (VAA) questions, Czech general elections 2013; 1 out of 300 users is randomly selected",
+"resources": [
+    {
+        "name": "voters",
+        "path":"data/voters.csv",
+        "description": "Parties' answers",
+        "schema": {
+            "fields": [
+                {
+                    "name": "id",
+                    "type": "string",
+                    "description": "user's id; session_id + rank of answer for the session_id"
+                },
+                {
+                    "name": "session_id",
+                    "type": "string",
+                    "description": "session id"
+                },
+                {
+                    "name": "date",
+                    "type": "datetime",
+                    "description": "date/time of the answer"
+                }
+            ],
+            "primaryKey": "id"
+        }
+    },
+    {
+        "name": "vote_events",
+        "path":"data/vote_events.csv",
+        "description": "Questions of the VAA",
+        "schema": {
+            "fields": [
+                {
+                    "name": "id",
+                    "type": "integer",
+                    "description": "questions's id"
+                },
+                {
+                    "name": "motion:name",
+                    "type": "string",
+                    "description": "question text"
+                }
+            ],
+            "primaryKey": "id"
+        }
+    },
+    {
+        "name": "votes",
+        "path":"data/votes.csv",
+        "description": "Users' answers to VAA's questions",
+        "schema": {
+            "fields": [
+                {
+                    "name": "vote_event_id",
+                    "type": "integer",
+                    "description": "questions's id"
+                },
+                {
+                    "name": "voter_id",
+                    "type": "string",
+                    "description": "user's id"
+                },
+                {
+                    "name": "option",
+                    "type": "string",
+                    "description": "user's answer"
+                }
+            ],
+            "primaryKey": ["vote_event_id","voter_id"]
+        }
+    }                      
+]
+}
