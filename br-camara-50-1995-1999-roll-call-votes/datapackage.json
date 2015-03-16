@@ -1,0 +1,156 @@
+{
+    "name": "br-camara-50-1995-1999-roll-call-votes",
+    "description": "Roll-call votes from Brazilian Câmara (Lower House) from parliamentary term 50, 1995-1999",
+    "resources": [
+        {
+            "name": "voters",
+            "path":"data/voters.csv",
+            "description": "Representatives",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "id",
+                        "type": "integer",
+                        "description": "Representative's id"
+                    },
+                    {
+                        "name": "name",
+                        "type": "string",
+                        "description": "Representative's name"
+                    },
+                    {
+                        "name": "state",
+                        "type": "string",
+                        "description": "Representative's state (UF), constituency"
+                    }
+                ],
+                "primaryKey": "id"
+            }
+        },
+        {
+            "name": "vote_events",
+            "path":"data/vote_events.csv",
+            "description": "Vote events and their motions",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "id",
+                        "type": "integer",
+                        "description": "Id of the vote event"
+                    },
+                    {
+                        "name": "start_date",
+                        "type": "datetime",
+                        "description": "Date and time of the vote event"
+                    },
+                    {
+                        "name": "motion:title",
+                        "type": "string",
+                        "description": "Title of the motion"
+                    },
+                    {
+                        "name": "motion:legislative_session",
+                        "type": "string",
+                        "description": "Legislative session"
+                    },
+                    {
+                        "name": "motion:legislative_session_type",
+                        "type": "string",
+                        "description": "Legislative session type"
+                    },
+                    {
+                        "name": "motion:session",
+                        "type": "string",
+                        "description": "Session"
+                    },
+                    {
+                        "name": "motion:session_type",
+                        "type": "string",
+                        "description": "Session type"
+                    },
+                    {
+                        "name": "count:yes",
+                        "type": "string",
+                        "description": "Number of 'yes' votes"
+                    },
+                    {
+                        "name": "count:no",
+                        "type": "string",
+                        "description": "Number of 'no' votes"
+                    },
+                    {
+                        "name": "count:abstain",
+                        "type": "string",
+                        "description": "Number of 'abstain' votes"
+                    },
+                    {
+                        "name": "count:obstraction",
+                        "type": "string",
+                        "description": "Number of 'obstraction' votes"
+                    },
+                    {
+                        "name": "count:blank",
+                        "type": "string",
+                        "description": "Number of 'blank' votes"
+                    }
+                ],
+                "primaryKey": "id"
+            }
+        },
+        {
+            "name": "votes",
+            "path":"data/votes.csv",
+            "description": "Votes",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "vote_event_id",
+                        "type": "integer",
+                        "description": "Id of the vote event"
+                    },
+                    {
+                        "name": "voter_id",
+                        "type": "integer",
+                        "description": "Representative's id"
+                    },
+                    {
+                        "name": "option",
+                        "type": "string",
+                        "description": "Voted option"
+                    },
+                    {
+                        "name": "group_id",
+                        "type": "string",
+                        "description": "Id of the representative's party"
+                    }
+                ],
+                "primaryKey": ["vote_event_id","voter_id"]
+            }
+        },
+        {
+            "name": "groups",
+            "path":"data/groups.csv",
+            "description": "Political parties",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "id",
+                        "type": "integer",
+                        "description": "Id of the party"
+                    },
+                    {
+                        "name": "abbreviation",
+                        "type": "string",
+                        "description": "Party abbreviation"
+                    },
+                    {
+                        "name": "name",
+                        "type": "string",
+                        "description": "Party name"
+                    }
+                ],
+                "primaryKey": ["id"]
+            }
+        }
+    ]
+}
