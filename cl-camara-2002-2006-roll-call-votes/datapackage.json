@@ -1,0 +1,166 @@
+{
+    "name": "cl-camara-2002-2006-roll-call-votes",
+    "description": "Roll-call votes from Chilean Cámara (Lower House) from parliamentary term 2002-2006",
+    "resources": [
+        {
+            "name": "voters",
+            "path":"data/voters.csv",
+            "description": "Representatives",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "id",
+                        "type": "integer",
+                        "description": "Representative's id"
+                    },
+                    {
+                        "name": "name",
+                        "type": "string",
+                        "description": "Representative's name"
+                    },
+                    {
+                        "name": "family_name",
+                        "type": "string",
+                        "description": "Representative's family name"
+                    },
+                     {
+                        "name": "given_name",
+                        "type": "string",
+                        "description": "Representative's given name"
+                    },
+                     {
+                        "name": "middle_names",
+                        "type": "string",
+                        "description": "Representative's middle names"
+                    }
+                ],
+                "primaryKey": "id"
+            }
+        },
+        {
+            "name": "vote_events",
+            "path":"data/vote_events.csv",
+            "description": "Vote events and their motions",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "id",
+                        "type": "integer",
+                        "description": "Id of the vote event"
+                    },
+                    {
+                        "name": "start_date",
+                        "type": "datetime",
+                        "description": "Date and time of the vote event"
+                    },
+                    {
+                        "name": "result",
+                        "type": "string",
+                        "description": "Result of the vote event"
+                    },
+                    {
+                        "name": "motion:title",
+                        "type": "string",
+                        "description": "Title of the motion"
+                    },
+                    {
+                        "name": "motion:text",
+                        "type": "string",
+                        "description": "Text of the motion"
+                    },
+                    {
+                        "name": "motion:article",
+                        "type": "string",
+                        "description": "Article"
+                    },
+                    {
+                        "name": "motion:legislative_session",
+                        "type": "string",
+                        "description": "Legislative session"
+                    },
+                    {
+                        "name": "motion:tramite",
+                        "type": "string",
+                        "description": "Trámite"
+                    },
+                    {
+                        "name": "motion:type",
+                        "type": "string",
+                        "description": "Motion type"
+                    },
+                    {
+                        "name": "motion:classification",
+                        "type": "string",
+                        "description": "Motion classification (quorum)"
+                    },
+                    {
+                        "name": "motion:observations",
+                        "type": "string",
+                        "description": "Observations"
+                    }
+                ],
+                "primaryKey": "id"
+            }
+        },
+        {
+            "name": "votes",
+            "path":"data/votes.csv",
+            "description": "Votes",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "vote_event_id",
+                        "type": "integer",
+                        "description": "Id of the vote event"
+                    },
+                    {
+                        "name": "voter_id",
+                        "type": "integer",
+                        "description": "Representative's id"
+                    },
+                    {
+                        "name": "option",
+                        "type": "string",
+                        "description": "Voted option"
+                    },
+                    {
+                        "name": "group_id",
+                        "type": "string",
+                        "description": "Id of the representative's party"
+                    },
+                    {
+                        "name": "paired_id",
+                        "type": "integer",
+                        "description": "Id of the other representative in case of a paired vote"
+                    }
+                ],
+                "primaryKey": ["vote_event_id","voter_id"]
+            }
+        },
+        {
+            "name": "groups",
+            "path":"data/groups.csv",
+            "description": "Political parties",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "id",
+                        "type": "integer",
+                        "description": "Id of the party"
+                    },
+                    {
+                        "name": "abbreviation",
+                        "type": "string",
+                        "description": "Party abbreviation"
+                    },
+                    {
+                        "name": "name",
+                        "type": "string",
+                        "description": "Party name"
+                    }
+                ],
+                "primaryKey": ["id"]
+            }
+        }
+    ]
+}
