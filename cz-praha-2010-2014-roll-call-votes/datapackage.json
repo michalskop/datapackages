@@ -1,0 +1,118 @@
+{
+"name": "cz-praha-2010-2014-roll-call-votes",
+"description": "Roll-call votes from Prague Assembly 2010-2014",
+"resources": [
+    {
+        "name": "people",
+        "path":"data/people.csv",
+        "schema": {
+            "fields": [
+                {
+                    "name": "identifier",
+                    "type": "integer"
+                },
+                {
+                    "name": "name",
+                    "type": "string"
+                },
+                {
+                    "name": "candidate_list",
+                    "type": "string"
+                },
+                {
+                    "name": "party_suggesting",
+                    "type": "string"
+                }
+            ],
+            "primaryKey": "name"
+        }
+    },
+    {
+        "name": "vote_events",
+        "path":"data/vote_events.csv",
+        "schema": {
+            "fields": [
+                {
+                    "name": "identifier",
+                    "type": "integer"
+                },
+                {
+                    "name": "start_date",
+                    "type": "date",
+                    "format": "YYYY-mm-dd"
+                },
+                {
+                    "name": "motion:name",
+                    "type": "string"
+                },
+                {
+                    "name": "motion:number",
+                    "type": "string"
+                },
+                {
+                    "name": "sources:link:url",
+                    "type": "string"
+                },
+                {
+                    "name": "motion:document",
+                    "type": "string"
+                },
+                {
+                    "name": "motion:document",
+                    "type": "string"
+                },
+                {
+                    "name": "legislative_session_id",
+                    "type": "integer"
+                },
+                {
+                    "name": "result",
+                    "type": "string"
+                },
+                {
+                    "name": "counts:option:yes",
+                    "type": "integer"
+                },
+                {
+                    "name": "counts:option:no",
+                    "type": "integer"
+                },
+                {
+                    "name": "counts:option:abstain",
+                    "type": "integer"
+                },
+                {
+                    "name": "number_of_people",
+                    "type": "integer"
+                },
+                {
+                    "name": "present",
+                    "type": "integer"
+                }
+            ],
+            "primaryKey": "identifier"
+        }
+    },
+    {
+        "name": "votes",
+        "path":"data/votes.csv",
+        "schema": {
+            "fields": [
+                {
+                    "name": "vote_event_id",
+                    "type": "integer"
+                },
+                {
+                    "name": "voter_id",
+                    "type": "integer"
+                },
+                {
+                    "name": "option",
+                    "type": "string"
+                }
+            ],
+            "primaryKey": ["vote_event_id","voter_id"]
+        }
+    }                      
+]
+}

@@ -1,0 +1,141 @@
+{
+    "name": "cz-praha-1998-2002-roll-call-votes",
+    "description": "Roll-call votes from Prague Assembly from term 1998-2002",
+    "resources": [
+        {
+            "name": "voters",
+            "path":"data/voters.csv",
+            "description": "Representatives",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "id",
+                        "type": "integer",
+                        "description": "Representative's id"
+                    },
+                    {
+                        "name": "name",
+                        "type": "string",
+                        "description": "Representative's name"
+                    },
+                    {
+                        "name": "candidate_list",
+                        "type": "string",
+                        "description": "Candidate list"
+                    },
+                    {
+                        "name": "party:suggesting",
+                        "type": "string",
+                        "description": "Suggesting party"
+                    },
+                    {
+                        "name": "party:member",
+                        "type": "string",
+                        "description": "Member of party"
+                    },
+                ],
+                "primaryKey": "id"
+            }
+        },
+        {
+            "name": "vote_events",
+            "path":"data/vote_events.csv",
+            "description": "Vote events and their motions",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "id",
+                        "type": "integer",
+                        "description": "Id of the vote event"
+                    },
+                    {
+                        "name": "start_date",
+                        "type": "datetime",
+                        "description": "Date of the vote event"
+                    },
+                    {
+                        "name": "motion:title",
+                        "type": "string",
+                        "description": "Title of the motion"
+                    },
+                    {
+                        "name": "motion:number",
+                        "type": "string",
+                        "description": "Number of the motion"
+                    },
+                    {
+                        "name": "motion:document",
+                        "type": "string",
+                        "description": "Motion's document"
+                    },
+                    {
+                        "name": "sources:link:url",
+                        "type": "string",
+                        "description": "URL of the vote event"
+                    },
+                    {
+                        "name": "motion:legislative_session",
+                        "type": "string",
+                        "description": "Legislative session"
+                    },
+                    {
+                        "name": "motion:result",
+                        "type": "string",
+                        "description": "Motion result"
+                    },
+                    {
+                        "name": "counts:option:yes",
+                        "type": "integer",
+                        "description": "Count of yes'"
+                    },
+                    {
+                        "name": "counts:option:yes",
+                        "type": "integer",
+                        "description": "Count of noes"
+                    },
+                    {
+                        "name": "counts:option:abstain",
+                        "type": "integer",
+                        "description": "Count of abstains"
+                    },
+                    {
+                        "name": "counts:number_of_people",
+                        "type": "integer",
+                        "description": "Number of representatives"
+                    },
+                    {
+                        "name": "counts:present",
+                        "type": "integer",
+                        "description": "Number of present representatives"
+                    }
+                ],
+                "primaryKey": "id"
+            }
+        },
+        {
+            "name": "votes",
+            "path":"data/votes.csv",
+            "description": "Votes",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "vote_event_id",
+                        "type": "integer",
+                        "description": "Id of the vote event"
+                    },
+                    {
+                        "name": "voter_id",
+                        "type": "integer",
+                        "description": "Representative's id"
+                    },
+                    {
+                        "name": "option",
+                        "type": "string",
+                        "description": "Voted option"
+                    }
+                ],
+                "primaryKey": ["vote_event_id","voter_id"]
+            }
+        }
+    ]
+}
