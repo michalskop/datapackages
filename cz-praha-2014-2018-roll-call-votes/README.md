@@ -2,3 +2,4 @@
 
 Note: The data is partial, through 03/2015 (5 legislative sessions)
 
+The scrapers are [here](https://github.com/michalskop/praha.eu-scraper)
