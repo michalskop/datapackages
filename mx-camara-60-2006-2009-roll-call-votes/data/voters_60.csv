@@ -1,0 +1,599 @@
+id,name,group_id,election_type,state,district,cabecera,curul
+60-963,Morales Manzo Jesús Ricardo,prd,Representación proporcional,Puebla,4,,H-279
+60-117,Lizaola de la Torre Alonso Manuel,pan,Mayoría Relativa,Jalisco,11,Guadalajara,K-373
+60-966,Sánchez Valdéz Eva Angelina,prd,Representación proporcional,Distrito Federal,4,,L-458
+60-428,Ibarra Franquez Sonia Nohelia,prd,Representación proporcional,Nayarit,1,,H-283
+60-4,Rueda Gómez Francisco,pan,Mayoría Relativa,Baja California,1,Mexicali,I-294
+60-429,Cervantes Rivera Jaime,pt,Representación proporcional,Nayarit,1,,D-116
+60-143,Sánchez Juárez Claudia,pan,Mayoría Relativa,México,18,Huixquilucan,K-378
+60-142,Martínez Padilla Hugo Eduardo,prd,Mayoría Relativa,México,17,Ecatepec de Morelos,E-154
+60-141,Pérez Cruz Raciel,prd,Mayoría Relativa,México,16,Ecatepec de Morelos,E-156
+60-140,Landero Gutiérrez Alejandro,pan,Mayoría Relativa,México,15,Tlanepantla de Baz,A-012
+60-147,Alcalde Virgen Moisés,pan,Mayoría Relativa,México,22,Naucalpan de Juárez,E-123
+60-146,Olvera Higuera Edgar Armando,pan,Mayoría Relativa,México,21,Naucalpan de Juárez,J-343
+60-145,Zepeda Hernández Martín,prd,Mayoría Relativa,México,20,Nezahualcóyotl,F-195
+60-144,Del Toro Mario Enrique,prd,Mayoría Relativa,México,19,Tlanepantla de Baz,D-114
+60-149,Godoy Cárdenas Jorge,conv,Mayoría Relativa,México,24,Naucalpán de Juárez,B-040
+60-148,Colín Guadarrama María Mercedes,pri,Mayoría Relativa,México,23,Valle de Bravo,L-445
+60-569,Gil Ramírez Moisés,prd,Mayoría Relativa,Distrito Federal,24,,M-500
+60-564,Macedo Escartín Miguel Ángel,prd,Mayoría Relativa,Distrito Federal,19,,K-415
+60-560,Denegre Vaught Ramírez Rosaura Virginia,pan,Mayoría Relativa,Distrito Federal,15,,H-245
+60-45,Duarte Jáquez César,pri,Mayoría Relativa,Chihuahua,9,Hidalgo del Parral,P-512
+60-44,Reyes López Carlos Armando,pan,Mayoría Relativa,Chihuahua,8,Chihuahua,A-002
+60-47,González Garza Javier,prd,Mayoría Relativa,Distrito Federal,2,Gustavo A. Madero,I-327
+60-46,Lozano Lozano Andrés,prd,Mayoría Relativa,Distrito Federal,1,Gustavo A. Madero,K-411
+60-41,González Ruiz Felipe,pan,Mayoría Relativa,Chihuahua,5,Delicias,H-251
+60-40,Valencia De los Santos Víctor Leopoldo,pri,Mayoría Relativa,Chihuahua,4,Ciudad Juárez,K-404
+60-43,Beltrán Montes Israel,pri,Mayoría Relativa,Chihuahua,7,Cuauhtémoc,K-401
+60-42,Flores Domínguez Emilio Ramón Ramiro,pan,Mayoría Relativa,Chihuahua,6,Chihuahua,I-289
+60-49,Alonso Flores Lourdes,prd,Mayoría Relativa,Distrito Federal,4,Iztapalapa,J-368
+60-48,Pacheco LLanes Ramón Félix,prd,Mayoría Relativa,Distrito Federal,3,Azcapotzalco,L-453
+60-212,Herrera Coyac Wenceslao,pri,Mayoría Relativa,Puebla,4,Zacapoaxtla,K-393
+60-341,Cuevas Melo Abel Ignacio,pan,Representación proporcional,Veracruz,3,,C-054
+60-340,Nordhausen González Jorge Rubén,pan,Representación proporcional,Campeche,3,,M-462
+60-343,Joaquín Coldwell Addy Cecilia,pan,Representación proporcional,Quintana Roo,3,,F-169
+60-416,Camacho Quiroz César Octavio,pri,Representación proporcional,México,5,,K-397
+60-342,Carrasco Altamirano Diódoro Humberto,pan,Representación proporcional,Oaxaca,3,,D-089
+60-868,Beristáin  Enríquez Lucía,pan,Representación proporcional,México,5,,A-001
+60-719,Rubín Dávila Martha Angélica,pan,Mayoría Relativa,Puebla,11,,F-175
+60-808,Galván Valles Rosa Elena,pan,Representación proporcional,Durango,1,,H-247
+60-717,Gómez Barrales Ernesto Javier,pan,Mayoría Relativa,Puebla,9,,I-300
+60-866,Martínez Bernal Blanca Margarita,pan,Representación proporcional,México,5,,J-332
+60-863,Rivera Villanueva Erick Marte,pan,Representación proporcional,Hidalgo,5,,A-507
+60-266,Collado Lara Beatriz,pan,Mayoría Relativa,Tamaulipas,7,Ciudad Madero,G-213
+60-267,Mejía García Luis Alonso,pan,Mayoría Relativa,Tamaulipas,8,Tampico,B-035
+60-264,González Salum Miguel Ángel,pri,Mayoría Relativa,Tamaulipas,5,Victoria,M-494
+60-265,Cárdenas Del Avellano Enrique,pri,Mayoría Relativa,Tamaulipas,6,El Mante,M-492
+60-262,López Reyna Omeheira,pan,Mayoría Relativa,Tamaulipas,3,Río Bravo,D-085
+60-263,García González Carlos Alberto,pan,Mayoría Relativa,Tamaulipas,4,Matamoros,K-388
+60-260,Garza Garza Horacio Emigdio,pri,Mayoría Relativa,Tamaulipas,1,Nuevo Laredo,M-495
+60-261,García Vivián Raúl,pan,Mayoría Relativa,Tamaulipas,2,Reynosa,E-122
+60-663,Escamilla González Raymundo,prd,Mayoría Relativa,México,38,,D-111
+60-430,Castillo Romero Patricia Obdulia de Jesús,conv,Representación proporcional,Nayarit,1,,E-142
+60-268,Aguilar López José Alejandro,pan,Mayoría Relativa,Tlaxcala,1,Apizaco,K-376
+60-665,García González Gloria,pan,Mayoría Relativa,México,40,,A-003
+60-454,Zavaleta Salgado Ruth,prd,Representación proporcional,Distrito Federal,4,,P-505
+60-309,Alcaraz Hernández Alma Edwviges,pan,Representación proporcional,Sinaloa,1,,F-164
+60-308,Castro Muñoz Juan de Dios,pan,Representación proporcional,Durango,1,,H-247
+60-305,Limas Frescas María Soledad,pan,Representación proporcional,Chihuahua,1,,I-292
+60-206,Cuevas Córdova Othón,prd,Mayoría Relativa,Oaxaca,9,Santa Lucia del Camino,G-236
+60-307,Rodríguez Jiménez Ricardo,pan,Representación proporcional,Jalisco,1,,M-468
+60-306,Figueroa Ortega David,pan,Representación proporcional,Sonora,1,,H-253
+60-301,Padilla Orozco Raúl Alejandro,pan,Representación proporcional,Jalisco,1,,E-129
+60-290,Barradas Miravete Gregorio,pan,Mayoría Relativa,Veracruz,20,Acayucan,I-288
+60-233,Leura González Agustín,pan,Mayoría Relativa,San Luis Potosí,2,Soledad de Graciano Sánchez,E-139
+60-302,Larios Córdova Héctor,pan,Representación proporcional,Sonora,1,,D-088
+60-591,Peña Damacio Efraín,prd,Mayoría Relativa,Guerrero,1,Pungarabato,H-278
+60-593,Catarino Crispín Secundino,prd,Mayoría Relativa,Guerrero,3,José Azueta,G-234
+60-597,Klimek Alcaráz Octavio Adolfo,prd,Mayoría Relativa,Guerrero,7,Chilpancingo de los Bravo,H-276
+60-169,Díaz Garibay Felipe,pan,Mayoría Relativa,Michoacán,4,Jiquilpan,F-173
+60-168,Vallejo Estevez Mario,prd,Mayoría Relativa,Michoacán,3,Zitácuaro,J-363
+60-394,Badillo Martínez Roberto,pri,Representación proporcional,Veracruz,3,,J-346
+60-603,Rivero Acosta Miguel,pri,Mayoría Relativa,Hidalgo,4,,H-266
+60-604,Narvaez Bravo Hilda Areli,pri,Mayoría Relativa,Hidalgo,5,,H-265
+60-605,Del Villar Sosa Sonia Leslie,pan,Mayoría Relativa,Hidalgo,6,,I-301
+60-607,Carrillo Sandoval Fortino,pan,Mayoría Relativa,Jalisco,1,,K-380
+60-161,Villa Villa Isael,pri,Mayoría Relativa,México,36,Tejupilco,M-486
+60-160,Olivares Monterrubio Alejandro,pri,Mayoría Relativa,México,35,Tenancingo,M-489
+60-163,Arreola Calderón Juan Dario,prd,Mayoría Relativa,México,38,Texcoco,D-111
+60-162,Santos Arreola Francisco Javier,prd,Mayoría Relativa,México,37,Cuautitlán,F-193
+60-165,Victoria Alva Juan,pan,Mayoría Relativa,México,40,Zinacantepec,A-003
+60-164,San Martín Hernández Juan Manuel,prd,Mayoría Relativa,México,39,La Paz,F-192
+60-167,Villicaña García Rafael,prd,Mayoría Relativa,Michoacán,2,Puruándiro,J-364
+60-166,Soto Sánchez Antonio,prd,Mayoría Relativa,Michoacán,1,Lázaro Cárdenas,I-317
+60-509,Cardona Benavidez Alma Xóchil,pan,Mayoría Relativa,Baja California,6,,I-297
+60-118,Moreno Álvarez Mario Eduardo,pan,Mayoría Relativa,Jalisco,12,Tlajomulco de Zúñiga,F-166
+60-119,Solano Muñoz José de Jesús,pan,Mayoría Relativa,Jalisco,13,Guadalajara,M-459
+60-303,Morgan Franco Rocío del Carmen,pan,Representación proporcional,Jalisco,1,,C-057
+60-114,Monraz Ibarra Miguel Ángel,pan,Mayoría Relativa,Jalisco,8,Guadalajara,K-379
+60-115,Montes Sánchez Fabián Fernando,pan,Mayoría Relativa,Jalisco,9,Guadalajara,H-249
+60-116,Borboa Becerra Omar Antonio,pan,Mayoría Relativa,Jalisco,10,Zapopan,I-302
+60-500,Conde Rodríguez Elsa de Guadalupe,psd,Representación proporcional,México,5,,A-014
+60-110,Quintero Bello Jorge,pan,Mayoría Relativa,Jalisco,4,Zapopan,G-212
+60-111,Curiel Preciado Leobardo,pan,Mayoría Relativa,Jalisco,5,Puerto Vallarta,G-209
+60-112,Arellano Arellano Joel,pan,Mayoría Relativa,Jalisco,6,Zapopan,M-464
+60-704,Gurrión Matías Daniel,pri,Mayoría Relativa,Oaxaca,7,,L-435
+60-217,Lagunes Viveros Violeta del Pilar,pan,Mayoría Relativa,Puebla,9,Puebla,I-300
+60-216,Vasconcelos Rueda Antonio,pan,Mayoría Relativa,Puebla,8,Chalchicomula de Sesma,G-205
+60-699,Virgen Carrera Víctor Manuel,pri,Mayoría Relativa,Oaxaca,2,,L-436
+60-214,Flores Grande Arturo,pan,Mayoría Relativa,Puebla,6,Puebla,L-430
+60-213,Méndez Meneses Apolonio,pan,Mayoría Relativa,Puebla,5,San Martín Texmelucán,D-093
+60-231,Garmendia Hernández Yolanda Mercedes,pan,Mayoría Relativa,Quintana Roo,3,Benito Juárez,F-172
+60-211,Fuentes Ortíz José Guillermo,pan,Mayoría Relativa,Puebla,3,Tezihutlán,K-384
+60-210,Jiménez Ramos María Esther,pan,Mayoría Relativa,Puebla,2,Zacatlán,F-161
+60-219,Bello Pérez Alfonso Othón,pan,Mayoría Relativa,Puebla,11,Puebla,F-175
+60-218,Parra Jiménez Dolores Ma. del Carmen,pan,Mayoría Relativa,Puebla,10,San Pedro Cholula,E-128
+60-446,Aragón Castillo Irene,prd,Representación proporcional,Veracruz,3,,F-198
+60-447,Escandón Cadenas Rutilio Cruz,prd,Representación proporcional,Chiapas,3,,C-071
+60-444,Pulido Santiago Celso David,prd,Representación proporcional,Veracruz,3,,F-201
+60-445,Esteva Salinas Alberto,conv,Representación proporcional,Oaxaca,3,,E-140
+60-442,Sansores San Román Layda Elena,conv,Representación proporcional,Campeche,3,,D-104
+60-443,Matus Toledo Holly,prd,Representación proporcional,Chiapas,3,,C-073
+60-440,Mendoza Flores Roberto,prd,Representación proporcional,Tabasco,3,,C-077
+60-441,Peregrino García Abundio,pt,Representación proporcional,Chiapas,3,,B-049
+60-840,Guerra Sánchez María de Jesús,pan,Representación proporcional,Campeche,3,,M-462
+60-841,Mora Cuevas Marisol,pan,Representación proporcional,Veracruz,3,,C-056
+60-919,Cerrillo Garnica José Luis,pri,Representación proporcional,México,5,,L-434
+60-448,Maciel Ortiz Ma. Mercedes,pt,Representación proporcional,Oaxaca,3,,E-159
+60-449,Salvatori Bronca María del Carmen,conv,Representación proporcional,Veracruz,3,,D-101
+60-288,Montalvo Gómez Pedro,pri,Mayoría Relativa,Veracruz,18,Zongolica,I-310
+60-289,Domínguez Domínguez Nemesio,pri,Mayoría Relativa,Veracruz,19,San Andrés Tuxtla,G-223
+60-197,Parás González Juan Manuel,pri,Mayoría Relativa,Nuevo León,12,Cadereyta Jiménez,M-478
+60-768,Salazar Anaya María Guadalupe,pan,Mayoría Relativa,Tlaxcala,1,,K-376
+60-284,Uscanga Cruz Robinson,conv,Mayoría Relativa,Veracruz,14,Minatitlan,B-038
+60-285,Lagunes Gallina Gerardo,pri,Mayoría Relativa,Veracruz,15,Orizaba,I-311
+60-286,Duck Núñez Edgar Mauricio,pan,Mayoría Relativa,Veracruz,16,Córdoba,F-168
+60-287,Castro De la Rosa Osiel,pan,Mayoría Relativa,Veracruz,17,Cosamaloapan,B-025
+60-280,Morales García Elizabeth,pri,Mayoría Relativa,Veracruz,10,Xalapa,F-185
+60-281,Rasgado Corsi Gloria,prd,Mayoría Relativa,Veracruz,11,Coatzacoalcos,F-202
+60-282,Gutiérrez Lagunes María Victoria,pan,Mayoría Relativa,Veracruz,12,Veracruz,E-133
+60-283,Mollinedo Hernández Agustín,pan,Mayoría Relativa,Veracruz,13,Huatusco,C-059
+60-774,Morales Utrera Mercedes,pan,Mayoría Relativa,Veracruz,4,,E-121
+60-369,Ayala Almeida Joel,pri,Representación proporcional,Baja California,1,,L-439
+60-368,Gómez Leyva Silvio,pan,Representación proporcional,México,5,,A-001
+60-300,Calzada Vázquez Francisco Javier,prd,Mayoría Relativa,Zacatecas,4,Guadalupe,H-281
+60-363,Peyrot Solís Marco Antonio,pan,Representación proporcional,Hidalgo,5,,A-507
+60-362,Sánchez Domínguez Alejandro,pan,Representación proporcional,México,5,,L-420
+60-361,Rojas Hernández Laura Angélica,pan,Representación proporcional,México,5,,E-137
+60-360,Morelos Borja María Esperanza,pan,Representación proporcional,Michoacán,5,,J-510
+60-367,Torres Herrera Víctor Manuel,pan,Representación proporcional,Colima,5,,J-333
+60-366,Parra Noriega Luis Gustavo,pan,Representación proporcional,México,5,,J-332
+60-365,Berber Martínez Antonio,pan,Representación proporcional,Michoacán,5,,J-340
+60-364,Tamayo Herrera Yadhira Yvette,pan,Representación proporcional,Michoacán,5,,I-287
+60-819,Montiel Luis Lariza,pan,Representación proporcional,Coahuila,2,,B-508
+60-339,Medina Rodríguez Lizbeth,pan,Representación proporcional,Yucatán,3,,F-177
+60-913,Cerezo Torres Roberto Efrén,pri,Representación proporcional,Distrito Federal,4,,J-352
+60-69,Villanueva Albarrán Gerardo,prd,Mayoría Relativa,Distrito Federal,24,Coyoacán,M-500
+60-68,Pedrozo Castillo Adrián,prd,Mayoría Relativa,Distrito Federal,23,Coyoacán,L-454
+60-929,Reynoso Esparza Julián Ezequiel,pt,Representación proporcional,Sinaloa,1,,D-116
+60-924,Portilla Diéguez Manuel,pvem,Representación proporcional,México,5,,H-260
+60-915,Bravo Martínez Esveida,pvem,Representación proporcional,Morelos,4,,H-263
+60-539,Cárdenas de la Torre Miriam Gabriela,pan,Mayoría Relativa,Chihuahua,3,,F-176
+60-402,Escalante Jasso Aracely,pri,Representación proporcional,Campeche,3,,J-359
+60-403,Aldana Prieto Luis Ricardo,pri,Representación proporcional,Veracruz,3,,I-309
+60-400,Cobo Terrazas Diego,pvem,Representación proporcional,Veracruz,3,,H-262
+60-401,Rojas Gutiérrez Carlos,pri,Representación proporcional,Yucatán,3,,I-312
+60-406,Izquierdo Bustamante Alfonso Rolando,pri,Representación proporcional,Tabasco,3,,G-227
+60-407,Pérez Valdés Daniel,pri,Representación proporcional,Veracruz,3,,G-225
+60-404,Ordaz Jiménez Ismael,pri,Representación proporcional,Oaxaca,3,,J-347
+60-405,López Adame Antonio Xavier,pvem,Representación proporcional,Oaxaca,3,,F-179
+60-408,Palma César Víctor Samuel,pri,Representación proporcional,Morelos,4,,J-353
+60-409,Pagés Llergo Rebollar María Beatriz,pri,Representación proporcional,Distrito Federal,4,,L-442
+60-173,Chávez García Daniel,pan,Mayoría Relativa,Michoacán,8,Morelia,M-472
+60-1273,Melo Velázquez José Francisco,conv,Representación proporcional,Oaxaca,3,,E-140
+60-1272,Pérez de Tejada Romero Diana Carolina,pan,Representación proporcional,México,5,,J-510
+60-62,Alavez Ruiz Aleida,prd,Mayoría Relativa,Distrito Federal,17,Alvaro Obregón,J-367
+60-319,Carbajal Tejada Rogelio,pan,Representación proporcional,Coahuila,2,,C-056
+60-587,Rodríguez Preciado Ma. Magdalena,pan,Mayoría Relativa,Guanajuato,11,,M-511
+60-67,Varela López Víctor Gabriel,prd,Mayoría Relativa,Distrito Federal,22,Iztapalapa,M-496
+60-588,Rodríguez Guevara Carlos,pan,Mayoría Relativa,Guanajuato,12,,G-206
+60-66,Sánchez Camacho Alejandro,prd,Mayoría Relativa,Distrito Federal,21,Xochimilco,L-455
+60-896,Bellizzia Rosique Pascual,pvem,Representación proporcional,Tabasco,3,,G-220
+60-616,Gutiérez Aguilar Miguel Ángel,pan,Mayoría Relativa,Jalisco,10,,I-302
+60-64,Oliva Fragoso Silvia,prd,Mayoría Relativa,Distrito Federal,19,Iztapalapa,K-415
+60-474,Leyva Piñón Ana Yurixi,prd,Representación proporcional,México,5,,E-149
+60-806,Ramírez Corral Ivette Jacqueline,pan,Representación proporcional,Sonora,1,,H-253
+60-179,Román Isidoro Demetrio,pan,Mayoría Relativa,Morelos,2,Jiutepec,A-008
+60-769,Malcos Amaro María Ofelia Gloria,pan,Mayoría Relativa,Tlaxcala,2,,B-030
+60-109,Muñoz Serrano José Antonio,pan,Mayoría Relativa,Jalisco,3,Tepatitlán de Morelos,C-052
+60-108,Romo Jiménez Martha Angélica,pan,Mayoría Relativa,Jalisco,2,Lagos de Moreno,L-417
+60-107,Macías Zambrano Gustavo,pan,Mayoría Relativa,Jalisco,1,Tequila,K-380
+60-106,Peña Sánchez Miguel Ángel,prd,Mayoría Relativa,Hidalgo,7,Tepeapulco,D-109
+60-105,Ludlow Kuri Lorenzo Daniel,pan,Mayoría Relativa,Hidalgo,6,Pachuca de Soto,I-301
+60-104,Moctezuma Pereda Fernando,pri,Mayoría Relativa,Hidalgo,5,Tula de Allende,H-265
+60-103,Vega Ortíz María Oralia,pri,Mayoría Relativa,Hidalgo,4,Tulancingo de Bravo,H-266
+60-102,Hernández Hernández Sergio,prd,Mayoría Relativa,Hidalgo,3,Actopan,D-107
+60-101,Ramírez Martínez José Edmundo,pri,Mayoría Relativa,Hidalgo,2,Ixmiquilpán,H-268
+60-100,Guerrero Juárez Joel,pri,Mayoría Relativa,Hidalgo,1,Huejutla de Reyes,H-267
+60-222,Estefan Chidiac Charbel Jorge,pri,Mayoría Relativa,Puebla,14,Izucar de Matamoros,K-394
+60-223,Lezama Aradillas René,pan,Mayoría Relativa,Puebla,15,Tehuacán,G-214
+60-220,Sánchez Díaz de Rivera Antonio,pan,Mayoría Relativa,Puebla,12,Puebla,E-130
+60-221,Velázquez Gutiérrez José Guillermo,pan,Mayoría Relativa,Puebla,13,Atlixco,G-203
+60-226,Domínguez Servién Francisco,pan,Mayoría Relativa,Querétaro,2,San Juan del Río,L-427
+60-227,Jiménez del Castillo Ma. de los Ángeles,pan,Mayoría Relativa,Querétaro,3,Querétaro,B-034
+60-224,Mendoza Cortés Mario,pri,Mayoría Relativa,Puebla,16,Ajalpan,K-391
+60-225,Rubio Chávez José Ignacio Alberto,pan,Mayoría Relativa,Querétaro,1,Cadereyta de Montes,B-029
+60-228,Delgado Oscoy Alejandro Enrique,pan,Mayoría Relativa,Querétaro,4,Querétaro,I-293
+60-229,Ruiz Chávez Sara Latife,pri,Mayoría Relativa,Quintana Roo,1,Solidaridad,K-390
+60-495,Arriola  Mónica,na,Representación proporcional,México,5,,D-100
+60-494,Castillo Nájera Ariel,na,Representación proporcional,México,5,,C-066
+60-497,Cárdenas Gutiérrez Gustavo Adolfo,pan,Representación proporcional,Tamaulipas,2,,B-028
+60-496,Padilla Gutiérrez Héctor,pri,Representación proporcional,Jalisco,1,,F-187
+60-491,Piñeyro Arias Irma,na,Representación proporcional,Oaxaca,3,,C-065
+60-490,Luna Rodríguez Silvia,na,Representación proporcional,Aguascalientes,2,,C-064
+60-493,Luna Becerril Blanca,na,Representación proporcional,Distrito Federal,4,,C-063
+60-492,Jiménez Godínez Miguel Ángel,na,Representación proporcional,Distrito Federal,4,,D-099
+60-63,Mendoza Arellano David,prd,Mayoría Relativa,Distrito Federal,18,Iztapalapa,K-412
+60-810,Villafranca  Aguirre Fernanda Elvira,pan,Representación proporcional,Nayarit,1,,H-256
+60-61,Batres Guadarrama Valentina Valia,prd,Mayoría Relativa,Distrito Federal,16,Alvaro Obregón,J-370
+60-60,Minjares Jiménez José Manuel,pan,Mayoría Relativa,Distrito Federal,15,Benito Juárez,H-245
+60-499,Arvizu Rivas Aida Marina,psd,Representación proporcional,Distrito Federal,4,,A-013
+60-498,De la Torre Jaramillo Eduardo Sergio,pan,Representación proporcional,Veracruz,3,,M-471
+60-65,Morales Sánchez Efraín,prd,Mayoría Relativa,Distrito Federal,20,Iztapalapa,K-414
+60-358,Álvarez Bernal María Elena,pan,Representación proporcional,Michoacán,5,,D-086
+60-125,Barajas Del Toro Salvador,pri,Mayoría Relativa,Jalisco,19,Zapotlán El Grande,F-188
+60-124,Morales Ramos José Nicolás,pan,Mayoría Relativa,Jalisco,18,Autlán de Navarro,C-058
+60-127,Abad De Jesús Juan,conv,Mayoría Relativa,México,2,Teoloyucan,B-039
+60-126,Alcántara Núñez Jesús Sergio,pri,Mayoría Relativa,México,1,Jilotepec,M-485
+60-121,Amezola Fonceca Gerardo,pan,Mayoría Relativa,Jalisco,15,La Barca,L-426
+60-120,Guerrero Torres José Gildardo,pan,Mayoría Relativa,Jalisco,14,Guadalajara,H-248
+60-123,Gudiño Ortíz Francisco Javier,pan,Mayoría Relativa,Jalisco,17,Jocotepec,K-377
+60-122,Plascencia Alonso Francisco Javier,pan,Mayoría Relativa,Jalisco,16,Tlaquepaque,E-132
+60-33,Morales Vázquez Carlos Orsoe,prd,Mayoría Relativa,Chiapas,9,Tuxtla Gutiérrez,C-074
+60-942,Ostoa Ortega Aníbal,conv,Representación proporcional,Campeche,3,,D-104
+60-129,Acosta Dávila Constantino,pan,Mayoría Relativa,México,4,Nicólas Romero,K-374
+60-128,Cárdenas Monroy Oscar Gustavo,pri,Mayoría Relativa,México,3,Atlacomulco,L-443
+60-468,Ortiz Magallón Rosario Ignacia,prd,Representación proporcional,Distrito Federal,4,,K-416
+60-469,Martínez Hernández Alejandro,prd,Representación proporcional,Tlaxcala,4,,J-366
+60-398,Elizondo Garrido Francisco,pvem,Representación proporcional,Veracruz,3,,H-261
+60-399,Gamboa Patrón Emilio,pri,Representación proporcional,Yucatán,3,,K-396
+60-205,Varela Lagunas José Luis,conv,Mayoría Relativa,Oaxaca,8,Oaxaca de Juárez,D-105
+60-460,Pedro Cortés Santiago Gustavo,psd,Representación proporcional,Distrito Federal,4,,A-015
+60-461,Velasco Oliva Cuauhtémoc,conv,Representación proporcional,Distrito Federal,4,,C-068
+60-462,Tagle Martínez Martha Angélica,conv,Representación proporcional,Distrito Federal,4,,C-067
+60-463,Velázquez Aguirre Jesús Evodio,prd,Representación proporcional,Guerrero,4,,H-279
+60-464,Castellanos Hernández Félix,conv,Representación proporcional,Guerrero,4,,E-144
+60-465,Cruz Santiago Claudia Lilia,prd,Representación proporcional,Distrito Federal,4,,K-405
+60-466,Soto Ramos Faustino,prd,Representación proporcional,Distrito Federal,4,,L-458
+60-467,Arreola Ortega Pablo Leopoldo,pt,Representación proporcional,Distrito Federal,4,,C-080
+60-207,Hernández Silva Benjamín,prd,Mayoría Relativa,Oaxaca,10,Miahuatlán de Porfirio Díaz,G-240
+60-673,Carrasco Cárdenas Susana Sarahí,pan,Mayoría Relativa,Michoacán,8,,M-472
+60-200,Hernández Gaytán Daisy Selene,prd,Mayoría Relativa,Oaxaca,3,Heroica Ciudad De Huajuapan De León,G-239
+60-57,Suárez del Real y Aguilera José Alfonso,prd,Mayoría Relativa,Distrito Federal,12,Cuauhtémoc,I-328
+60-338,Rodríguez Prats Juan José,pan,Representación proporcional,Tabasco,3,,D-090
+60-910,Ramírez Zollino Andrea Geraldine,pvem,Representación proporcional,Distrito Federal,4,,G-221
+60-54,Montalvo Rojas Victorio Rubén,prd,Mayoría Relativa,Distrito Federal,9,Venustiano Carranza,K-413
+60-203,Romero Guzmán Rosa Elia,pt,Mayoría Relativa,Oaxaca,6,Heróica Ciudad de Tlaxiaco,D-117
+60-886,Sesma Suárez Jesús,pvem,Representación proporcional,Querétaro,2,,G-219
+60-884,Puente Salas Carlos Alberto,pvem,Representación proporcional,Zacatecas,2,,I-306
+60-630,Pérez Luna Armando,prd,Mayoría Relativa,México,5,,F-191
+60-633,González Miranda Facundo,prd,Mayoría Relativa,México,8,,E-153
+60-632,Carvajal Adame María del Carmen,pan,Mayoría Relativa,México,7,,E-135
+60-635,Flores Martínez Antonio,prd,Mayoría Relativa,México,10,,E-155
+60-637,Velázquez Lara Alejandro,prd,Mayoría Relativa,México,12,,E-157
+60-96,Matías Alonso Marcos,prd,Mayoría Relativa,Guerrero,6,Chilapa de Alvarez,H-274
+60-97,Sánchez Barrios Carlos,prd,Mayoría Relativa,Guerrero,7,Chilpancingo de los Bravo,H-276
+60-94,Almonte Borja Ramón,prd,Mayoría Relativa,Guerrero,4,Acapulco de Juárez,G-232
+60-59,Chávez García Higinio,prd,Mayoría Relativa,Distrito Federal,14,Tlalpan,J-371
+60-92,Brito González Modesto,prd,Mayoría Relativa,Guerrero,2,Iguala de la Independencia,G-233
+60-93,Campos Aburto Amador,prd,Mayoría Relativa,Guerrero,3,José Azueta,G-234
+60-90,Malagón Ríos Martín,pan,Mayoría Relativa,Guanajuato,14,Acámbaro,K-383
+60-91,Torres García Daniel,prd,Mayoría Relativa,Guerrero,1,Pungarabato,H-278
+60-644,Guerrero Cárdenas Bulmaro,prd,Mayoría Relativa,México,19,,D-114
+60-646,Patiño Sánchez María Eugenia,pan,Mayoría Relativa,México,21,,J-343
+60-540,Fuentes Téllez Octavio,pri,Mayoría Relativa,Chihuahua,4,Ciudad Juárez,K-404
+60-640,López  Espinosa Patricia Josefina,pan,Mayoría Relativa,México,15,,A-012
+60-641,Arenas Sánchez Héctor,prd,Mayoría Relativa,México,16,,E-156
+60-98,Romero Gutiérrez Odilón,prd,Mayoría Relativa,Guerrero,8,Ayutla de los Libres,H-275
+60-99,Flores Maldonado César,prd,Mayoría Relativa,Guerrero,9,Acapulco de Juárez,H-273
+60-248,Navarro Sugich Carlos Alberto,pan,Mayoría Relativa,Sonora,2,Nogales,D-092
+60-249,Serrato Castell Luis Gerardo,pan,Mayoría Relativa,Sonora,3,Hermosillo,F-167
+60-325,Orozco Ruiz Velazco Marco Heriberto,pan,Representación proporcional,Nuevo León,2,,L-423
+60-324,Hurtado Pérez Nelly Asunción,pan,Representación proporcional,Aguascalientes,2,,C-062
+60-323,Carbajal Méndez Liliana,pan,Representación proporcional,San Luis Potosí,2,,D-084
+60-322,Vázquez Martínez Alberto,pan,Representación proporcional,Querétaro,2,,A-011
+60-321,Hernández Núñez Elia,pan,Representación proporcional,Guanajuato,2,,I-286
+60-320,Zermeño Infante Jorge,pan,Representación proporcional,Coahuila,2,,K-382
+60-240,Vargas Landeros Gerardo Octavio,pri,Mayoría Relativa,Sinaloa,2,Ahome,M-482
+60-241,Ojeda Camacho Gilberto,pri,Mayoría Relativa,Sinaloa,3,Salvador Alvarado,M-479
+60-242,Barajas López Ramón,pri,Mayoría Relativa,Sinaloa,4,Guasave,F-189
+60-243,Ortíz Hernández Eduardo,pan,Mayoría Relativa,Sinaloa,5,Culiacán,E-136
+60-244,Amador Gaxiola Daniel,pri,Mayoría Relativa,Sinaloa,6,Mazatlán,M-483
+60-245,Patrón Montalvo Jesús Manuel,pri,Mayoría Relativa,Sinaloa,7,Culiacán,M-481
+60-246,Felton González Carlos Eduardo,pan,Mayoría Relativa,Sinaloa,8,Mazatlán,G-207
+60-247,Palafox Núñez José Inés,pan,Mayoría Relativa,Sonora,1,San Luis Río Colorado,M-463
+60-391,Gloria Requena Tomás,pri,Representación proporcional,Tamaulipas,2,,M-493
+60-396,García Noriega Ma. Guadalupe Josefina,pvem,Representación proporcional,Veracruz,3,,G-220
+60-157,Luna Munguía Alma Lilia,prd,Mayoría Relativa,México,32,Valle de Chalco Solidaridad,E-152
+60-397,Madrid Tovilla Arely,pri,Representación proporcional,Chiapas,3,,L-447
+60-385,Chaurand Arzate Carlos,pri,Representación proporcional,Guanajuato,2,,L-438
+60-384,Velázquez Beeck Ana Teresa,pvem,Representación proporcional,Coahuila,2,,G-221
+60-387,Ramírez Stabros Jesús,pri,Representación proporcional,San Luis Potosí,2,,L-437
+60-386,Castellanos Cortés Sara Isabel,pvem,Representación proporcional,San Luis Potosí,2,,G-219
+60-381,Aguilar Solís Samuel,pri,Representación proporcional,Durango,1,,L-441
+60-380,Aguilar  Diego,pri,Representación proporcional,Sinaloa,1,,M-480
+60-383,Canavati Tafich Jesús Ricardo,pri,Representación proporcional,Nuevo León,2,,K-395
+60-382,Olivares Ventura Héctor Hugo,pri,Representación proporcional,Aguascalientes,2,,K-398
+60-875,Rodríguez  Luis Alejandro,pvem,Representación proporcional,Jalisco,1,,F-181
+60-395,Murat  José,pri,Representación proporcional,Oaxaca,3,,J-351
+60-389,Martínez Rodríguez Lorena,pri,Representación proporcional,Aguascalientes,2,,J-355
+60-388,Ramírez Cerda Ana María,pvem,Representación proporcional,Nuevo León,2,,F-178
+60-871,Salgado Amador Manuel Salvador,pvem,Representación proporcional,Baja California Sur,1,,H-259
+60-271,Pulido Pecero Pedro,pan,Mayoría Relativa,Veracruz,1,Panuco,L-424
+60-270,Amaro Corona Alberto,prd,Mayoría Relativa,Tlaxcala,3,Zacatelco,J-365
+60-273,Laviada Hernández Iñigo Antonio,pan,Mayoría Relativa,Veracruz,3,Tuxpan,I-290
+60-272,Pinete Vargas María del Carmen,pri,Mayoría Relativa,Veracruz,2,Tantoyuca,P-506
+60-275,Del Valle Toca Antonio,pan,Mayoría Relativa,Veracruz,5,Poza Rica de Hidalgo,M-473
+60-274,Deschamps Falcón Ángel Rafael,pan,Mayoría Relativa,Veracruz,4,Veracruz,E-121
+60-277,De la Torre Sánchez José,pan,Mayoría Relativa,Veracruz,7,Martínez de la Torre,L-422
+60-276,Del Río Virgen José Manuel,conv,Mayoría Relativa,Veracruz,6,Papantla,E-145
+60-279,Mota Hernández Adolfo,pri,Mayoría Relativa,Veracruz,9,Coatepec,G-224
+60-278,Salas Contreras Marcos,pan,Mayoría Relativa,Veracruz,8,Xalapa,F-163
+60-777,Martínez Díaz María de Jesús,pan,Mayoría Relativa,Veracruz,7,,L-422
+60-7,Franco Cazarez Ricardo,pan,Mayoría Relativa,Baja California,4,Tijuana,I-298
+60-378,Ríos Camarena Alfredo Adolfo,pri,Representación proporcional,Nayarit,1,,J-357
+60-379,Aispuro Torres José Rosas,pri,Representación proporcional,Durango,1,,I-316
+60-258,Álvarez Ramón Silbestre,prd,Mayoría Relativa,Tabasco,5,Paraíso,B-046
+60-370,Barba Hernández Alfredo,pri,Representación proporcional,Jalisco,1,,F-186
+60-371,Larregui Nagel Erika,pvem,Representación proporcional,Sinaloa,1,,I-304
+60-372,Flores Sandoval Patricio,pri,Representación proporcional,Jalisco,1,,F-182
+60-373,Arévalo González José Antonio,pvem,Representación proporcional,Durango,1,,G-222
+60-374,Quiñones Canales Lourdes,pri,Representación proporcional,Durango,1,,J-356
+60-375,Chozas y Chozas Olga Patricia,pvem,Representación proporcional,Durango,1,,F-181
+60-376,Biebrich Torres Carlos Armando,pri,Representación proporcional,Sonora,1,,J-350
+60-377,Rodríguez Ramírez Bertha Yolanda,pri,Representación proporcional,Jalisco,1,,L-440
+60-78,Stefanonni Mazzocco Martín,pan,Mayoría Relativa,Guanajuato,2,San Miguel de Allende,B-036
+60-79,Oviedo Oviedo Ernesto,pan,Mayoría Relativa,Guanajuato,3,León,G-216
+60-392,Ortiz Proal Mauricio,pri,Representación proporcional,Querétaro,2,,L-433
+60-972,Salinas Pérez Josefina,prd,Representación proporcional,México,5,,I-324
+60-973,Barragán Vélez Juan Carlos,prd,Representación proporcional,Michoacán,5,,E-147
+60-750,Sánchez Peñuelas Salvador,pri,Mayoría Relativa,Sonora,4,,J-348
+60-70,Solares Chávez Miguel Ángel,prd,Mayoría Relativa,Distrito Federal,25,Iztapalapa,L-457
+60-71,Gutiérrez Calzadilla José Luis,prd,Mayoría Relativa,Distrito Federal,26,Magdalena Contreras,K-410
+60-72,Flores Salazar Guadalupe Socorro,prd,Mayoría Relativa,Distrito Federal,27,Tláhuac,K-408
+60-73,Benítez Ojeda Luis Enrique,pri,Mayoría Relativa,Durango,1,Durango,I-313
+60-74,Herrera Ale Juana Leticia,pri,Mayoría Relativa,Durango,2,Gómez Palacio,I-314
+60-75,Escajeda Jiménez José Rubén,pri,Mayoría Relativa,Durango,3,Guadalupe Victoria,I-315
+60-76,Salum del Palacio Jorge Alejandro,pan,Mayoría Relativa,Durango,4,Durango,J-338
+60-77,Murillo Flores Francisco Javier,pan,Mayoría Relativa,Guanajuato,1,San Luis de la Paz,E-138
+60-1,Armendáriz García Pedro,pan,Mayoría Relativa,Aguascalientes,1,Jesús María,L-432
+60-151,Enríquez Flores Armando,pan,Mayoría Relativa,México,26,Toluca,F-165
+60-152,Maawad Robert Luis Xavier,pan,Mayoría Relativa,México,27,Metepec,E-128
+60-153,Muñoz Serna Rogelio,pri,Mayoría Relativa,México,28,Zumpango,M-487
+60-154,Ulloa Pérez Emilio,prd,Mayoría Relativa,México,29,Nezahualcóyolt,F-194
+60-155,Bautista Bravo Alliet Mariana,prd,Mayoría Relativa,México,30,Nezahualcóyotl,D-112
+60-156,De la Rosa García Juan Hugo,prd,Mayoría Relativa,México,31,Nezahualcóyolt,D-113
+60-252,Félix Holguín Armando Jesús,pan,Mayoría Relativa,Sonora,6,Cd. Obregón,D-094
+60-158,Espejel Lazcano Jaime,prd,Mayoría Relativa,México,33,Chalco,E-146
+60-357,Del Toro del Villar Tomás,pan,Representación proporcional,México,5,,D-091
+60-251,Rodríguez Ahumada Luis Fernando,pan,Mayoría Relativa,Sonora,5,Hermosillo,K-372
+60-393,López Ramírez Sergio Augusto,pvem,Representación proporcional,Aguascalientes,2,,F-180
+60-479,Cárdenas Márquez Elías,conv,Representación proporcional,México,5,,D-102
+60-478,Ojeda Hernández Concepción,prd,Representación proporcional,Michoacán,5,,I-323
+60-473,Hernández Manzanares Javier,prd,Representación proporcional,México,5,,E-147
+60-472,Sánchez Jiménez V. Luis,prd,Representación proporcional,México,5,,I-324
+60-471,Jacques y Medina José,prd,Representación proporcional,Distrito Federal,4,,E-148
+60-470,Sánchez Camacho David,prd,Representación proporcional,Distrito Federal,4,,L-456
+60-477,Samperio Montaño Juan Ignacio,conv,Representación proporcional,México,5,,C-069
+60-476,Soriano Sánchez Rosa Elva,prd,Representación proporcional,Michoacán,5,,J-361
+60-475,Vela González Joaquín Humberto,pt,Representación proporcional,México,5,,C-081
+60-354,Lujano Nicolás Christian Martín,pan,Representación proporcional,Distrito Federal,4,,G-211
+60-788,Ortega Tzitzihua María Dolores Lucía,pri,Mayoría Relativa,Veracruz,18,,I-310
+60-150,López Rojas Alberto,prd,Mayoría Relativa,México,25,Chimalhuacán,E-151
+60-390,Bernal Gutiérrez Andrés Marco Antonio,pri,Representación proporcional,Tamaulipas,2,,M-491
+60-27,Díaz Solorzano Elmar Darinel,pri,Mayoría Relativa,Chiapas,3,Ocosingo,L-449
+60-26,Ortiz Del Carpio Víctor,pri,Mayoría Relativa,Chiapas,2,Bochil,L-452
+60-25,Gebhardt Garduza Yary del Carmen,pri,Mayoría Relativa,Chiapas,1,Palenque,L-450
+60-24,Ochoa López Nabor,,Mayoría Relativa,Colima,2,Manzanillo,K-381
+60-23,Cárdenas Sánchez Esmeralda,pan,Mayoría Relativa,Colima,1,Colima,C-060
+60-22,Mohamar Dainitin Oscar Miguel,pan,Mayoría Relativa,Coahuila,7,Saltillo,E-131
+60-21,De León Tello Jesús,pan,Mayoría Relativa,Coahuila,6,Torreón,J-342
+60-20,Bracho González Carlos Augusto,pan,Mayoría Relativa,Coahuila,5,Torreón,G-218
+60-629,Galván Rivas Erika,pan,Mayoría Relativa,México,4,,K-374
+60-29,Lescieur Talavera Jorge Mario,pri,Mayoría Relativa,Chiapas,5,San Cristóbal de las Casas,M-490
+60-28,Carballo Bustamante Andrés,pri,Mayoría Relativa,Chiapas,4,Ocozocoautla de Espinosa,L-448
+60-451,Almazán González José Antonio,prd,Representación proporcional,Veracruz,3,,F-197
+60-450,Condado Escamilla Cuitlahuac,prd,Representación proporcional,Veracruz,3,,F-199
+60-6,Ramos Covarrubias Héctor Manuel,pan,Mayoría Relativa,Baja California,3,Ensenada,H-252
+60-452,López Lena Cruz Humberto,,Representación proporcional,Oaxaca,3,,L-428
+60-455,Zazueta Aguilar Jesús Humberto,prd,Representación proporcional,Guerrero,4,,I-329
+60-902,Peraza  Valdéz Ismael,pri,Representación proporcional,Yucatán,3,,J-359
+60-457,Sandoval Ramírez Cuauhtémoc,prd,Representación proporcional,Guerrero,4,,H-277
+60-456,Garzón Contreras Neftalí,prd,Representación proporcional,Puebla,4,,A-017
+60-459,Chanona Burguete Alejandro,conv,Representación proporcional,Distrito Federal,4,,D-103
+60-458,Díaz Contreras Adriana,prd,Representación proporcional,Morelos,4,,A-018
+60-269,Escobar Jardinez Adolfo,pan,Mayoría Relativa,Tlaxcala,2,Tlaxcala,B-030
+60-8,Valladolid Rodríguez Antonio,pan,Mayoría Relativa,Baja California,5,Tijuana,H-257
+60-9,Enríquez Martínez Luis Rodolfo,pan,Mayoría Relativa,Baja California,6,Tijuana,I-297
+60-259,Fernández Balboa Mónica,prd,Mayoría Relativa,Tabasco,6,Centro,B-048
+60-424,Guerrero Rubio Pilar,pvem,Representación proporcional,México,5,,H-260
+60-425,Sosa Castelán Gerardo,pri,Representación proporcional,Hidalgo,5,,H-264
+60-426,Navarro Quintero Miguel Ángel,prd,Representación proporcional,Nayarit,1,,I-326
+60-427,Aguilar Jiménez Rubén,pt,Representación proporcional,Chihuahua,1,,A-024
+60-420,Notholt Guerrero Alan,pvem,Representación proporcional,México,5,,I-304
+60-421,González Calderón Martha Hilda,pri,Representación proporcional,México,5,,P-504
+60-299,Cárdenas Hernández Raymundo,prd,Mayoría Relativa,Zacatecas,3,Zacatecas,H-282
+60-298,Bermúdez Viramontes Andrés,pan,Mayoría Relativa,Zacatecas,2,Jerez,F-174
+60-297,Monreal Ávila Susana,prd,Mayoría Relativa,Zacatecas,1,Fresnillo,A-022
+60-296,Escaroz Soler Gerardo Antonio,pan,Mayoría Relativa,Yucatán,5,Ticul,E-127
+60-295,Ramírez Pech Edgar Martín,pan,Mayoría Relativa,Yucatán,4,Mérida,E-120
+60-294,Castro Romero Ma. Sofía Del Perpetuo Socorro,pan,Mayoría Relativa,Yucatán,3,Mérida,C-051
+60-293,Blanco Pajón José Luis,pri,Mayoría Relativa,Yucatán,2,Progreso,H-270
+60-292,Díaz Mena Joaquín Jesús,pan,Mayoría Relativa,Yucatán,1,Valladolid,J-337
+60-291,Lemarroy Martínez Juan Darío,prd,Mayoría Relativa,Veracruz,21,Cosoleacaque,F-200
+60-359,Sandoval Munguía Juan Manuel,pan,Representación proporcional,México,5,,K-387
+60-194,Salas López Ramón,pri,Mayoría Relativa,Nuevo León,9,Linares,M-474
+60-195,Villanueva Arjona Juan Manuel,pan,Mayoría Relativa,Nuevo León,10,Monterrey,M-465
+60-196,Rivera Bedoya Juan Francisco,pri,Mayoría Relativa,Nuevo León,11,Guadalupe,M-476
+60-352,Dávila Fernández Adriana,pan,Representación proporcional,Tlaxcala,4,,L-418
+60-190,Caballero Camargo Gustavo Fernando,pri,Mayoría Relativa,Nuevo León,5,Monterrey,M-475
+60-191,Barrios Rodríguez Juan Enrique,pan,Mayoría Relativa,Nuevo León,6,Monterrey,J-330
+60-192,Castaño Contreras Cristián,pan,Mayoría Relativa,Nuevo León,7,Monterrey,C-054
+60-193,Zambrano Elizondo Javier Martín,pan,Mayoría Relativa,Nuevo León,8,Guadalupe,H-244
+60-198,Dehesa Mora Daniel,prd,Mayoría Relativa,Oaxaca,1,San Juan Bautista Tuxtepec,G-238
+60-199,Villanueva Abraján Patricia,pri,Mayoría Relativa,Oaxaca,2,Teotitlán de Flores Magón,L-436
+60-997,Shej Guzmán Sara,pan,Representación proporcional,Tamaulipas,2,,B-028
+60-992,Pérez Bolaños Ana Elisa,na,Representación proporcional,Distrito Federal,4,,D-099
+60-353,Arizmendi Uribe Efraín,pan,Representación proporcional,Guerrero,4,,C-053
+60-178,Iragorri Durán Enrique,pan,Mayoría Relativa,Morelos,1,Cuernavaca,E-134
+60-304,Maldonado González David,pan,Representación proporcional,Baja California,1,,I-296
+60-176,Márquez Tinoco Francisco,prd,Mayoría Relativa,Michoacán,11,Pátzcuaro,I-320
+60-177,Mendoza Mendoza Irineo,prd,Mayoría Relativa,Michoacán,12,Apatzingán,I-322
+60-174,Mendoza Maldonado Fausto Fluvio,prd,Mayoría Relativa,Michoacán,9,Uruapán,I-321
+60-175,Espinosa Piña José Luis,pan,Mayoría Relativa,Michoacán,10,Morelia,P-503
+60-172,Alonso Razo Humberto Wilfrido,prd,Mayoría Relativa,Michoacán,7,Zacapú,J-362
+60-678,Utrilla Nieto Olivia Verónica,pan,Mayoría Relativa,Morelos,1,,E-134
+60-170,Ceja Romero Ramón,pan,Mayoría Relativa,Michoacán,5,Zamora,M-466
+60-171,Ríos Gamboa Raúl,prd,Mayoría Relativa,Michoacán,6,Hidalgo,J-360
+60-639,Martínez Vázquez María del Refugio,pan,Mayoría Relativa,México,14,,B-031
+60-2,Ruiz Velasco de Lira Ernesto,pan,Mayoría Relativa,Aguascalientes,2,Aguascalientes,A-005
+60-350,Vieyra Olivares Adriana Rebeca,pan,Representación proporcional,Morelos,4,,G-215
+60-204,Toledo Luis Jorge,pri,Mayoría Relativa,Oaxaca,7,Juchitán de Zaragoza,L-435
+60-53,Barreiro Pérez Armando,prd,Mayoría Relativa,Distrito Federal,8,Cuauhtémoc,J-369
+60-50,Contreras Julián Maricela,prd,Mayoría Relativa,Distrito Federal,5,Tlalpan,M-499
+60-51,Torres Baltazar María Elena,prd,Mayoría Relativa,Distrito Federal,6,Gustavo A. Madero,M-497
+60-56,García Rodríguez Víctor Hugo,prd,Mayoría Relativa,Distrito Federal,11,Venustiano Carranza,K-409
+60-201,Martínez Martínez Carlos Roberto,prd,Mayoría Relativa,Oaxaca,4,Tlacolula de Matamoros,G-241
+60-202,Altamirano Toledo Carlos,prd,Mayoría Relativa,Oaxaca,5,Santo Domingo Tehuantepec,G-235
+60-55,González Martínez María Gabriela,pan,Mayoría Relativa,Distrito Federal,10,Miguel Hidalgo,J-341
+60-681,Rodríguez Martínez Alicia,pri,Mayoría Relativa,Morelos,4,,G-228
+60-58,Trejo Pérez Pablo,prd,Mayoría Relativa,Distrito Federal,13,Iztacalco,M-498
+60-683,Partida  Guzmán Martha Rocío,pri,Mayoría Relativa,Nayarit,1,,G-230
+60-208,De los Santos Molina Joaquín Conrado,prd,Mayoría Relativa,Oaxaca,11,Santiago Pinotepa Nacional,G-237
+60-209,Amador Leal Alberto,pri,Mayoría Relativa,Puebla,1,Huauchinango,K-392
+60-687,De la Garza Treviño Jorge Luis,pri,Mayoría Relativa,Nuevo León,2,,M-477
+60-355,González Roaro Benjamín Ernesto,pan,Representación proporcional,Distrito Federal,4,,G-210
+60-423,Velasco Pérez Juan Carlos,pri,Representación proporcional,Michoacán,5,,F-183
+60-739,Ramírez Ruiz Carlos,pri,Mayoría Relativa,Sinaloa,1,,M-484
+60-345,Priego Tapia Gerardo,pan,Representación proporcional,Tabasco,3,,A-007
+60-334,Dávila  García Francisco,pan,Representación proporcional,Aguascalientes,2,,J-344
+60-138,Alva Olvera Maribel Luisa,prd,Mayoría Relativa,México,13,Ecatepec de Morelos,D-110
+60-139,Madrazo Limón Carlos,pan,Mayoría Relativa,México,14,Atizapán de Zaragoza,B-031
+60-853,Alanís Domínguez Martía Teresa,pan,Representación proporcional,Guerrero,4,,C-053
+60-335,Martínez Valero Dora Alicia,pan,Representación proporcional,Coahuila,2,,H-254
+60-132,Arredondo Ibarra Salvador,pan,Mayoría Relativa,México,7,Cuautitlán Izcalli,E-135
+60-133,Martínez Martínez Francisco,prd,Mayoría Relativa,México,8,Tultitlán,E-153
+60-130,Saavedra Coronel José Antonio,prd,Mayoría Relativa,México,5,Teotihuacán,F-191
+60-131,López Becerra Santiago,prd,Mayoría Relativa,México,6,Coacalco de Berriozabal,E-150
+60-136,Ruiz Sánchez Salvador,prd,Mayoría Relativa,México,11,Ecatepec de Morelos,F-190
+60-137,Ramos Becerril Rafael Plácido,conv,Mayoría Relativa,México,12,Ixtapaluca,C-070
+60-134,Gómez Lugo Elda,pri,Mayoría Relativa,México,9,Ixtlahuaca,M-488
+60-135,Martínez Vargas Octavio,prd,Mayoría Relativa,México,10,Ecatepec de Morelos,E-155
+60-89,Lemus Muñoz Ledo Ramón Ignacio,pan,Mayoría Relativa,Guanajuato,13,Valle de Santiago,M-470
+60-88,López Silva Rubí Laura,pan,Mayoría Relativa,Guanajuato,12,Celaya,G-206
+60-336,Buganza Salmerón Gerardo,pan,Representación proporcional,Veracruz,3,,C-055
+60-337,Díaz Gordillo Martha Cecilia,pan,Representación proporcional,Chiapas,3,,F-171
+60-239,Peñuelas Acuña Mayra Gisela,pri,Mayoría Relativa,Sinaloa,1,El Fuerte,M-484
+60-331,Díaz de León Torres Leticia,pan,Representación proporcional,San Luis Potosí,2,,F-162
+60-332,Arredondo Velázquez Jesús,pan,Representación proporcional,Querétaro,2,,J-336
+60-344,González Betancourt Jorge Justiniano,pan,Representación proporcional,Chiapas,3,,L-421
+60-81,Ramírez Barba Ector Jaime,pan,Mayoría Relativa,Guanajuato,5,León,L-419
+60-80,Arenas Guzmán Margarita,pan,Mayoría Relativa,Guanajuato,4,Guanajuato,G-502
+60-83,Verdín Saldaña Jaime,pan,Mayoría Relativa,Guanajuato,7,San Francisco del Rincón,L-429
+60-82,Rodríguez Vizcarra Velázquez Adriana,pan,Mayoría Relativa,Guanajuato,6,León,M-469
+60-85,Cuen Garibi Marcela,pan,Mayoría Relativa,Guanajuato,9,Irapuato,H-243
+60-84,Vega Corona Antonio,pan,Mayoría Relativa,Guanajuato,8,Salamanca,B-026
+60-87,Landeros González Ramón,pan,Mayoría Relativa,Guanajuato,11,Pénjamo,M-511
+60-86,Torres Gómez Artemio,pan,Mayoría Relativa,Guanajuato,10,Uriangato,H-258
+60-820,Fernández Ugarte Ma. del Carmen,pan,Representación proporcional,Coahuila,2,,K-382
+60-35,Herrera Solís Anuario Luis,pt,Mayoría Relativa,Chiapas,11,Huixtla,B-050
+60-822,Cortés Osornio Luz Virginia,pan,Representación proporcional,Querétaro,2,,A-011
+60-37,Serrano Escobar Enrique,pri,Mayoría Relativa,Chihuahua,1,Ciudad Juárez,K-403
+60-30,Narcía Álvarez Héctor,prd,Mayoría Relativa,Chiapas,6,Tuxtla Gutiérrez,C-075
+60-825,Caballero Chávez Claudia Gabriela,pan,Representación proporcional,Nuevo León,2,,L-423
+60-32,Cordero Alfonzo Arnulfo Elías,pri,Mayoría Relativa,Chiapas,8,Comitán de Domínguez,L-451
+60-215,Contreras Coeto José Luis,pan,Mayoría Relativa,Puebla,7,Tepeaca,J-331
+60-828,Argüelles Arellano María del Consuelo,pan,Representación proporcional,Zacatecas,2,,E-119
+60-236,García Reyes Beatriz Eugenia,pan,Mayoría Relativa,San Luis Potosí,5,San Luis Potosí,E-126
+60-333,Magallón Arceo Leonardo Melesio de J.,pan,Representación proporcional,Guanajuato,2,,I-299
+60-38,Merodio Reza Lilia Guadalupe,pri,Mayoría Relativa,Chihuahua,2,Ciudad Juárez,K-400
+60-39,Pérez Cuéllar Cruz,pan,Mayoría Relativa,Chihuahua,3,Ciudad Juárez,F-176
+60-235,Lara Compeán David,pan,Mayoría Relativa,San Luis Potosí,4,Ciudad Valles,J-335
+60-95,Aguirre Alcaide Victor,prd,Mayoría Relativa,Guerrero,5,Tlapa de Comonfort,G-231
+60-347,Noriega Blanco Vigil Ma. Elena de las N.,pan,Representación proporcional,Distrito Federal,4,,J-509
+60-234,Rodríguez Uresti Enrique,pan,Mayoría Relativa,San Luis Potosí,3,Ríoverde,H-242
+60-238,Rivera Rivera José Guadalupe,pan,Mayoría Relativa,San Luis Potosí,7,Tamazunchale,J-334
+60-237,Degante Romero Silvia Emilia,pan,Mayoría Relativa,San Luis Potosí,6,San Luis Potosí,B-032
+60-418,Velasco Rodríguez Verónica,pvem,Representación proporcional,México,5,,I-305
+60-437,Aguilera Rico José Luis,conv,Representación proporcional,Querétaro,2,,E-143
+60-436,Solís Parga Rodolfo,pt,Representación proporcional,Guanajuato,2,,E-160
+60-435,Ortega Martínez Antonio,prd,Representación proporcional,Aguascalientes,2,,F-196
+60-434,Cantú Garza Ricardo,pt,Representación proporcional,Nuevo León,2,,D-118
+60-433,López Torres Ma. Soledad,prd,Representación proporcional,Guanajuato,2,,B-043
+60-432,Navarro López Carlos Ernesto,prd,Representación proporcional,Sonora,1,,B-042
+60-431,Bravo Padilla Itzcóatl Tonatiuh,prd,Representación proporcional,Jalisco,1,,I-325
+60-346,Fernández Cabrera Adrián,pan,Representación proporcional,Distrito Federal,4,,D-087
+60-349,Díaz García José Antonio,pan,Representación proporcional,Puebla,4,,B-033
+60-348,Fraile García Francisco Antonio,pan,Representación proporcional,Puebla,4,,I-291
+60-453,Landero López Pedro,prd,Representación proporcional,Tabasco,3,,C-076
+60-439,Márquez Madrid Camerino Eleazar,prd,Representación proporcional,Zacatecas,2,,A-021
+60-438,Cervantes Rodríguez Aurora,prd,Representación proporcional,Zacatecas,2,,A-020
+60-187,Medina De la Cruz Rodrigo,pri,Mayoría Relativa,Nuevo León,2,Apodaca,M-477
+60-186,García Müller Martha Margarita,pan,Mayoría Relativa,Nuevo León,1,Santa Catarina,A-006
+60-185,Sandoval Paredes Sergio,pri,Mayoría Relativa,Nayarit,3,Compostela,G-229
+60-184,Jiménez Valenzuela María Eugenia,,Mayoría Relativa,Nayarit,2,Tepic,P-501
+60-183,González García Sergio,pri,Mayoría Relativa,Nayarit,1,Santiago Ixcuintla,G-230
+60-182,Sánchez Trujillo José Víctor,pan,Mayoría Relativa,Morelos,5,Yautepec,K-386
+60-181,Orihuela Trejo José Amado,pri,Mayoría Relativa,Morelos,4,Jojutla,G-228
+60-180,Franco Melgarejo Rafael,prd,Mayoría Relativa,Morelos,3,Cuautla,A-019
+60-232,Medellín Varela Antonio,pan,Mayoría Relativa,San Luis Potosí,1,Matehuala,M-461
+60-189,Ramírez Villarreal Gustavo,pan,Mayoría Relativa,Nuevo León,4,San Nicólas de los Garza,D-095
+60-188,Murillo Torres José Luis,pan,Mayoría Relativa,Nuevo León,3,Gral. Escobedo,G-204
+60-34,Ramos Castellanos Martín,prd,Mayoría Relativa,Chiapas,10,Villaflores,D-106
+60-647,Reyes García María Isabel,pan,Mayoría Relativa,México,22,,E-123
+60-230,Espinosa Abuxapqui Eduardo Elías,pri,Mayoría Relativa,Quintana Roo,2,Othón P. Blanco,K-389
+60-159,González Morán Martín Oscar,pan,Mayoría Relativa,México,34,Toluca,J-339
+60-3,Medina Macias Alma Hilda,pan,Mayoría Relativa,Aguascalientes,3,Aguascalientes,L-431
+60-36,Díaz Athié Antonio de Jesús,pri,Mayoría Relativa,Chiapas,12,Tapachula,L-446
+60-723,Ortiz Montoro Sagrario María del Rosario,pan,Mayoría Relativa,Puebla,15,,G-214
+60-893,Manrique Guevara Beatriz,pvem,Representación proporcional,Guanajuato,2,,F-180
+60-720,Perroni Merino Gloria María,pan,Mayoría Relativa,Puebla,12,,E-130
+60-726,Rodríguez Montes Bibiana,pan,Mayoría Relativa,Querétaro,2,,L-427
+60-724,López  Balbuena Guillermina,pri,Mayoría Relativa,Puebla,16,,K-391
+60-888,González Macías Jesús,pvem,Representación proporcional,Tamaulipas,2,,F-178
+60-898,Ferrat  Mancera Alain,pvem,Representación proporcional,Veracruz,3,,H-261
+60-643,Franco Valencia Mario,pan,Mayoría Relativa,México,18,,K-378
+60-31,Gálvez Rodríguez Fernel Arturo,prd,Mayoría Relativa,Chiapas,7,Tonalá,C-072
+60-327,Verástegui Ostos César Augusto,pan,Representación proporcional,Tamaulipas,2,,M-467
+60-794,Antuña Batista (Sale de funciones) Fidel,pan,Mayoría Relativa,Yucatán,3,,C-051
+60-795,Rodríguez Sabido Dolores del Socorro,pan,Mayoría Relativa,Yucatán,4,,E-120
+60-792,Alcocer y Gazca Teresa de Jesús,pan,Mayoría Relativa,Yucatán,1,,J-337
+60-659,Macedo Domínguez María Magdalena,pan,Mayoría Relativa,México,34,,J-339
+60-326,Flores Morfín Jesús Vicente,pan,Representación proporcional,Coahuila,2,,J-345
+60-655,Flores Castañeda Petra,prd,Mayoría Relativa,México,30,,D-112
+60-654,Rojas Carmona Sergio,prd,Mayoría Relativa,México,29,,F-194
+60-652,Ortiz Martínez de Kores Gabriela,pan,Mayoría Relativa,México,27,,D-083
+60-798,Bernal Frausto Federico,pan,Mayoría Relativa,Zacatecas,2,,F-174
+60-650,Pérez Sánchez Heriberto,prd,Mayoría Relativa,México,25,,E-151
+60-312,Mendoza Morales Lucía Susana,pan,Representación proporcional,Jalisco,1,,H-246
+60-313,Torres Torres Carlos Alberto,pan,Representación proporcional,Baja California,1,,I-295
+60-310,Medina Rodríguez Delber,pan,Representación proporcional,Nayarit,1,,H-256
+60-311,Aranda Orozco Gerardo,pan,Representación proporcional,Sonora,1,,E-125
+60-316,Salazar Madera Mario Alberto,pan,Representación proporcional,Jalisco,1,,B-027
+60-317,Valenzuela  García María Gloria Guadalupe,pan,Representación proporcional,Sinaloa,1,,G-208
+60-314,Corral Aguilar María Mercedes,pan,Representación proporcional,Sonora,1,,I-303
+60-315,Campos Galván María Eugenia,pan,Representación proporcional,Chihuahua,1,,A-009
+60-253,Mendívil Amparán Gustavo Ildefonso,pri,Mayoría Relativa,Sonora,7,Navojoa,J-349
+60-113,Sánchez Gil Carlos René,pan,Mayoría Relativa,Jalisco,7,Tonalá,F-170
+60-318,González Sánchez Ma. Dolores,pan,Representación proporcional,Zacatecas,2,,H-250
+60-250,Zatarain González Carlos Ernesto,pri,Mayoría Relativa,Sonora,4,Guaymas,J-348
+60-257,Mayans Canabal Fernando Enrique,prd,Mayoría Relativa,Tabasco,4,Centro,K-407
+60-256,Dagdug Lützow Moisés Félix,prd,Mayoría Relativa,Tabasco,3,Comalcalco,B-047
+60-255,Sánchez Ramos Francisco,prd,Mayoría Relativa,Tabasco,2,Cárdenas,C-079
+60-254,Sánchez Cabrales Rafael Elías,prd,Mayoría Relativa,Tabasco,1,Macuspana,C-078
+60-356,Bolaños Aguilar Edmundo Javier,pan,Representación proporcional,Morelos,4,,H-255
+60-18,Rivero Rivero Rolando,pan,Mayoría Relativa,Coahuila,3,Monclova,L-425
+60-19,Abramo Masso Yerico,pri,Mayoría Relativa,Coahuila,4,Saltillo,H-271
+60-16,García Reyes Ángel Humberto,pan,Mayoría Relativa,Coahuila,1,Piedras Negras,B-037
+60-17,Guerrero García Javier,pri,Mayoría Relativa,Coahuila,2,San Pedro,H-272
+60-14,Méndez Lanz Víctor Manuel,pri,Mayoría Relativa,Campeche,1,Campeche,F-184
+60-15,Martínez Rocha Arturo,pri,Mayoría Relativa,Campeche,2,Ciudad del Carmen,J-358
+60-12,Orcí Martínez Juan Adolfo,prd,Mayoría Relativa,Baja California Sur,1,Mulege,B-045
+60-13,Lizárraga Peraza Víctor Manuel,prd,Mayoría Relativa,Baja California Sur,2,La Paz,B-044
+60-10,Paredes Rodríguez Francisco Javier,pan,Mayoría Relativa,Baja California,7,Mexicali,K-385
+60-11,Rincón Vargas Mirna Cecilia,pan,Mayoría Relativa,Baja California,8,Tijuana,C-061
+60-488,Gómez Pasillas Jacinto,na,Representación proporcional,Chihuahua,1,,D-096
+60-489,Dávila  Esquivel Humberto,na,Representación proporcional,Coahuila,2,,D-097
+60-482,Pedraza Chávez Isidro,prd,Representación proporcional,Hidalgo,5,,D-108
+60-483,López Barriga  Erick,prd,Representación proporcional,Michoacán,5,,I-319
+60-480,Hernández Valadés Delio,psd,Representación proporcional,Colima,5,,B-041
+60-481,Valdés Chávez Ramón,conv,Representación proporcional,México,5,,E-141
+60-486,García Méndez Armando,psd,Representación proporcional,México,5,,A-016
+60-487,Cárdenas Fonseca Manuel,na,Representación proporcional,Sinaloa,1,,D-098
+60-484,Arellano Pulido Miguel Ángel,prd,Representación proporcional,Michoacán,5,,I-318
+60-485,Garay Ulloa Silvano,pt,Representación proporcional,México,5,,A-023
+60-419,Reyna García José Jesús,pri,Representación proporcional,Michoacán,5,,L-434
+60-422,Orihuela Bárcenas José Ascención,pri,Representación proporcional,Michoacán,5,,K-399
+60-415,Estrada González Faustino Javier,pvem,Representación proporcional,Morelos,4,,H-263
+60-414,González Zarur Mariano,pri,Representación proporcional,Tlaxcala,4,,I-308
+60-417,Ochoa González Arnoldo,pri,Representación proporcional,Colima,5,,J-354
+60-351,Ávila Mayo Obdulio,pan,Representación proporcional,Distrito Federal,4,,A-010
+60-411,Sánchez Hernández Eduardo,pri,Representación proporcional,Distrito Federal,4,,H-269
+60-410,González Martínez Jorge Emilio,pvem,Representación proporcional,Distrito Federal,4,,I-306
+60-413,Cervantes Andrade Raúl,pri,Representación proporcional,Distrito Federal,4,,J-352
+60-412,Lavara Mejía Gloria,pvem,Representación proporcional,Distrito Federal,4,,I-307
+60-329,Ortega Martínez Ma. del Pilar,pan,Representación proporcional,Guanajuato,2,,E-124
+60-330,López Cisneros José Martín,pan,Representación proporcional,Nuevo León,2,,K-375
+60-5,Manuell-Gómez Angulo Dolores De María,pan,Mayoría Relativa,Baja California,2,Mexicali,A-004
+60-328,Borrego Estrada Felipe,pan,Representación proporcional,Zacatecas,2,,E-119
+60-52,Guerra Ochoa Juan Nicasio,prd,Mayoría Relativa,Distrito Federal,7,Gustavo A. Madero,H-280
