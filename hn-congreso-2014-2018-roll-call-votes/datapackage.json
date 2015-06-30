@@ -1,0 +1,106 @@
+{
+    "name": "hn-camara-2014-2018-roll-call-votes",
+    "description": "Roll-call votes from Honduran Congreso (Parliament) from parliamentary term 2014-2018",
+    "resources": [
+        {
+            "name": "voters",
+            "path":"data/voters.csv",
+            "description": "Representatives",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "id",
+                        "type": "integer",
+                        "description": "Representative's id"
+                    },
+                    {
+                        "name": "name",
+                        "type": "string",
+                        "description": "Representative's name"
+                    }
+                ],
+                "primaryKey": "id"
+            }
+        },
+        {
+            "name": "vote_events",
+            "path":"data/vote_events.csv",
+            "description": "Vote events and their motions",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "id",
+                        "type": "integer",
+                        "description": "Id of the vote event"
+                    },
+                    {
+                        "name": "start_date",
+                        "type": "date",
+                        "description": "Date of the vote event"
+                    },
+                    {
+                        "name": "motion:title",
+                        "type": "string",
+                        "description": "Title of the motion"
+                    },
+                    {
+                        "name": "motion:result",
+                        "type": "string",
+                        "description": "Result of the vote event"
+                    }
+                ],
+                "primaryKey": "id"
+            }
+        },
+        {
+            "name": "votes",
+            "path":"data/votes.csv",
+            "description": "Votes",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "vote_event_id",
+                        "type": "integer",
+                        "description": "Id of the vote event"
+                    },
+                    {
+                        "name": "voter_id",
+                        "type": "integer",
+                        "description": "Representative's id"
+                    },
+                    {
+                        "name": "option",
+                        "type": "string",
+                        "description": "Voted option"
+                    },
+                    {
+                        "name": "group_id",
+                        "type": "string",
+                        "description": "Id of the representative's party at the time"
+                    }
+                ],
+                "primaryKey": ["vote_event_id","voter_id"]
+            }
+        },
+        {
+            "name": "groups",
+            "path":"data/groups.csv",
+            "description": "Political parties",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "id",
+                        "type": "integer",
+                        "description": "Id of the party"
+                    },
+                    {
+                        "name": "name",
+                        "type": "string",
+                        "description": "Party name"
+                    }
+                ],
+                "primaryKey": ["id"]
+            }
+        }
+    ]
+}

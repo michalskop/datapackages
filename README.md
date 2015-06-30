@@ -7,6 +7,7 @@ Voting records follow the [Popolo standard](http://www.popoloproject.com)
 * Brazilian lower house (1991-2015)
 * Chilean lower house (2002-2014)
 * Mexican lower house (2006-2015)
+* Honduran parliament (2010-2015)
 * Prague city council (1998-2015)
  
 ## Data from Voting advice applications
