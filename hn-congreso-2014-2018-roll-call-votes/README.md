@@ -2,4 +2,6 @@
 
 Notes: The data is partial, through May 2015.
 
-There are representatives and substitute representatives in the parliament. The substitutes may vote instead of the regular representatives.
+There are representatives and substitute representatives in the parliament. The substitutes *may* vote instead of the regular representatives.
+
+Options *absent* are not recorded.
