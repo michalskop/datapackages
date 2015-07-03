@@ -4,13 +4,14 @@ Tabular Data Packages (see [specification](http://data.okfn.org/doc/tabular-data
 ## Voting records
 Voting records follow the [Popolo standard](http://www.popoloproject.com)
 
-* Brazilian lower house (1991-2015)
-* Chilean lower house (2002-2014)
-* Czech senate (1998-2015)
-* Honduran parliament (2010-2015)
-* Mexican lower house (2006-2015)
-
-* Prague city council (1998-2015)
+### Parliaments
+* Brazil, lower house (1991-2015)
+* Chile, lower house (2002-2014)
+* Czechia, senate (1998-2015)
+* Honduras, parliament (2010-2015)
+* Mexico, lower house (2006-2015)
+### City councils
+* Prague, city council (1998-2015)
  
 ## Data from Voting advice applications
 * Czech VAA for general elections 2013
