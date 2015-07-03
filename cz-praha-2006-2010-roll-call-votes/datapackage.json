@@ -3,12 +3,12 @@
 "description": "Roll-call votes from Prague Assembly 2006-2010",
 "resources": [
     {
-        "name": "people",
-        "path":"data/people.csv",
+        "name": "voters",
+        "path":"data/voters.csv",
         "schema": {
             "fields": [
                 {
-                    "name": "identifier",
+                    "name": "id",
                     "type": "integer"
                 },
                 {
@@ -37,7 +37,7 @@
         "schema": {
             "fields": [
                 {
-                    "name": "identifier",
+                    "name": "id",
                     "type": "integer"
                 },
                 {
