@@ -54,14 +54,14 @@
         "schema": {
             "fields": [
                 {
-                    "name": "vote_event_id",
-                    "type": "integer",
-                    "description": "questions's id"
-                },
-                {
                     "name": "voter_id",
                     "type": "integer",
                     "description": "party's id"
+                },
+                {
+                    "name": "vote_event_id",
+                    "type": "integer",
+                    "description": "questions's id"
                 },
                 {
                     "name": "option",
