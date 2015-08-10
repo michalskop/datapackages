@@ -4,7 +4,7 @@
 "resources": [
     {
         "name": "voters",
-        "path":"dp/voters.csv",
+        "path":"data/voters.csv",
         "description": "Parties' answers",
         "schema": {
             "fields": [
@@ -29,7 +29,7 @@
     },
     {
         "name": "vote_events",
-        "path":"dp/vote_events.csv",
+        "path":"data/vote_events.csv",
         "description": "Questions of the VAA",
         "schema": {
             "fields": [
@@ -39,7 +39,7 @@
                     "description": "questions's id"
                 },
                 {
-                    "name": "motion:name",
+                    "name": "motion:text",
                     "type": "string",
                     "description": "question text"
                 }
