@@ -1,0 +1,172 @@
+id,name,give_name,family_name,group_id,constituency_id
+1,Valenta Jiří PhDr.Ing.Mgr.etMgr.,Jiří,Valenta,kscm,8
+2,Fejfar Petr Bc.,Petr,Fejfar,nk,47
+3,Nedbálek Karel JUDr. Ing. PhD.,Karel,Nedbálek,sbb,77
+4,Vícha Petr Ing.,Petr,Vícha,cssd,74
+5,Vodička Milan Ing. CSc.,Milan,Vodička,svobodni,41
+6,Schreiber Radomil MUDr.,Radomil,Schreiber,ods,74
+7,Hartmann Richard Dr. Ing.,Richard,Hartmann,svobodni,29
+8,Binder Petr,Petr,Binder,ano-2011,23
+9,Opálka Miroslav RSDr.,Miroslav,Opálka,kscm,68
+10,Šarišská Růžena MUDr.,Růžena,Šarišská,ksc,71
+11,Buchert Viliam Mgr.,Viliam,Buchert,top-09,23
+12,Nohavová Alena,Alena,Nohavová,kscm,14
+13,Pešek František Ing.,František,Pešek,kscm,35
+14,Šesták Jiří Mgr.,Jiří,Šesták,stan,14
+15,Lederová Marta Mgr.,Marta,Lederová,suveren,44
+16,Herbrych Josef,Josef,Herbrych,kdu-csl,53
+17,Cinka Ivan Mgr.,Ivan,Cinka,kscm,41
+18,Novotný Jaromír Ing.,Jaromír,Novotný,nar-soc,20
+19,Kasal David MUDr.,David,Kasal,nk,44
+20,Pánek Jiří Ing.,Jiří,Pánek,svobodni,2
+21,Horák Pavel Ing.,Pavel,Horák,kdu-csl,62
+22,Odložilík Jan Ing.,Jan,Odložilík,nar-soc,74
+23,Kozák Rudolf Ing.,Rudolf,Kozák,cssd,5
+24,Babický Alan Ing. MBA.,Alan,Babický,nar-soc,41
+25,Michálek Libor Mgr. MPA,Libor,Michálek,pirati,26
+26,Domšová Václava,Václava,Domšová,ano-2011,47
+27,Hausmann Josef RNDr. CSc.,Josef,Hausmann,nk,35
+28,Senjuk Rostislav JUDr.Ing.,Rostislav,Senjuk,sscr,8
+29,Horák Karel JUDr. Mgr.,Karel,Horák,nar-soc,38
+30,Mezian Hassan MUDr.,Hassan,Mezian,cssd,29
+31,Talíř Jaromír Ing.,Jaromír,Talíř,kdu-csl,14
+32,Štěpánová Hana Mgr.,Hana,Štěpánová,stan,50
+33,Syková Eva prof. MUDr. DrSc. FCMA,Eva,Syková,cssd,20
+34,Křeček Stanislav JUDr.,Stanislav,Křeček,cssd,26
+35,Micka Jan PaedDr.,Jan,Micka,s-cz,5
+36,Ambrož Pavel,Pavel,Ambrož,kscm,26
+37,Pěnička Stanislav Mgr.,Stanislav,Pěnička,pss,35
+38,Binter Jiří MUDr.,Jiří,Binter,ods,5
+39,Přikryl Ivan JUDr.,Ivan,Přikryl,s-cz,29
+40,Vízek František PaedDr. Mgr.,František,Vízek,nar-soc,35
+41,Adámek František Bc.,František,Adámek,cssd,17
+42,Řezníček Petr Mgr.,Petr,Řezníček,snk-ed,44
+43,Sulovský Leopold Ing.,Leopold,Sulovský,ostravak,71
+44,Sekaninová Božena,Božena,Sekaninová,cssd,62
+45,Matoušková Lenka PhDr.,Lenka,Matoušková,pirati,41
+46,Pakosta Petr Ing.,Petr,Pakosta,nk,47
+47,Zemánek Richard Mgr.,Richard,Zemánek,kdu-csl,56
+48,Grulich Tomáš PhDr.,Tomáš,Grulich,ods,17
+49,Juračka Zdeněk Ing.,Zdeněk,Juračka,top-09,44
+50,Šverma Zdeněk,Zdeněk,Šverma,snk-ed,38
+51,Němečková Jana Ing.,Jana,Němečková,stan,65
+52,Klepsa Jiří Ing.,Jiří,Klepsa,sd-sn,47
+53,Bebarová Rujbrová Zuzka JUDr.,Rujbrová,Bebarová,kscm,50
+54,Tesařík Zdeněk,Zdeněk,Tesařík,kscm,56
+55,Goetz Jindřich akad. arch.,Jindřich,Goetz,spoz,14
+56,Vyzula Rostislav,Rostislav,Vyzula,ano-2011,59
+57,Kisová Věra Mgr.,Věra,Kisová,cssd,41
+58,Doležal Patrik,Patrik,Doležal,pirati,59
+59,Škaryd Tomáš Ing.,Tomáš,Škaryd,cssd,44
+60,Místecký Vladimír,Vladimír,Místecký,kscm,77
+61,Uzel Radim MUDr. CSc.,Radim,Uzel,spoz,56
+62,Koranda Miroslav Mgr.,Miroslav,Koranda,nestran,23
+63,Jermář Jaromír PhDr.,Jaromír,Jermář,cssd,38
+64,Petrtýl František,František,Petrtýl,ano-2011,38
+65,Paukrtová Soňa Mgr.,Soňa,Paukrtová,stan,35
+66,Mitlener Jaroslav MUDr.,Jaroslav,Mitlener,svobodni,38
+67,Lichtenberg Petr,Petr,Lichtenberg,svobodni,44
+68,Luzar Leo Ing.,Leo,Luzar,kscm,71
+69,Jakobec Karel Ing.,Karel,Jakobec,ods,2
+70,Čečilová Alice MUDr.,Alice,Čečilová,vv,41
+71,Vlček Miloslav Ing.,Miloslav,Vlček,cssd,65
+72,Zeman Jaroslav,Jaroslav,Zeman,ods,35
+73,Jakubec Václav,Václav,Jakubec,kscm,38
+74,Vraný Michael MUDr.,Michael,Vraný,kdu-csl,35
+75,Vlček Václav MUDr.,Václav,Vlček,ods,68
+76,Šebek Karel,Karel,Šebek,ods,41
+77,Říha Vladimír MUDr.,Vladimír,Říha,kdu-csl,29
+78,Marková Soňa Mgr.,Soňa,Marková,kscm,47
+79,Juřenčáková Jana Ing.,Jana,Juřenčáková,stan,80
+80,Cingr Jiří,Jiří,Cingr,nar-soc,5
+81,Benešová Milada,Milada,Benešová,ano-2011,5
+82,Lobkowicz Jaroslav Ing.,Jaroslav,Lobkowicz,top-09,8
+83,Rippelová Jiřina JUDr.,Jiřina,Rippelová,spoz,11
+84,Rejman Martin,Martin,Rejman,kons,26
+85,Matěcha Miroslav Mgr.,Miroslav,Matěcha,spoz,35
+86,Paukejová Marie Ing.,Marie,Paukejová,sbb,14
+87,Ježková Věra,Věra,Ježková,vv,2
+88,"Záthurecký Viliam Ing. MBA, Ph.D.",Viliam,Záthurecký,nar-soc,59
+89,Eichler Stanislav Mgr.,Stanislav,Eichler,cssd,35
+90,Halíková Milada PaedDr.,Milada,Halíková,kscm,74
+91,Procházka Petr Mgr.,Petr,Procházka,ods,65
+92,Rychnovský Daniel MUDr.,Daniel,Rychnovský,kdu-csl,59
+93,Plaček Vladimír MUDr. Mgr.,Vladimír,Plaček,cssd,68
+94,Dubský Jaroslav Ing.,Jaroslav,Dubský,kscm,32
+95,Holan Jiří Mgr.,Jiří,Holan,kscm,2
+96,Zahradníček Josef,Josef,Zahradníček,kscm,53
+97,Rejfek Jan RSDr.,Jan,Rejfek,kscm,11
+98,Řehák Jiří Mgr.,Jiří,Řehák,b10,32
+99,Gabal Ivan,Ivan,Gabal,kdu-csl,17
+100,Procházka Pavel Ing.,Pavel,Procházka,ods,56
+101,Mašek Josef MUDr.,Josef,Mašek,top-09,5
+102,Bednář Miloslav Prof.,Miloslav,Bednář,svobodni,17
+103,Filipiová Daniela Ing. arch.,Daniela,Filipiová,ods,23
+104,Vodička Stanislav,Stanislav,Vodička,sscr,50
+105,Sedláčková Olga Mgr. MBA,Olga,Sedláčková,snk-ed,26
+106,Skácel Jan Mgr.,Jan,Skácel,chnj,38
+107,Kubíček Jan,Jan,Kubíček,nk,65
+108,"Rais Karel prof. Ing. CSc.,MBA,dr.h.c",Karel,Rais,top-09,59
+109,Rabas Přemysl MVDr.,Přemysl,Rabas,sz,5
+110,Berkovec Stanislav Mgr.,Stanislav,Berkovec,top-09,29
+111,Babinec Bohdan MUDr. CSc.,Bohdan,Babinec,nar-soc,23
+112,Potůček Martin prof. PhDr. CSc. MSc.,Martin,Potůček,cssd-kdu-csl-sz,23
+113,Hubáček František PhDr.,František,Hubáček,ods,80
+114,Slavíková Stanislava,Stanislava,Slavíková,cssd,59
+115,Šterzl Ivan prof. MUDr. CSc.,Ivan,Šterzl,nar-soc,11
+116,Skoupil Karel,Karel,Skoupil,kscm,20
+117,Somberg Jiří MUDr.,Jiří,Somberg,suveren,38
+118,Šlambor Jaroslav PaedDr.,Jaroslav,Šlambor,kscm,62
+119,Jeništa Luděk Mgr.,Luděk,Jeništa,stan,41
+120,Suchý Josef,Josef,Suchý,vv,5
+121,Bradáč Jaroslav Ing.,Jaroslav,Bradáč,spoz,2
+122,Salvetr Rudolf Mgr.,Rudolf,Salvetr,ods,11
+123,Cervan David Ing. Ph.D.,David,Cervan,nar-soc,2
+124,Znamenáček Aleš Bc.,Aleš,Znamenáček,hnpd,41
+125,Jonáš Vítězslav,Vítězslav,Jonáš,ods,53
+126,Kubera Jaroslav,Jaroslav,Kubera,ods,32
+127,Stanner Karel,Karel,Stanner,top-09,38
+128,Veleba Jan Ing.,Jan,Veleba,nk,44
+129,Dolejš Jiří Ing.,Jiří,Dolejš,kscm,23
+130,Štěpánek Petr Mgr. CSc.,Petr,Štěpánek,sz,20
+131,Papazian Valentin Ing.,Valentin,Papazian,pp,17
+132,Mikulecký Luděk Ing. LL.M.,Luděk,Mikulecký,top-09,56
+133,Štěpán Miroslav Ing. genmjr. v. v.,Miroslav,Štěpán,kdu-csl,47
+134,Křivanová Magda PhDr.,Magda,Křivanová,ods,44
+135,Látka Jan,Jan,Látka,cssd,11
+136,Janek Michal MUDr.,Michal,Janek,top-09,11
+137,Papuga Tomáš MUDr.,Tomáš,Papuga,top-09,68
+138,Ransdorf Václav Ing.,Václav,Ransdorf,kscm,80
+139,Čuřík Petr Ing.,Petr,Čuřík,nk,41
+140,Sachetová Jitka,Jitka,Sachetová,kscm,29
+141,Merhaut Marek PhDr. Mgr. MBA,Marek,Merhaut,sscr,23
+142,Mišák Stanislav MVDr.,Stanislav,Mišák,cssd,80
+143,Beznoska Adolf Ing.,Adolf,Beznoska,ods,38
+144,Olmer Vít,Vít,Olmer,vv,17
+145,Zahradníček Petr Mgr.,Petr,Zahradníček,top-09,2
+146,Šnejdrla Jindřich Ing.,Jindřich,Šnejdrla,cssd,77
+147,Bařinka Vlastimil Ing.,Vlastimil,Bařinka,stan,53
+148,Nevrla Aleš MUDr.,Aleš,Nevrla,top-09,62
+149,"Moldan Bedřich prof. RNDr. CSc., dr.h.c.",Bedřich,Moldan,top-09,47
+150,Županič Ladislav Mgr.,Ladislav,Županič,ods,62
+151,Kolář Karel,Karel,Kolář,pp,20
+152,Dobešová Ivana,Ivana,Dobešová,ano-2011,41
+153,Chlumecký Zbyněk Mgr.,Zbyněk,Chlumecký,snk-ed,56
+154,Vondra Alexandr RNDr.,Alexandr,Vondra,ods,29
+155,Kramný Miloslav MUDr.,Miloslav,Kramný,suveren,20
+156,Janoušek Jiří Ing.,Jiří,Janoušek,nar-soc,8
+157,"Palša Stanislav RNDr., Mgr.",Stanislav,Palša,nar-soc,56
+158,Malý František Ing.,František,Malý,sbb,29
+159,Rampas Stanislav Ing.,Stanislav,Rampas,snk-ed,8
+160,Novák Jiří,Jiří,Novák,sbb,65
+161,Payne Jiří RNDr.,Jiří,Payne,svobodni,26
+162,Hořčicová Marie,Marie,Hořčicová,nar-soc,77
+163,Srb Václav,Václav,Srb,kc,26
+164,Procházková Lenka,Lenka,Procházková,vv,23
+165,Hulík Milan,Milan,Hulík,ano-2011,26
+166,Žur Pavel Mgr.,Pavel,Žur,nbplk,35
+167,Lorencová Jana,Jana,Lorencová,sp,74
+168,Žďárský Emanuel RNDr. CSc.,Emanuel,Žďárský,nk,44
+169,Nádvorník Jan,Jan,Nádvorník,svobodni,20
+170,Shametiová Ariana Mgr.,Ariana,Shametiová,kons,23
+171,Hovorka Ludvík Ing.,Ludvík,Hovorka,kdu-csl,80
