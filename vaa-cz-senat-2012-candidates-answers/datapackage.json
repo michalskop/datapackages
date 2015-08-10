@@ -37,11 +37,6 @@
                     "name": "constituency_id",
                     "type": "integer",
                     "description": "candidate's constituency id"
-                },
-                {
-                    "name": "result",
-                    "type": "float",
-                    "description": "party's election result (in %)"
                 }
             ],
             "primaryKey": "id"
@@ -109,7 +104,7 @@
     },
     {
         "name": "groups",
-        "path":"data/group.csv",
+        "path":"data/groups.csv",
         "description": "Parties",
         "schema": {
             "fields": [
@@ -140,7 +135,7 @@
             "fields": [
                 {
                     "name": "id",
-                    "type": "string",
+                    "type": "integer",
                     "description": "constituency's id"
                 },
                 {
