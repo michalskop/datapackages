@@ -87,6 +87,7 @@
                     "name": "motion:text:en",
                     "type": "string",
                     "description": "question text in English"
+                }
                 
             ],
             "primaryKey": "id"
