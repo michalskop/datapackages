@@ -1,6 +1,6 @@
 {
-"name": "vaa-cz-senat-2014-candidates-answers",
-"description": "Candidates' answers to VolebniKalkulacka.cz's (VAA) questions, Czech senate elections 2014",
+"name": "vaa-cz-senat-2014-praha-10-candidates-answers",
+"description": "Candidates' answers to VolebniKalkulacka.cz's (VAA) questions, extraordinary Czech senate elections 2014, constituency Praha 10",
 "resources": [
     {
         "name": "voters",
@@ -32,11 +32,6 @@
                     "name": "group_id",
                     "type": "string",
                     "description": "party's id"
-                },
-                {
-                    "name": "constituency_id",
-                    "type": "integer",
-                    "description": "candidate's constituency id"
                 },
                 {
                     "name": "votes",
@@ -77,16 +72,6 @@
                     "name": "order",
                     "type": "integer",
                     "description": "order of the question in the VAA"
-                },
-                {
-                    "name": "motion:name:en",
-                    "type": "string",
-                    "description": "name of the question in English"
-                },
-                {
-                    "name": "motion:text:en",
-                    "type": "string",
-                    "description": "question text in English"
                 }
                 
             ],
@@ -143,26 +128,6 @@
                     "name": "name",
                     "type": "string",
                     "description": "party's name"
-                }
-            ],
-            "primaryKey": ["id"]
-        }
-    },
-    {
-        "name": "constituencies",
-        "path":"data/constituencies.csv",
-        "description": "Constituencies",
-        "schema": {
-            "fields": [
-                {
-                    "name": "id",
-                    "type": "integer",
-                    "description": "constituency's id"
-                },
-                {
-                    "name": "name",
-                    "type": "string",
-                    "description": "constituency's name"
                 }
             ],
             "primaryKey": ["id"]
