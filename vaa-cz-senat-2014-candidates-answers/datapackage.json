@@ -77,7 +77,17 @@
                     "name": "order",
                     "type": "integer",
                     "description": "order of the question in the VAA"
-                }
+                },
+                {
+                    "name": "motion:name:en",
+                    "type": "string",
+                    "description": "name of the question in English"
+                },
+                {
+                    "name": "motion:text:en",
+                    "type": "string",
+                    "description": "question text in English"
+                
             ],
             "primaryKey": "id"
         }
