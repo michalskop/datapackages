@@ -1,0 +1,161 @@
+{
+"name": "vaa-cz-senat-2012-candidates-answers",
+"description": "Candidates' answers to VolebniKalkulacka.cz's (VAA) questions, Czech senate elections 2012",
+"resources": [
+    {
+        "name": "voters",
+        "path":"data/voters.csv",
+        "description": "Candidates' answers",
+        "schema": {
+            "fields": [
+                {
+                    "name": "id",
+                    "type": "integer",
+                    "description": "candidate's id"
+                },
+                {
+                    "name": "name",
+                    "type": "string",
+                    "description": "candidate's name"
+                },
+                {
+                    "name": "given_name",
+                    "type": "string",
+                    "description": "candidate's given name"
+                },
+                {
+                    "name": "family_name",
+                    "type": "string",
+                    "description": "candidate's family name"
+                },
+                {
+                    "name": "group_id",
+                    "type": "string",
+                    "description": "party's id"
+                },
+                {
+                    "name": "constituency_id",
+                    "type": "integer",
+                    "description": "candidate's constituency id"
+                },
+                {
+                    "name": "votes",
+                    "type": "string",
+                    "description": "indicator whether the candidate answered to the VAA questions"
+                }
+            ],
+            "primaryKey": "id"
+        }
+    },
+    {
+        "name": "vote_events",
+        "path":"data/vote_events.csv",
+        "description": "Questions of the VAA",
+        "schema": {
+            "fields": [
+                {
+                    "name": "id",
+                    "type": "integer",
+                    "description": "questions's id"
+                },
+                {
+                    "name": "motion:name",
+                    "type": "string",
+                    "description": "name of the question"
+                },
+                {
+                    "name": "motion:text",
+                    "type": "string",
+                    "description": "question text"
+                },
+                {
+                    "name": "motion:description",
+                    "type": "string",
+                    "description": "description of the question"
+                },
+                {
+                    "name": "order",
+                    "type": "integer",
+                    "description": "order of the question in the VAA"
+                }
+            ],
+            "primaryKey": "id"
+        }
+    },
+    {
+        "name": "votes",
+        "path":"data/votes.csv",
+        "description": "Candidates' answers to VAA's questions",
+        "schema": {
+            "fields": [
+                {
+                    "name": "vote_event_id",
+                    "type": "integer",
+                    "description": "questions's id"
+                },
+                {
+                    "name": "voter_id",
+                    "type": "integer",
+                    "description": "candidate's id"
+                },
+                {
+                    "name": "option",
+                    "type": "string",
+                    "description": "candidate's answer"
+                },
+                {
+                    "name": "explanation",
+                    "type": "string",
+                    "description": "candidate's explanation of the answer"
+                }
+            ],
+            "primaryKey": ["vote_event_id","voter_id"]
+        }
+    },
+    {
+        "name": "groups",
+        "path":"data/groups.csv",
+        "description": "Parties",
+        "schema": {
+            "fields": [
+                {
+                    "name": "id",
+                    "type": "string",
+                    "description": "parties' id"
+                },
+                {
+                    "name": "abbreviation",
+                    "type": "string",
+                    "description": "party's abbreviation"
+                },
+                {
+                    "name": "name",
+                    "type": "string",
+                    "description": "party's name"
+                }
+            ],
+            "primaryKey": ["id"]
+        }
+    },
+    {
+        "name": "constituencies",
+        "path":"data/constituencies.csv",
+        "description": "Constituencies",
+        "schema": {
+            "fields": [
+                {
+                    "name": "id",
+                    "type": "integer",
+                    "description": "constituency's id"
+                },
+                {
+                    "name": "name",
+                    "type": "string",
+                    "description": "constituency's name"
+                }
+            ],
+            "primaryKey": ["id"]
+        }
+    }                     
+]
+}
