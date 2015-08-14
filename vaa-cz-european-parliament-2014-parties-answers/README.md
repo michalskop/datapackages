@@ -1,0 +1,1 @@
+# Parties' answers to VolebniKalkulacka.cz's (VAA) questions, European elections 2014 in the Czech Republic
