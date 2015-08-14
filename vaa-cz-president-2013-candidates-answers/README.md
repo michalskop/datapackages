@@ -1,0 +1,1 @@
+# Candidates' answers to VolebniKalkulacka.cz's (VAA) questions, Presidential elections 2013 in the Czech Republic
