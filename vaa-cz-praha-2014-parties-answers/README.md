@@ -1,0 +1,1 @@
+# Parties' answers to VolebniKalkulacka.cz's (VAA) questions, Czech municipal elections 2014 in Praha

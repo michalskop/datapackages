@@ -1,0 +1,339 @@
+vote_event_id,voter_id,option,explanation
+1,10,abstain,"Je to dobrá myšlenka, ale máme pochybnosti, jestli by v tuzemsku fungovala. Mentalita místních je prostě jiná, než např. v Nizozemí."
+10,10,yes,"Rozhodně ANO, a na CELÉM svém území, a to včetně tzv. ""kasín"". Provozování hazardních her mezi slušné lidi nepatří a je třeba jej vykázat za hranice města!"
+11,10,no,"Profesionální sport je dnes soukromou a ryze komerční záležitostí. Jak by k tomu přišli takoví daňoví poplatníci, kteří se třeba o fotbal nezajímají? Něco jiného by bylo podpořit např. opravu zimního stadionu, jenž by sloužil i k veřejnému bruslení."
+12,10,yes,"Ano, protože schovávat svoje stanovisko za rozhodnutí nějakého orgánu je zbabělost."
+13,10,yes,Městští zastupitelé hospodaří s veřejnými prostředky daňových poplatníků. Jakékoliv utajování je nepřípustné. Včera bylo pozdě.
+14,10,abstain,"U přístupových cest a kanalizací ANO, ale u MHD nikoliv. V otázce jsou smíchána ""jablka s hruškami""."
+15,10,abstain,V současné chvíli nemáme na tuto otázku vyhraněný názor. Snad po bližším prostudování problematiky.
+16,10,yes,"Každou příležitost ke smysluplné úspoře je třeba využít. Proč platit velkým nadnárodním korporacím, když se dá pořídit prakticky totéž zadarmo?"
+17,10,no,"Provozovat LK je třeba v rámci soukromého sektoru, protože pro fungování města není tato aktivita nezbytná. Pokud jej soukromník neshledá rentabilním, těžko bude LK bezestrátově provozovat město. Veřejné investice do takovéto aktivity je v dnešní době nadměrným luxusem. Pokud se však občané v referendu rozhodnou jinak, podřídíme se."
+18,10,yes,"Tento princip je v souladu s principy PŘÍMÉ DEMOKRACIE, kteréžto jsme rovněž zastánci i my, Republikáni."
+19,10,yes,"Ano, jsme přesvědčeni, že tato stavba bude dobře sloužit veřejnosti a stávající lokalita je na tradičním, výhodném a dopravně dostupném místě."
+2,10,yes,Tohle už mělo být dávno samozřejmé.
+20,10,no,"Rozhodně ne, tato stavba je svou architekturou i zaměřením vhodná spíše na Blízký/Střední Východ, než do historického jádra Olomouce. V Denisově ulici by působila jako ""pěst na oko""."
+21,10,yes,"Ano, toto je dlouhodobý bod našeho programu. Z vděčnosti a poděkování bratrskému národu Srbů za jeho postoje v kritických obdobích historie naší země, a alespoň k částečnému odčinění našeho podílu na tzv. ""humanitárním bombardování"" Jugoslávie na jaře 1999."
+22,10,abstain,V současné chvíli nemáme na tuto otázku vyhraněný názor. Snad po bližším prostudování problematiky. Stejně jako v otázce festivalu AFO. Předběžně s nějakou formou investice ale souhlasíme.
+23,10,no,"Ne, tato poměrně komplikovaná křižovatka nemůže zůstat během všedních DNŮ, v době zvýšené frekvence dopravy, neřízená. Přínos z trvalého vypnutí by byl podstatně menší, než případné škody."
+24,10,yes,"Ano, a doufáme, že jednou se centra velkých měst stanou opět doménou klidu, zdraví a pohody. Přístupná pouze veřejnou dopravou, elektromobily či vozidly na tzv. hybridní pohon."
+25,10,yes,"Spíše ano, ale nutnost či rentabilitu tzv. nočních linek by bylo vhodné periodicky posuzovat případ od případu."
+26,10,yes,"Krajské město velikosti Olomouce, a s aspirací na hlavní město (centrum) Moravy v budoucím zemském zřízení státu, by mělo mít alespoň malé, výhodně umístěné letiště. Domníváme se, že letiště v Neředíně tato kritéria splňuje."
+3,10,yes,"Ano, ale především na sídlištích a periferiích v tzv. záchytných parkovištích. Rozhodně NE v centru města."
+4,10,yes,"Tramvajová linka č.3 v současné podobě, je zprasený projekt. Pokud má mít alespoň trochu smysl (mimo přepravu cestujících na ŠANTOVKU), musí být rozšířena. Nejlepší řešení by bylo konečné propojení s trasou linky č.1,4. Provoz a výstavbu samozřejmě ne na úkor jiných oblastí, typicky např. Starých Hodolan."
+5,10,no,Tady už asi nelze více zkazit a bohužel městská hvězdárna Slavonín už byla dávno zrušena.
+6,10,yes,"Ano, ale nejsme z koncepce ""velkého bratra"" bůhvíjak nadšeni. Rozhodně by alespoň v obytných čtvrtích byla snesitelnější tabulková kampaň na plotech či fasásách s nápisy typu:  ""POZOR, SOUSED SE DÍVÁ!"""
+7,10,yes,Poškozovat takto unikátní historické centrum města je pro nás nepřípustné.
+8,10,yes,"Nejenom z centra, a jsme v této otázce již od roku 1990 pro znovuzavedení institutu tzv. ""domovského práva""."
+9,10,yes,"Postupně ANO, zároveň se souběžným omezováním automobilové dopravy do centra města."
+1,12,no,"Nejedná se o veřejné statky, ale o běžnou komerční službu."
+10,12,no,"Už současná místní vyhláška omezuje hazard na cca 50 adres ve městě, nepřekáží tedy v historickém centru apod. Úplný zákaz by znamenal ztrátu 5 % příjmů (100 milionů Kč ročně) pro městský rozpočet, podle zkušeností ze zahraničí (USA) i ČR (Litvínov a další) by vedl k přesunu hráčských aktivit do ilegality (nelegální herny, soukromé kluby, internetové sázení), která zase vede ke korupci (podplácení úředníků, strážníků, policistů). Po úplném zákazu jiných podobně škodlivých aktivit nikdo nevolá (zavírání restaurací s alkoholickými nápoji, zakázání spotřebitelských úvěrů, které mohou vést k exekucím a osobním bankrotům atd.)"
+11,12,no,"Profesionální sport je podnikání jako každé jiné, které by nemělo být dotováno z veřejných rozpočtů. Poukazuje na to také Ministerstvo pro místní rozvoj a Evropská unie a některá města už to začínají respektovat."
+12,12,yes,
+13,12,yes,
+14,12,no,"O veřejné statky se má primárně starat město, developer řeší inženýrské sítě, parkovací stání, zeleň apod. na svých pozemcích. Je možno uvažovat spoluúčast investora a města na veřejných statcích namísto systému pobídek a dotací."
+15,12,no,
+16,12,abstain,"Otevřený a tzv. bezplatný software (což je velmi zavádějící název) může přinést úsporu na licenčních poplatcích, ale i s jeho pořízením a provozem jsou spojené náklady. Je třeba vzít v úvahu také na napojení na stávající informační systémy a kompatibilitu komunikace veřejné správy s občany."
+17,12,no,"Ne, pokud je o letní kino opravdu zájem (čemuž zatím nic nenasvědčuje), může jej provozovat soukromý subjekt."
+18,12,yes,"Se v současnosti platným zákonem o obcích zřejmě nelze realizovat, obec může dělat jen to, co jí zákon výslovně ukládá a dovoluje. Možnost participace občanů by ovšem mohla zvýšit tolik potřebný aktivismus, zajímání se o dění ve vlastní obci, kontrolu politiky a politiků."
+19,12,yes,"Výstavba nového stadionu z veřejných peněz není reálná, město jako vlastník je přitom povinno starat se o údržbu svého majetku. Přikláněli bychom se ovšem spíše k prodeji stadionu."
+2,12,yes,"Ano, ale některé netransparentní účty budou muset být zachovány s ohledem na ochranu osobních údajů, např. účty pro mzdy zaměstnanců města nebo placení poplatků a sankcí občany."
+20,12,no,
+21,12,no,"Lepší variantou by bylo občanské sdružení, které by se o památku staralo. Město a ideálně také kraj a stát (např. ministerstvo obrany AČR) by mohlo finančně přispět na opravy."
+22,12,no,"Ne, Botanická zahrada patří Univerzitě Palackého. Ta může např. provést opravu a vybírat vstupné."
+23,12,yes,"Jak provedená dopravní studie při zkušebním vypnutí, tak zkušenosti řidičů, chodců, řidičů MHD ukazují, že zapnutý semafor v tomto místě brání plynulosti dopravy a vede ke zbytečným kolonám."
+24,12,no,"Zkušenosti z Německa, Velké Británie a dalších zemí ukazují, že očekávaný kladný vliv na kvalitu ovzduší se nedostavuje, nebo je dokonce záporný (Londýn). Navíc na autobusy MHD, vozy zásobování atd. se omezení ani nevztahuje. Na omezení přitom nejvíce doplatí nízkopříjmové skupiny obyvatel, tedy důchodci, dělníci, studenti..."
+25,12,no,"To může dělat soukromý dopravce, pokud mu město nebude klást překážky."
+26,12,no,"Olomoucké letiště vzhledem ke svým parametrům neumožňuje nákladní ani osobní dopravu, která by měla pro město komerční efekt, pro město tak nemá v současnosti strategický význam. Letiště slouží zejména profesionálním sportovním letcům, o zachování letiště by se tak měl starat především provozovatel."
+3,12,yes,
+4,12,yes,"Ano z toho důvodu, že v současné podobě neplní svůj účel, teprve dalším rozšířením získá smysl. Investice by ale neměla mít přednost před vyrovnaným rozpočtem, ten je pro zadlužené město důležitější, rozšíření tramvajové trati by mohlo počkat."
+5,12,yes,"Ano, jedná se o veřejný statek a jeho kvalitu, která má vliv na životní prostředí a zdraví lidí i zvířat."
+6,12,no,"Kamer je už nyní ve městě mnoho, souvislost mezi dalším zvyšováním jejich počtu a bezpečností je navíc sporná, jedná se přitom o jistý zásah do soukromí."
+7,12,abstain,"Moderní budovy do města dle našeho názoru patří, ale skloubení výškových budov s historickým centrem s unikátním panoramatem, jaké nabízí Olomouc, je kontroverzní a měla by mu vždy předcházet debata odborné i laické veřejnosti."
+8,12,no,"Jedná se jen o přesouvání problému jinam a nebezpečný precedens. Po bezdomovcích se mohou objevit další ""nežádoucí skupiny"" občanů, které bude chtít někdo omezovat."
+9,12,no,S rozpočtem a zadlužením Olomouce to ani není reálné (bude problém udržet i současné 60% dotování a nezdražovat jízdné).
+1,9,no,"Mělo by poskytnout podmínky (bezpečnost, úschovny apod.) pro provoz této aktivity. Tedy nepřímou podporu."
+10,9,yes,V našem programu máme postupné omezení počtu hracích automatů v průběhu 4 let o 90%.
+11,9,yes,Pokud o tom obyvatelé rozhodnou v referendu. Naší prioritou je podporovat neprofesionální sportovní a volnočasové aktivity mládeže a seniorů.
+12,9,yes,
+13,9,yes,
+14,9,yes,"Obecně ANO. V lokalitách, kde chce město podpořit rozvoj bydlení, popřípadě vznik zaměstnaneckých míst, připouštíme transparentní a přiměřenou podporu."
+15,9,yes,
+16,9,no,"Zkušenosti z Mnichova ukazují, že to nakonec tak bezplatné nebylo. V tomto případě by nad proklamací měl zvítězit zdravý rozum (zbytek světa tuto cestu zatím neakceptuje)."
+17,9,yes,"Projekt je však potřebné rozdělit do etap. V následujícím volebním období, s ohledem na finanční náročnost, realizovat propojení ulice Komenského s Václavským náměstím, popřípadě výstupní a nástupní terminálem pro zájezdní autobusy. Dokončení obnovy Letního kina město může realizovat později, pokud se ukáže, kapacita areálu Korunní pevnůstky pro Olomouc není dostatečná."
+18,9,yes,Máme participativní rozpočtování ve volebním programu.
+19,9,yes,Vzhledem k současným ekonomickým možnostem města.
+2,9,yes,"Nejen bankovní účty, ale celá správa města by měla být co nejvíce transparentní (smlouvy, audity, aktuální a podrobné informace obzvláště o činnosti odborů samosprávy apod.)."
+20,9,yes,
+21,9,yes,"Rozhodně ano, současný stav je ostudný."
+22,9,yes,"Ale ve skromnějším řešení a levnějším řešení, než jaké město připravilo pro probíhající výběrové řízení na dodavatele stavby."
+23,9,abstain,"Před-nádraží funguje špatně. Současné stavební řešení není pro provoz bez světel uzpůsobené, je nepřehledné. Máme na výběr mezi plynulostí dopravy a bezpečím chodců. Domníváme se, že přes ohromné vynaložené náklady bude v budoucnosti potřeba před-nádraží upravit."
+24,9,no,"Olomoucké centrum je tak malé, že omezení emisí v samotném centru bude mít mizivý vliv. Pokud by nízkoemisní zóna zasahovala od centra tak ‘daleko’ jako je např. Dobrovského, zkolabuje v Olomouci doprava."
+25,9,yes,"Současný stav je pro město velikosti a charakteru Olomouce (univerzitní město) neudržitelný. Neposkytuje uživatelům komfort přiměřený době, ve které žijeme. V případě ztrátovosti je nutné cenu dotovat, popřípadě zvažovat minibusy nebo jiné méně kapacitní dopravní prostředky."
+26,9,yes,"Pokud se podaří městu odkoupit pozemky (velká část letiště leží na pronajatých pozemcích), řešením v budoucnu může být i letiště jinde."
+3,9,yes,"V centru formou parkovacích domů, v okrajových částech na sídlištích kombinací parkovacích domů a lepší organizací veřejného prostoru."
+4,9,no,"Do budoucna ano, ale v následujícím volebním období necítíme jako prioritu a nutnost pokračovat. Potřebnější je dle našeho názoru tramvaj a lepší dostupnost MHD do Fakultní nemocnice."
+5,9,yes,"To je ideální stav. Problém světelného znečištění města je reálný, ale v následujícím volebním období není pro nás prioritou z důvodu finančních nákladů. Výměna svítidel za vhodnější typy je pro nás otázka spíš ekonomická, než otázka koncepčního rozvoje města."
+6,9,no,"Stávající systém je dostatečný. Daleko důležitější je přítomnost v ulicích, autorita a v odůvodněných případech rozhodné konání městské policie."
+7,9,yes,"Město by mělo znovu posoudit dovolené výškové hladiny zástavby ve spolupráci s památkovou péčí a návrhy a odůvodnění podrobit veřejné diskuzi, včetně osvěty problému výškových staveb ve vazbě na památkovou hodnotu historického centra."
+8,9,no,"Nepohodlné lidi vytlačují nebo i likvidují autoritářské režimy, ne demokratická a i z křesťanských kořenů vyrostlá samospráva. Sociální politikou chceme hlavně přispět k tomu, aby lidé domov neztráceli. Budeme podporovat azylové domy a terénní služby pro lidi bez domova. A konečně chceme městskou polici s takovou autoritou, která nedovolí obtěžování a veřejné pohoršení."
+9,9,no,"V programu máme MHD pro seniory 70+ zdarma, takže pro tuto věkovou skupinu ANO. Budeme také sledovat, jak funguje MHD zdarma v městech, která to zavádí a pokud se systém osvědčí, v budoucnu ho podpoříme."
+1,7,yes,"Nemyslíme si, že by bikesharing mělo zajišťovat přímo město. Podporujeme ale, aby město na podobný projekt přispělo v rámci grantů."
+10,7,no,"Jsme pro další postupnou redukci počtu heren, máme ale zato, že plošný zákaz není funkční řešení."
+11,7,yes,"Ano, pokud to budou dělat i jiná města. Nechceme ""diskriminovat"" naše prvoligové týmy oproti jiným. Důraz ovšem klademe na podporu práce s mládeží jako nejefektivnější formu prevence kriminality a zneužívání drog."
+12,7,yes,"Pokud je o takové informace zájem, nevidíme problém s jejich zveřejněním."
+13,7,abstain,"Preferujeme systémové, zákonem dané řešení, které nastaví jasná a stejná pravidla pro všechny úrovně samosprávy."
+14,7,abstain,"Nelze odpovědět univerzálně. U velkých developerských projektů (de-facto nových čtvrtí) ano, u individuálních staveb (např. rodinné domky budované svépomocí) ne."
+15,7,yes,
+16,7,no,"Alespoň ne takto univerzálně. Systémy na klientských počítačích vyžadují komunikaci s agendami, spisovou službu a pod., které často vyžadují konkrétní softwarové vybavení i na lokálních stanicích."
+17,7,yes,Podpoříme rozvoj cestovního ruchu propojením areálu kolem dómu s parky pod ním. Turisticky nejatraktivnější místo Olomouce musí naplno využít svůj potenciál. Opravíme letní kino a umožníme jeho důstojné využití pro kulturní akce pod širým nebem.
+18,7,no,"Podporujeme ale, aby o částech rozpočtu například na opravy chodníků nebo komunikací rozhodovaly komise městských částí (KMČ)."
+19,7,yes,
+2,7,no,"Máme zato, že to není efektivní způsob veřejné kontroly.Většina údajů by beztak musela být anonymizována a znepřístupněna. Cesta podle nás vede přes on-line informace o stavu rozpočtu - rozklikávací rozpočet."
+20,7,yes,
+21,7,yes,
+22,7,yes,
+23,7,abstain,"Je to odborná, nikoliv politická otázka. Navíc nemáme jistotu, že mezi stávajícím signálním režimem a úplným vypnutím není prostor pro smysluplnou úpravu."
+24,7,no,"Centrum města je pěší zónou, máme zato, že jde o dostatečnou regulaci. Budeme prosazovat, aby pravidla „pěší zóny“ byla dodržována a důsledně kontrolována."
+25,7,yes,
+26,7,yes,
+3,7,yes,Zvláštní pozornost si zaslouží zvýšení počtu parkovacích míst na sídlištích.
+4,7,yes,"Zasadíme se o dokončení nové tramvajové trati. Tramvaj nesmí končit, aniž by obsloužila velká sídliště. Dovedeme ji na Povel a zahájíme přípravu na její protažení až do Slavonína."
+5,7,no,"Jde ale možná o výklad otázky. V případě našeho historického města podporujeme např. nasvícení památek, což je typický příklad světelného smogu. Na druhé straně pokládáme za rozumné postupně investovat do energeticky úsporných zdrojů pouličního osvětlení, což ale primárně souvisí s úsporou provozních nákladů a nikoliv se světelných smogem."
+6,7,yes,
+7,7,abstain,"Na tuto otázku nejsme schopni dát univerzální odpověď. ""V blízkosti historického centra"" je navíc nejednoznačný termín. Máme zato, že podobnou výstavbu je potřeba posuzovat individuálně. Proto znovu otevřeme diskuzi na téma plošného omezení výškových budov, které nově zavádí územní plán."
+8,7,yes,"Nemělo by se však jednat o čistě represivní kroky, jak formulace ""aktivně vytlačovat"" implikuje. Důležitým krokem je sociální práce a s tím související přemístění služeb pro bezdomovce (Charity) mimo centrum."
+9,7,no,MHD ale musí zůstat široce cenově dostupná.
+1,6,yes,"Město by mělo bikesharing provozovat samo, ideálně se zapojením komerčního subjektu, jako je tomu v jiných metropolích (např. Paříž, Londýn, Kodaň apod.)"
+10,6,yes,Vyvolali jsme v Olomouci místní referendum o zákazu hazardu.
+11,6,yes,"Ale ve velmi omezené míře a na konkrétní projekty, tj. transparentně. K podpoře by mělo docházet tak, aby z ní měla co největší prospěch veřejnost (např. v podobě profesionální práce s mládeží)."
+12,6,yes,
+13,6,yes,"Nejen město, ale i jeho společnosti, jako je Dopravní podnik města Olomouce, Technické služby města Olomouce, Lesy města Olomouce, Aquapark apod."
+14,6,yes,U komerčních staveb ano.
+15,6,yes,
+16,6,yes,Nahrazení svobodného softwaru například na základních školách může dlouhodobě ušetřit nemalé prostředky za licenční poplatky. Podmínka svobodného softwaru pro vlastní IT systémy úřadu pak přinese další úspory z omezení závislosti na jediném dodavateli (vendor lock-in).
+17,6,yes,"V úsporné variantě v rámci rekultivace celého prostoru, a to vstřícně vůči obyvatelům města i cizincům (turistům), včetně propojení s parkem na Nábřeží Přemyslovců."
+18,6,yes,
+19,6,yes,
+2,6,yes,"A nejen bankovní účty města, ale i jeho akciových společností a příspěvkových organizací."
+20,6,yes,Za podmínky otevřené architektonické soutěže na podobu SEFO.
+21,6,yes,
+22,6,yes,
+23,6,abstain,"Prostor před hlavním nádražím obecně není moc šťastně řešený. Pokud by se ukázalo, že lze dopravní situaci vylepšit drobnými úpravami tak, aby celá lokalita byla přívětivější pro všechny účastníky, takové řešení bychom podpořili."
+24,6,abstain,
+25,6,yes,"Frekvence nočních spojů by měla být vyšší než nyní, přiližně každou hodinu."
+26,6,yes,
+3,6,yes,Především podporujeme vznik parkovacích domů na sídlištích.
+4,6,yes,
+5,6,yes,Preferujeme takto uvažovat při opravách a rekonstrukcích stávajícího osvětlení.
+6,6,no,Kamery mají zanedbatelný preventivní účinek.
+7,6,yes,"Město není tím, kdo povoluje jakoukoliv výstavbu - tato činnost spadá do kompetence státní správy (stavebního úřadu). Nicméně město má nástroje, jak takovou výstavbu regulovat či omezovat, a to především prostřednictvím územního plánu. Jsme tedy pro, aby město prostředky, které má k dispozici, neumožňovalo výstavbu výškových budov v blízkosti historického centra, neboť dle našeho názoru takové budovy mohou nenávratně poškodit panarama Olomouce."
+8,6,no,"Mělo by spíše klást důraz na terénní práci a předcházet sociálnímu vyloučení svou politikou, např. v oblasti dostupného bydlení."
+9,6,abstain,"V některých městech (např. Frýdek-Místek) bezplatná MHD funguje (i když slovo ""bezplatná"" je trochu nadsázkou, i v tomto případě uživatelé platí alespoň minimální roční poplatek). Budeme chtít pověřit, zda je bezplatnou MHD možné realizovat i v Olomouci. Ideově jsme pro bezplatnou MHD, je ale třeba mít jistotu ekonomické udržitelnosti."
+1,14,abstain,
+10,14,abstain,
+11,14,yes,
+12,14,yes,
+13,14,yes,
+14,14,abstain,
+15,14,abstain,
+16,14,yes,
+17,14,abstain,
+18,14,yes,
+19,14,yes,
+2,14,yes,
+20,14,no,
+21,14,yes,
+22,14,abstain,
+23,14,no,
+24,14,no,
+25,14,yes,
+26,14,yes,
+3,14,yes,
+4,14,yes,
+5,14,no,
+6,14,yes,
+7,14,yes,
+8,14,yes,
+9,14,no,
+1,4,no,"Mělo by však být k dispozici více uzamykatelných stojanů, případně úschoven."
+10,4,no,"Mělo by se snažit je omezit a vytlačit z centra. Je nutné také propočítat případné finanční ztráty pro města a obce. Průměrný automat má měsíční výnos cca 40 000,- Kč, 20% z této částky získává stát a následně 80% vrací městům a obcím. Navíc města získávají z každého místa u automatu měsíčně fixní částku cca 1850,-Kč ( u rulety ja takových míst přirozeně více). Finanční přínos pro město je tedy značný."
+11,4,yes,"Mělo by jít zejména o prostředky na provoz sportovních zařízení - zimního a fotbalového stadionu, haly UP, sportovních areálů - nikoliv na nákup hráčů a organizaci soutěží. To je záležitostí sponzorů a sportovních svazů."
+12,4,no,Za rozhodující považujeme výsledky hlasování Zastupitelstva. Zde bychom výsledky uvítali.
+13,4,no,
+14,4,yes,"U komerčních staveb typu nákupních center rozhodně, u bytové výstavby či rozvojových lokalit by mohlo být financování společné."
+15,4,yes,
+16,4,no,"Statutární město Olomouc by mělo používat zabezpečený software, který je kompatibilní s krajským úřadem, finančním úřadem, ministerstvy a dalšími institucemi."
+17,4,yes,
+18,4,no,"V řadě případů se to v podstatě již děje, když o grantových prostředcích např. v oblasti sportu a volnočasových aktivit rozhodují vedle zástupců správy a samosprávy také členové sportovních oddílů a společenských organizací. Také Komise místních částí rozhodují o využití přidělených finančních prostředků (v průměru 300 000,-Kč) samostatně."
+19,4,yes,Optimální by podle našeho názoru byla přeměna v multifunkční halu umožňující celoroční využití s možností pořádání také kulturních a společenských akcí.
+2,4,no,"Rámcové výsledky hospodaření by měly být pravidelnou přílohou Radničních listů, v případě ochybností se lze obrátit na členy finančního, nebo kontrolního výboru.Hospodaření města je auditováno."
+20,4,no,"Architektonická představa byla značně modernistická, která se podle našeho názoru do historického jádra města a sousedství barokního chrámu nehodí. Navíc město bylo ochotno stavbu podpořit nevýhodnou směnou majetku a ztrátou Edelmanova paláce."
+21,4,yes,"Jde o připomenutí významné historické události, památník je nemovitou kulturní památkou ve stylu monumentálního neoklasicismu. Měly by se finančně podílet i jednotlivé státy bývalé Jugoslavie, především Srbsko a Slovinsko."
+22,4,yes,A také do opravy Rozária!
+23,4,no,
+24,4,no,
+25,4,no,
+26,4,yes,Optimální je součinnost s Hanáckým aeroklubem.
+3,4,no,
+4,4,no,"Z našeho pohledu je využívání tramvajové dopravy na Nové Sady celkem malé a vybudování nové tramvajové linky zatím nevyvážilo devastaci zeleně kolem řeky Moravy a dopravní zmatky na Velkomoravské ulici.Protože tramvajová linka končí v bytové zástavbě, je těžké predikovat technické možnosti propojení s městskou částí Povel, případně Novou ulicí."
+5,4,abstain,
+6,4,no,
+7,4,yes,Město by si mělo důsledně chránit druhou nejstarší městskou památkovou rezervaci.
+8,4,no,"V centru jich je minimálně, spíše se sdružují u nákupních center na periferii města."
+9,4,no,"Výše jízdného by měla být stanovena tak, aby pro rodinu nebylo výhodnější přemisťovat se autem."
+1,2,yes,
+10,2,no,"Jsme pro regulaci hazardu. Úplný zákaz hazardu nepodporujeme, nechceme, aby výnosy z nelegálního hazardu putovaly mimo rozpočet města."
+11,2,yes,Určitě souhlasíme i s podporou neprofesionálních sportovních týmů. Podpora profesionálních sportovních týmů pouze v souladu s principy povolené veřejné podpory.
+12,2,abstain,Nemáme jednotný názor.
+13,2,abstain,"V legislativním procesu je návrh zákona, který tuto oblast upraví. Před přijetím zákona nemáme problém zveřejňovat smlouvy, pokud s tím bude druhá strana souhlasit."
+14,2,yes,"Možná by bylo vhodné, kdyby se tazatelé seznámili s tím, že se tak už v Olomouci děje mnoho let."
+15,2,yes,
+16,2,abstain,
+17,2,yes,Projekt ale nesmí být megalomanský. Při současných finančních možnostech města to bude asi nutné rozložit na etapy.
+18,2,yes,
+19,2,yes,"Pokud by ovšem nějaký soukromý subjekt z prostředků mimo rozpočet města navrhl výstavbu nového zimního stadionu, nebudeme  záměru bránit."
+2,2,abstain,
+20,2,yes,Finanční podporu však nelze v žádném případě přislíbit.
+21,2,yes,S maximálním využitím evropských fondů.
+22,2,yes,
+23,2,abstain,Bez konzultace se státní správou nelze na tuto otázku zodpovědně odpovědět.
+24,2,abstain,
+25,2,yes,
+26,2,yes,
+3,2,yes,
+4,2,yes,
+5,2,abstain,
+6,2,yes,
+7,2,abstain,"Samospráva svou vůli vyjádřila schválením nového územního plánu. Tam je dána výšková regulace. Státní správa se územním plánem , pokud se nezmění, musí řídit. Takže se dnes ptát, zda by město nemělo povolovat výstavbu výškových budov, je nesmysl. Názorově není ČSSD v otázce výškových budov v blízkosti historického centra jednotná. Ale to jsou v této chvíli jen postoje. Platí územní plán."
+8,2,abstain,"V tomto směru nemáme jednotný názor. Každé řešení má problémy, určitě rádi převezmeme zkušenosti z jiných měst, které jsou využitelné pro naše město."
+9,2,no,"Bezplatná MHD je ideál, který ale se současným rozpočtovým určením daní pro naše město nelze naplnit."
+1,13,yes,"Iniciovali jsme podporu tohoto projektu, který tak v letošním roce obdržel finanční příspěvek. V podpoře bychom chtěli pokračovat i v příštím volebním období."
+10,13,no,"Již v roce 2012 předložila TOP 09 radě města návrh výrazné redukce hazardu ze 107 povolených heren na 33, nakonec se nám však podařilo prosadit snížení na 57.  Jsme připraveni k dalšímu snižování až na nejmenší možný počet.  Naším cílem bylo a je herny vytlačit především z historického centra města, z blízkosti škol a hlavních pěších tras. Úplný zákaz hazardu však nepodporujme, vedl by ke vzniku černých heren, a měl by také značný finanční dopad na rozpočet města."
+11,13,yes,"Podporu je třeba poskytovat tak, aby se nejednalo o nedovolenou podporu podle pravudel EU. Většina prostředků by měla mířit na práci s mládeží."
+12,13,abstain,"Tyto komise mohou pracovat s osobními údaji a proto se domníváme, že by mohlo dojít ke konfliktu se zákonem o ochraně osobních údajů."
+13,13,yes,
+14,13,yes,Při realizaci investičních akcí musí developeři tyto náklady nést již nyní.
+15,13,yes,
+16,13,no,
+17,13,yes,"Důležitost investice do Olomouckého hradu nezpochybňujeme, považujeme ji za potřebnou. Musí to být však levnější varianta. Původní návrh, který jsme nepodpořili, počítal s investicí asi 100 mil Kč, čehož by polovina šla s městské pokladny. Umíme si představit levnější variantu za cca 20-30 mil Kč, která by představovala zprůchodnění Cikánské branky do letního kina a přes farskou zahradu na dómské návrší."
+18,13,yes,"Bude však nutné vybrat konkrétní vhodné kapitoly rozpočtu. Již dnes mohou občané prostřednictvím Komisí městských částí rozhodovat o rozpočtech na menší opravy (např. chodníků, komunikací, osvětlení) v konkrétních lokalitách."
+19,13,yes,"Je třeba opustit finančně nereálný projekt multifunkční haly a neopakovat tak chybu jako při výstavbě Aquaparku. Bude nutné připravit projekt postupných oprav, modernizace a zateplení haly, případně zprovoznění malé haly pro mládež a veřejnost. Problémem nadále zůstávají komplikované majetkoprávní vztahy k okolním pozemkům včetně malé haly a strojovny, které městu nepatří."
+2,13,no,"TOP 09 prosadila zavedení „rozklikávacího“ rozpočtu na webových stránkách města, kde jsou zveřejněny informace až na úroveň všech jednotlivých položek rozpočtu. Zjistíte tam například kolik jednotlivé odbory utratili za knihy, cestovné či pohoštění. Smlouvy a výběrová řízení jsou, v souladu se zákonem, zveřejňovány na portálu veřejné správy. Domníváme se, že zveřejnění účtu je v rozporu se zákonem na ochranu osobních údajů. Bylo by možné jmenovitě zjistit, kolik kdo zaplatil za pokuty, poplatky a dokonce i mzdy zaměstnanců."
+20,13,yes,Tento projekt je předběžně navržen mezi významné projekty tzv. Olomoucké aglomerace (ITI).
+21,13,yes,"Město učinilo patřičné kroky k převedení mauzolea do svého vlastnictví. Předpokládáme, že po nabytí do majetku bude zahájena rekonstrukce, projekt oprav je již připraven."
+22,13,yes,Projekt obnovy Rozária bude zahájen v příštím roce.
+23,13,no,"Vypnutí je nebezpečné zejména pro přecházející děti, které navštěvují dvě blízké základní školy."
+24,13,no,Mnohem závažnějším problémem je zvýšený výskyt polétavého prachu. Budeme pokračovat v omezování nákladní dopravy ve městě.
+25,13,yes,"Město provozuje noční linky v současnosti i přesto, že jejich provoz je neekonomický."
+26,13,yes,Je však potřeba nadále snižovat provozní náklady spojené s nájmem pozemků.
+3,13,yes,"V končícím volebním období se zvýšil počet parkovacích míst ve městě téměř o 500. Stále však jsou potřeba nová parkovací místa, a to jak v centru, tak i na sídlištích. Jsou rozpracovány projekty pro další budování parkovacích míst, například na Werichově ulici, Terrerově náměstí, Na Letné, Na Tabulovém vrchu."
+4,13,yes,"Budeme usilovat o prodloužení tramvajové tratě přes ulici Zikovu do ulice Schweitzerovy. Problémem však doposud jsou nevyřešené majetkoprávní vztahy, které tuto investici zatím blokují."
+5,13,abstain,"Zvážíme zadání studie, která posoudí nákladnost případné výměny na jedné straně a reálné dopady na straně druhé."
+6,13,yes,Kamerový systém se průběžně rozšiřuje.
+7,13,yes,"Dne 15. září jsme na jednání zastupitelstva podpořili nový územní plán, díky kterému je výstavba výškových budov nemožná."
+8,13,yes,"Budeme usilovat o přemístění nízkoprahového centra z Wurmovy ulice. Budeme dbát o to, aby Městská policie aktivně postihovala konzumaci alkoholu na veřejnosti a znečišťování veřejných prostranství."
+9,13,no,"Jako řádný hospodář nemůžeme připustit úplné zrušení jízdného, které by znamenalo výpadek pro městkou pokladnu asi 140 milionů Kč. Olomouc má navíc nejnižší jízdné z velikostně srovnatelných měst. Se zdražováním jízdného za současné situace nepočítáme."
+1,1,yes,"Souhlas, chvályhodná činnost: za málo peněz hodně muziky .Pravidla pro příspěvky: jasná, jednoduchá, motivační pro provozovatelé."
+10,1,no,"Úplný zákaz ne! Lidskou neřest a slabost zákazem nevymýtíme. Pokud ale občané v referendu rozhodnou pro zákaz, budeme respektovat."
+11,1,no,"Podpora až jako krajní varianta... Dejme peníze amatérům, mládeži..."
+12,1,yes,"A proč ne? Když mám nějaký názor, tak se za něho nestydím.."
+13,1,yes,"Jsou to peníze občanů! Politici a úředníci žádné peníze netvoří, jenom je utrácí."
+14,1,abstain,Podle situace a významu stavby pro město. Vždy by jsme to žádali ale nemusíme vždy uspět. je to o dohodě.
+15,1,yes,Protože je to správné.
+16,1,yes,
+17,1,abstain,"Chceme nejdříve vidět rozpočet, náklady... Poměr cena/výkon"
+18,1,yes,
+19,1,abstain,"Nejdříve udělejme analýzu možností. Pokud jsou i jiné varianty, dejme je na stůl"
+2,1,yes,"Nevidíme v tom problém. Jsme za zveřejňování všech smluv, proč by tedy občané nemohli vidět stav městských financí (svých daní)."
+20,1,yes,"Morálně, politicky. finanční příspěvek ne!"
+21,1,yes,Dlužíme to.
+22,1,abstain,Nejdříve si stanovme priority.
+23,1,no,
+24,1,no,
+25,1,no,"Pokud nebude dostatek cestujících, tak ne."
+26,1,no,
+3,1,yes,Vyřeší to problém mnoha řidičů a přinese peníze do pokladny města. Zn: ideál.
+4,1,yes,Velká koncentrace obyvatel.
+5,1,no,Zbytečný luxus. Jsou potřebnější investice.
+6,1,yes,Pokud to přispěje k větší bezpečnosti občanů.
+7,1,abstain,"Je to odborná otázka, nechť posoudí památkáři, architekti.... Na druhé straně nemůžeme z města udělat skanzen, žijí zde lidé, chtějí zde pracovat...jenom turistika nás neuživí."
+8,1,yes,"Trošku s výhradou. Pokud porušují veřejný pořádek, jinak zde mohou být tak, jak ostatní občané..."
+9,1,no,"Nic není zadarmo, navíc pro to není prostor v rozpočtu."
+1,5,yes,Rozvoj cyklodopravy je stěžejním bodem našeho volebního programu.Klademe důraz na dokončení sítě cyklostezek v rámci regionu.
+10,5,no,Současná obecně závazná vyhláška reguluje provoz hracích automatů včetně vnějšího vzhledu budov. Budem dále usilovat o jejich významnou  redukci.
+11,5,no,Preferujeme podporu mládežnického sportu. Zachováme příspěvky na provoz zimního a fotbalového (Androva) stadionu
+12,5,abstain,Ponecháme na rozhodnutí samotné komise a výboru.
+13,5,yes,Ano pokud není v rozporu se zákonem na  ochranu osobních údajů nebo porušení obchodního tajemství
+14,5,yes,Ano a tato praxe je v případě investičních akcí uplatňována.
+15,5,yes,Ano v podobné výši jako doposud.
+16,5,yes,Ano pokud to bude technicky proveditelné a nevyvolá to další náklady.
+17,5,yes,"Ano, dlouhodobě o to usilujeme."
+18,5,no,Preferujeme zapojení občanů prostřednictvím Komisí městských částí.
+19,5,yes,Za podmínky dořešení vlastnických vztahů k pozemkům nutných pro jeho provozování.
+2,5,yes,"Ano, pokud to není v rozporu se stávající legislativou."
+20,5,yes,"Ano, jsme připraveni zprostředkovat jednání s Ministerstvem kultury ČR."
+21,5,yes,"Ano. Krajský soud už v této věci vydal rozhodnutí na určení vlastnictví, které by mělo v dohledné době nabýt právní moci."
+22,5,yes,"Ano, je připraven projekt pro získání dotace."
+23,5,no,Pouze mimo dopravní špičku.
+24,5,yes,Ano s vyjímkou aut rezidentů.
+25,5,yes,Ano ale s výrazně omezeným režimem.
+26,5,yes,Ano s podmínkou prověření majetkoprávních vztahů a snížení nákladů na pronájem pozemků jiných vlastníků.
+3,5,yes,Preferujeme budování záchytných parkovišť na okraji města.
+4,5,yes,Na tuto investiční akci je nutné v maximální míře zajistit dotační prostředky.
+5,5,yes,I tuto záležitost plánujeme zajistit s přispěním dotačních prostředků.
+6,5,yes,Ano zejména v místech se zvýšeným výskytem vandalismu.
+7,5,yes,"Ano, současný schválený územní plán výstavbu výškových budov ve městě neumožňuje."
+8,5,yes,Problematiku je nutné řešit ve spolupráci s Charitou a jinými neziskovými organizacemi.
+9,5,no,Současnou výši jízdného ve městě považujeme za přiměřenou.
+1,11,yes,"Sdílení  je zajímavé nejen z ekologických, ale  i v rámci podpory turistického ruchu při využití městských poznávacích cyklostezek.."
+10,11,no,Řešením je zpřísněný dozor a regulace především v centru města.
+11,11,yes,"Ano, ale podpora musí být efektivní a v daleko lépe kotrolovano její využití ze strany města (precedens SIGMA fotbal)."
+12,11,no,Ne z důvodu možných případů vydírání.
+13,11,yes,"Ano, další protikorupční nástroj. Otázkou je ale nastavení finanční výše zveřejňovaných smluv."
+14,11,no,"Privátní vlastnictví infrastruktury je z dlouhodobého hlediska nevýhodné, město navíc nad ztratí kontrolu."
+15,11,yes,Jedná se o propagaci Olomouc jako univerzitního města.
+16,11,abstain,
+17,11,yes,Areál je zajímavá atrakce pro občany města i turisty.
+18,11,yes,Důležité je však nastavení systému.
+19,11,yes,Za předpokladu efektivního využití přilehlých ploch.
+2,11,yes,"Jednoznačně ano, jako jeden z protikorupčních nástrojů."
+20,11,yes,Za předpokladu architektonicky citlivého řešení:-)
+21,11,no,"Z historického hlediska se jedná o výlučný majetek bývalé Jugoslávie, vhodnější řešení by byla společná správa."
+22,11,yes,"Zahrada je krásné odpočinkové místo, vzdělávací prostor i turistická atrakce."
+23,11,no,"Před-nádraží jako důležitý dopravní uzel vyžaduje regulaci semafory, diskutovat lze o optimálnějším nastavení režimu semaforů."
+24,11,yes,"Jednat by se mělo ale především o vozidla nad 3,5 tuny, které mají po centru největší pohyb (zásobování)."
+25,11,yes,
+26,11,yes,
+3,11,yes,Zejména na sídlištních předměstích a to formou nájemních parkovacích domů.
+4,11,yes,
+5,11,yes,Ale při zachování dostateční svítivosti dle konkrétní lokality (bezpečnostní důvody).
+6,11,yes,
+7,11,yes,Negativním precedentem je už budova MVŠO.
+8,11,yes,"Ano, za předpokladu zajištění sociálního bydlení formou azylového střediska."
+9,11,no,V rámci financování plánovaných investic vidíme jako nereálné.
+1,8,no,"Město by mělo vytvářet podmínky, aby cyklisté měli po městě co nejvolnější pohyb. V programu Patriotů PRO Olomouc jsou městem zřizované bezplatné úschovny kol. Půjčování kol je akcí spíš pro nadšence. Určitě bychom takovou aktivitu podpořili prezentačně a bezpečnostně - cíleným úkolováním městské policie, ale finančně si nemyslíme, že by města měla takové projekty podporovat. Doba a zloději takovému sdílení nepřejí."
+10,8,no,"Město by mělo striktně zakázat na svém území volně přístupné herny. Patriotům PRO Olomouc nevadí, pokud hrají lidé, co si na to vydělají a nestrádají tím jejich děti a rodiny. Jsme proti jakýmkoli zbytečným zákazům. Hazard patří do kasin, kam může hráč vstoupit ve společenském oděvu, po prokázání totožnosti a ověření, že nedluží státu, není na sociálních dávkách on ani nikdo z jeho rodiny a nemá vysloven zákaz hraní. Jakmile se rozeběhne spirála zákazů, nepřinese to nikomu nic dobrého. Co způsobilo největší vlnu alkoholismu v USA? Prohibice!"
+11,8,no,"Patrioti PRO Olomouc mají v programu podporu amatérských sportovních klubů, ale i uměleckých uskupení, kapel a dalších líhní talentů, kteří bez podpory nemohou existovat a sponzoři o takové začínající talenty nemají zájem. V profi sportu ať platí soukromý kapitál. Nevidíme důvod, proč by se obyvatelé města měli skládat na platy zaměstnanců profi sportovních klubů jinak, než zakoupením vstupného či reklamního předmětu."
+12,8,yes,"Navíc, každý zastupitel, by měl mít povinnost své návrhy odůvodnit a vysvětlit, jakým způsobem ta, či ona aktivita prospěje obyvatelům Olomouce. Samozřejmě i tohle odůvodnění by mělo být zveřejňováno. Je to prostředek veřejné kontroly."
+13,8,yes,"V tom mají Patrioti PRO Olomouc naprosto jasno. Chceš-li obchodovat s městem, musíš se smířit s tím, že Ti občané uvidí do karet a budou Tě kontrolovat. Vadí-li Ti to, zapomeň, že městské zakázky existují. Jsme pro zveřejňování i všech konkurenčních nabídek a návrhů smluv neúspěšných soutěžitelů. Veřejná kontrola je mocná zbraň proti korupci či neschopnosti a lajdáctví."
+14,8,yes,"Jde o součást soukromého podnikání, tak proč by na něm mělo participovat město penězi určenými pro potřeby občanů?"
+15,8,yes,Opět jde o tep života města. Jakékoli aktivity zvyšující atraktivitu města jsou naší prioritou. Navíc jde o známou tradici.
+16,8,no,"Město by mělo využívat takové systémy, které jsou všeobecně rozšířené, aby jejich výstupy byly jednoduše zobrazitelné i obyvatelům města na jejich PC. Málokterý podnikatel ""jede"" na Linuxu a asi ví proč. Město by mělo vyvinout tlak na dodavatele licencí, aby si zajistilo VIP podmínky. Patrioti PRO Olomouc by ekonomické síly města využívali i pro občany, kteří by se na této síle měli podílet a měli mít možnost nakupovat za ceny, které si vyjednalo město, nejen software, ale i energie a další služby."
+17,8,yes,"...ale jen, budou-li na to peníze a budou-li uspokojeny významnější priority. Samozřejmě, bude-li i poptávka, což nejsme schopni nyní posoudit."
+18,8,yes,"To je zajímavá myšlenka, byla-li by dobře zadministrovaná, aby se zabránilo lobbingu a bylo-li by rozhodnutí realizováno on-line elektronicky, bez nákladů, tak proč ne."
+19,8,yes,Jsme proti zbytečnému zahušťování městské aglomerace. Je třeba využívat stávající možnosti.
+2,8,yes,"To je snad samozřejmé, ne?"
+20,8,no,"Necítíme potřebu takového projektu. Má-li vzniknout, ať nezatěžuje městský rozpočet a ukáže se jeho potřebnost bez nákladů pro město."
+21,8,yes,"Nevíme, kdo je vlastníkem tohoto objektu, ale jde o kus historie města, který by mělo město udržovat, ale na rozdíl od současnosti i provozovat a zpřístupnit. Jde také o pietní záležitost."
+22,8,yes,"Jde o možnost rekreačního vyžití obyvatel a návštěvníků města, což je v souladu se záměry Patriotů PRO Olomouc. Samozřejmě dnes nestačí jen opravit a zpřístupnit, ale je třeba zajistit i odborné poradenství a další služby. Je děsivé, jak upadla kdysi slavná výstava Flora Olomouc, která   byla dominantní akcí v Olomouci. Patrioti PRO Olomouc mají v programu vrácení zašlé slávy této výstavě, která by se měla konat v celém městě, ve všech parcích i ve zmíněné botanické zahradě. Dnes Flora Olomouc připomíná polské tržiště."
+23,8,no,"Tam je více semaforů, bez kterých by vznikl dopravní chaos. Byli by ohrožení chodci a ty nervy řidičům Patrioti PRO Olomouc skutečně nepřejí. :-)"
+24,8,no,"Za současného stavu by takové opatření mohlo vyvolávat jenom dopravní chaos. Až budou záchytná bezplatná parkoviště a MHD zdarma, pak samozřejmě jsme pro zákaz nerezidentního tranzitu širším centrem města bez výjimky."
+25,8,abstain,Je to otázka poměru efektivity a služby občanům. Pro zodpovězení této otázky nemáme dostatek informací.
+26,8,yes,Opět jde o rekreační zónu a historii města. Rozhodně by se ale mělo hledat zefektivnění využití této plochy a z letiště nevytvářet uzavřený klub vyvolených.
+3,8,yes,"Jeden z našich hlavních cílů. Je neekologické a nebezpečné, když řidiči v afektu krouží kolem svých domů a hledají místo, kde by auto odstavili. V tom má Olomouc velké rezervy."
+4,8,yes,"... ale jen tehdy, má-li na to. Je to otázka ekonomická a prioritní. Když budou peníze, proč ne. Ta nová tramvajová trať je pro lidi z Nových Sadů (včetně mne) velkou pomocí."
+5,8,abstain,"Nemyslíme si, že jde o prioritu města. Opět dodáváme, bude-li na to, proč ne."
+6,8,abstain,"K zodpovězení této otázky nemáme dostatek informací. Jde o problematiku bezpečnostní statistiky mapy města, vyhodnocení stávajícího systému a samozřejmě i o vyhodnocení, jak kamery zasahují do soukromí lidí."
+7,8,no,"Nejsme proti soukromým investicím, byť do výškových budov, ale nyní nevidíme jakýkoli smysluplný důvod, proč by se jakákoli další výšková budova měla stavět. V Olomouci je spousta nevyužitých nemovitostí, město je hodně zahuštěné, proto naše odpověď zní ne, pokud někdo občany nepřesvědčí, že nový věžák zkvalitní jejich životy a bude pro město přínosem. Jsme příznivci nádherného historického panoramatu města."
+8,8,yes,"Město by mělo garantovat ubytovací a sociální kapacity pro skutečně potřebné tak, aby se bezdomovectví do budoucnosti stalo jen kratochvílí lidí, pro které jde o životní ""zálibu"". Patrioti PRO Olomouc vnímají město jako domovskou obec, která je primárně garancí minimální životní úrovně a službou pro občany. Rozhodně ale nikdo nemůže chtít po obyvatelích města, aby v ulicích zakopávali o otrapy, žebrající peníze na cigarety a alkohol."
+9,8,yes,"Původně si tento bod chtěli dát Patrioti PRO Olomouc do programu, ale nakonec jsme zvolili drobné závazky, kterými bychom se k bezplatné dopravě v MHD a bezplatnému svozu odpadu, chtěli dopracovat."

@@ -1,0 +1,115 @@
+vote_event_id,voter_id,option,explanation
+1,3,yes,
+10,3,yes,
+11,3,yes,
+12,3,yes,
+13,3,no,
+14,3,yes,
+15,3,yes,
+16,3,no,
+17,3,yes,
+18,3,yes,
+19,3,abstain,
+2,3,yes,
+3,3,yes,
+4,3,yes,
+5,3,yes,
+6,3,abstain,
+7,3,abstain,
+8,3,yes,
+9,3,abstain,
+1,9,yes,"Vyrovnaný rozpočet by měl být pravidlem. Nelze však vyloučit, že mimořádné výdaje do rozvoje, mohou být v zájmu města."
+10,9,no,"Pokud budou důsledně rozděleny kompetence a striktně dodržovány, má to svůj význam. Jeden člověk nezvládne práci za tři."
+11,9,yes,"V oblasti veřejného pořádku jsou stále velké rezervy. Jde však rovněž o operativní vyhodnocování záznamů a postih, a to nejen ve vztahu k trestné činnosti, ale i ve vztahu k rušení veřejného pořádku, zejména nočního klidu."
+12,9,no,"Takovýto projekt by měla řešit např. hospodářská komora, nebo nějaká rozvojová agentura, či silný podnikatelský subjekt. Město může být nefinančním partnerem takového projektu."
+13,9,no,"Každý, kdo produkuje odpad by se měl odpovídající měrou podílet na jeho likvidaci, což vyjadřuje finanční zapojení každého občana. Pouze takový přístup vytváří odpovědnost za chování vůči životnímu prostředí."
+14,9,yes,"Rozšíření sféry školního a předškolního vzdělávání je vždy přínosem. Nelze to však činit bez úzké vazby s občany, kteří takové alternativy případně požadují. Chceme však upozornit, že církevní školy jsou zákonnou součástí školské soustavy a je tedy zavádějící považovat je za alternativu."
+15,9,yes,"To se už v mnoha případech děje. Město by se nemělo chovat jako developer a prodávat nejvyšší nabídce pro horních několik desítek občanů. To ovšem předpokládá, že město bude mít  dostatek připravených pozemků pro stavbu rodinných domů, aby byly dostupnější pro širší skupinu ekonomicky aktivních obyvatel."
+16,9,no,"Jedná se o zcela chybně položenou otázku. Zámek Kinských a Zelená hora jsou a budou centrem turistiky, ať se to někomu líbí nebo ne. Je však nutné respektovat smluvní vztahy, které jsou v tuto chvíli nějak nastaveny. Město může, a musí být koordinátorem kroků vedoucích k vyšší spolupráci na rozvoji turistického a cestovního ruchu."
+17,9,yes,Starostování je práce na plný úvazek.
+18,9,no,"Bezplatné, či snížené jízdné, však může být pro konkrétní cílové skupiny, jako jsou např. lidé nad 70 let, či děti a studenti. Základní jízdné, však musí být cenově zajímavé."
+19,9,yes,"TOP 09 na základě dvou protichůdných petic usilovala o vypsání referenda, což v zastupitelstvu neprošlo. Vnímali jsme to nejen jako cestu k nalezení řešení, ale také jako podporu otevřenější diskuse ‎s občany. Byl schválen plošný zákaz, ale zároveň je nutné vytvořit podpůrnou síť, která pomůže řešit individuální problémy závislých hráčů. Úplný zákaz problematiku hazardu rozhodně nevyřeší."
+2,9,yes,"Lépe je více parkovacích míst, než chaos v ulicích a parkování na zeleni. Městskému provozu se zamezit nedá, pokud nemá být centrum úplně mrtvé."
+3,9,yes,"Není důvod, proč by smlouvy neměly být pod drobnohledem veřejnosti. Musí být však naplněn zákon o ochraně osobních údajů."
+4,9,yes,"Město Žďár nad Sázavou už svůj zveřejňovaný rozklikávací rozpočet dávno má. Jeho struktura však není zatím tak podrobná jako u zmiňovaného Nového Města na Moravě. Považujeme za prospěšné žďárský klikací rozpočet udělat podrobnější, aby bylo vidět kolik a kam přesně se prostředků vložilo."
+5,9,yes,"Sport nepochybně patří ke zdravému rozvoji města. Především investice do mládeže, ale částečně i do dospělých reprezentantů města je nutností. Kdyby nebylo investic do sportu, nebylo by ani olympijské vítězky, mistrů  či vícemistrů světa, ani mistrů a mistryň republiky. Žďár je město spjaté se sportem a sport zde má obrovskou tradici."
+6,9,yes,"Veřejné finance jsou všech, kdo do nich přispívají. Jsme rádi, že jsem přispěli k tomu, aby tranpsarentní účty město od poloviny 2014 mělo."
+7,9,yes,Nelze však v konkrétních případech vyloučit i neveřejné hlasování. Tlak konkrétních osob na konkrétního zastupitele nemusí být vždy šťastný.
+8,9,yes,"Za předpokladu, že občané svým přičiněním vytvoří rezervu v rozpočtu. Například kdyby svým zapojením do jarního úklidu, či zimní údržby chodníků uspořili v této kategorii v konkrétním sídlišti prostředky v rozpočtu města. Pak by obyvatelé takového sídliště mohli navrhnout využití použití této rezervy například na vybudování dětských hřišť, či plácků na sport a nebo podporu nějaké aktivity."
+9,9,no,"Město rozhodlo demokratickým hlasováním o prodeji budovy a v této chvíli je už věcí nového majitele jak naplní podmínky smlouvy o prodeji, a jak naplní povinnosti vyplívající ze stavebního zákona. Město může pouze vytvořit potřebnou součinnost. Finanční podporu to však neznamená, a to ani ohledně doprovodné infrastruktury včetně parkovacích míst, které musí majitel objektu vybudovat."
+1,7,yes,
+10,7,no,
+11,7,yes,
+12,7,yes,
+13,7,no,
+14,7,no,
+15,7,yes,
+16,7,no,
+17,7,yes,
+18,7,no,Pouze invalidé a senioři
+19,7,no,
+2,7,yes,
+3,7,yes,
+4,7,yes,
+5,7,yes,
+6,7,yes,
+7,7,yes,
+8,7,no,
+9,7,no,
+1,6,yes,
+10,6,yes,
+11,6,no,
+12,6,yes,
+13,6,no,
+14,6,no,V současné době není ve Žďáře nad Sázavou možné navázat na druhý stupeň základní školy. Ve městě není dostatek pedagogů pro zajištění další výuky.
+15,6,abstain,
+16,6,no,
+17,6,yes,
+18,6,no,
+19,6,no,
+2,6,yes,
+3,6,yes,
+4,6,yes,
+5,6,yes,
+6,6,yes,
+7,6,yes,
+8,6,abstain,
+9,6,no,"Budova již má nového soukromého majitele, tedy není důvod proč by se město mělo nadále podílet."
+1,5,yes,"Ano, město by mělo schvalovat vyrované rozpočty"
+10,5,yes,Jeden starosta a jeden místostarosta - tedy dvě uvolněné funkce stačí. Stačily i dříve.
+11,5,no,Počet je dostatečný. Další zbytečná monitorace svobodných občanů není žádoucí. Policie má být v ulicích a né hlídat kamery.
+12,5,no,
+13,5,no,Navrhujeme osvobození dětí od platby tohoto poplatku.
+14,5,no,Město provozuje vlastní zařízení MŠ a vytvořilo v nich dostatek míst pro děti. Alternativní programy jsou provozovány i zde.
+15,5,no,Již dnes jsou tyto ceny velmi podobné.
+16,5,no,Mělo by jít nadále o spolupráci všech subjektů.
+17,5,yes,
+18,5,no,Dlouhodobě je zdarma pro starší občany.
+19,5,yes,Město tuto vyhlášku již vydalo.
+2,5,yes,"Ano, je to zatím nutné."
+3,5,yes,
+4,5,yes,
+5,5,yes,Dlouhodobě je podporuje - hlavně v oblasti dětí a mládeže.
+6,5,no,
+7,5,yes,"Jednání zastupitelstva jsou veřejná, tedy i výsledky hlasování jsou veřejné."
+8,5,no,Podporujeme prvky zastupitelské demokracie.
+9,5,no,Budova je soukromým majetkem a nový majitel jí v současné době opravuje bez prostředků města.
+1,11,yes,"Finanční stabilitu a finanční zdraví města považujeme za základní předpoklad pro jeho udržitelný rozvoj. Nezodpovědné hospodaření v podobě nakumulovaných schodků se časem tvrdě vrátí. Na pokraji předlužení začne město z roku na rok šetřit, a to drastickým snížením investičních výdajů a většinou poklesem úrovně služeb spadajících do ""manadatorních"" výdajů (úklid/školství/zdravotnictví/kultura apod.) Konec investic = konec rozvoje, což povede ke spirále stále zhoršující se situace (úbytek obyvatel --> snížení kupní síly --> zhoršení podmínek pro podnikání --> úbytek práce --> úbytek obyvatel...)"
+10,11,yes,"Na město s cca 22 tisíci obyvatel jsou dva místostarostové dle našeho názoru  zbytečný luxus. Nastaví-li se dobře fungování odborných komisí a vrátí-li se zpět moc zastupitelům z rukou úředníků, výsledná práce bude mít mnohem vyšší přidanou hodnotu, než práce jednoho místostarosty navíc. Tím nijak nechceme snižovat jeho potenciál a význam jeho práce, ale lze realizovat levnější a efektivnější modely fungování radnice."
+11,11,no,"Nemyslíme si, že bezpečnost města je o kamerách. Je totiž především o sytematické a aktivní prevenci a edukaci, což akcentujeme v našem programu."
+12,11,yes,"Rozhodně ano. Je to investice dlouhodobého charakteru, která ale stojí za to. Naše město musí respektovat svoji polohu (není poblíž dálnice, není dopravní křižovatkou) a ekonomickou realitu. Příchod dalších montoven do průmyslové zóny je vzhledem k ekonomické realitě vysoce nepravděpodobný, a proto musí město podporovat jakékoli (inovativní) přístupy, které povedou k podpoře podnikání (a pravděpodobně k podnikání s vyšší přidanou hodnotu než ""montovny"") a ve finále k tvorbě pracovních míst."
+13,11,no,"Odpad považujeme ze jednu z nejvýznamnějších komodit 21. století. Naše představa je poplatek nerušit (ekonomicky ho beremeho jako příspěvek na eliminaci negativní externality), ale snížit. Prostor ke zlepšení vidíme v tom, že město dnes platí za svoz tříděného odpadu, zatímco v jiných městech tomu tak není. Víme také to, že v ZR se netřídí zrovna vzorově, ale to je o edukaci a ""marketingu"" ze strany  firmy zabývající se odpadovým hospodářstvím. Hlasíme se ale k tomu pomoci, spolupracovat. Záměr tedy je - ulevit občanům snížením poplatků (přenést zátěž na odpadovou firmu a tlačit na její vyšší efektivnost) a podporovat ekologičtější chování. Nastartovat tak trochu ""zelenější"" myšlení a jít s trendem doby."
+14,11,yes,"Ano, jsme pro jakoukoli rozmanitost a pestrost a především chceme vyjít vstříc občanům. Víme, že společenská poptávka po těchto alternativách je. Je samozřejmě minoritní, ale není zcela zanedbatelná. Možnost výběru v podobě pestré palety služeb (což se netýká obecně jen příapdu školek) považujeme za dobrou službu občanů."
+15,11,yes,"Ano. Žďár se vylidňuje, což může mít fatální důsledky (snížení příspěvku na občana do městské pokladny). Prodávat pozemky za nákladovou cenu je ideální motivační prvek, proč zůstat/přistěhovat se do Žďáru."
+16,11,yes,"Ano, ale doplňujeme podmínku, že toto musí být řešeno v kontextu celé turistické infrastruktury Žďáru, nikoliv pouze jako izolovaný bod ""Zámek Žďár""."
+17,11,yes,"Starostování je práce jakákoli jiná. Chcete-li se něčemu dobře věnovat, musí to být na plný úvazek. Jinak to nejde. Považujeme ze neetické a nezodpovědné vůči občanům města, je-li starosta zároveň zákonodárce - čili má na starost jěště neco jiného  a nemůže se tak storpocentně věnovat městu."
+18,11,yes,"Ano, ale to uvádíme jako krajní ideální situaci, která může nastat za příznivých okolností někdy v budoucnu, ale v nadcházejícím volební období spíše ne. Jsme si vědomi, že koncepce dopravy v našem městě vlastně neexistuje a že fungování MHD v tomto kontextu je ze strany města výrazně podfinancováno a že MHD tak nenaplňuje (i z jiných důvodů) svůj potenciál a význam. Takže nejdříve koncepce, v rámci ní můžeme hledat ekonomický model jejího užívaní."
+19,11,yes,Toto plně podporujeme vzhledem k současným legislativním možnostem (spíše nemožnostem) nějakého rozumného omezení (tím myslíme např. počet výherních automatů řádově v jednotkách na velikost města typu Žďár). Zákaz všech herních automatů podporujeme.
+2,11,no,"Rozhodně ne. Odkazujeme tím na známý dopravní paradox, že např. obchvaty nebo další parkoviště natahují na sebe více a více aut, až se jejich kapacita stane nedostačující a zahltí se. Zvláště ve Žďáře je většina dopravy vnitroměstské povahy, proto klademe důraz na nemotorové způsoby dopravy a využívání MHD, a to v kontextu vytvořené jasné dopravní koncepce (která v našem městě nyní neexistuje!)"
+3,11,yes,"To je náš programový bod v ""kategorii"" TRANSPARENTNOST. Dlouhodobě o toto usilujeme a řada našich kandidátů v tomto směru ""zápasí"" s městem jako členové v místní občanské iniciativě. Troufáme si tvrdit, že v této souvislosti jsme už docela znalci paragrafu 106 zákona o svobodném přístupu k informacícm a s ním souvisejících právních dokumentech."
+4,11,yes,"Opět, jako předchozí bod - rozklikávací rozpočet jako nutná podmínka transparentnosti. Přesně podle vzoru Nového Města na Moravě chceme zveřejnit veškeré účetnictví města a jeho příspěvkových organizací až na úroveň jednotlivých faktur."
+5,11,yes,"Ano, ale...rozhodně by mělo podporovat rovnoměrně všechny sportovní kluby (adekvátně k počtu jejich členů, dalším kritériem má být práce s mládeží). Nikoliv preferovat pouze vybrané z nich. Uvádíme-li všechny, pak jsou myšleny i zájmové sportovní kluby (čili neprofesionální), které často skomírají v důsledku nedostatku financí, byť mají dobré výsledky a dobře pracují s dětmi a mládeží.  Za další, město by mělo (je-li vlastníkem sportovišť) podnikat - systematicky nabízet sportoviště k pronájmu např. na turnaje, soustředění, komerční akce a eliminovat tak zátěž na rozpočet vlastními příjmy."
+6,11,yes,"jednoznačně, viz vyjádření k bodu číslo 4"
+7,11,yes,"Alfa omega. Neschovávat se za stranickou zdí, ale osobní zodpovědnost a schopnost postavit se před občany a říct jim do očí, proč jsem jako zastupitel tak či onak hlasoval, považujeme za jednu z klíčových podmínek, aby se ve městě začala prosazovat věcná řešení bez ohledu na stranickou příslušnost. Omezí to výrazně politikaření, které symbolizuje v našem městě žábu na prameni."
+8,11,yes,"Určitě ano. Tento přístup koreluje s naší snahou výrazně otevřít radnici občanům a ""vtáhnout je do hry"". Samozřejmě bychom museli upravit model participativního rozpočtu místním podmínkám, ale obecné principy plně podporujeme. Líbí se nám rovněž obrovský marketingový potenciál - je to výborný nástroj pro edukaci občanů, že mohou skutečně o něčem rozhodnout a naučit je zajímat se a rozhodovat o všem možném v jejich městě (např. podoba parků, náměstí, cyklostezek, úzmeního plánu, prezentace města apod.)"
+9,11,yes,"Říkáme ano, ikdyž je to s ""křížkem po funuse"". Zásadně jsme s prodejem budovy nesouhlasili, jsme přesvědčeni o tom, že záměr soukormého investora je město schopné při trochu vůle a dobrém managementu projektu realizovat samo. Prodejem budovy do rukou soukromého vlastníka tak byla výrazně omezena městotvorná funkce budovy ve smyslu centra pro kulturní a společenské akce nebo sociální poslání a vzdělávání."
