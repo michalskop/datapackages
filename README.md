@@ -7,6 +7,7 @@ Voting records follow the [Popolo standard](http://www.popoloproject.com)
 ### Parliaments
 * Brazil, lower house (1991-2015)
 * Chile, lower house (2002-2014)
+* Czechia, lower house (1993-2015)
 * Czechia, senate (1998-2015)
 * Honduras, parliament (2010-2015)
 * Mexico, lower house (2006-2015)
