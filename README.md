@@ -16,6 +16,10 @@ Voting records follow the [Popolo standard](http://www.popoloproject.com)
  
 ## Data from Voting advice applications
 * Czech VAA for general elections 2013
+* Czech VAA for presidential elections 2013
+* Czech VAAs for regional elections 2012 (13 regions)
+* Czech VAAs for municipal elections 2014 (14 municipalities)
+* Czech VAAs for senate elections 2012 and 2014
 
 ## Citation
 The data should be cite using:
