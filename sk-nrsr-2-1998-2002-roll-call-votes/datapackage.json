@@ -80,6 +80,22 @@
         "description": "Votes",
         "path": "data/votes.csv",
         "name": "votes"
+    }, {
+        "schema": {
+            "primaryKey": "id",
+            "fields": [{
+                "description": "Id of the group (party)",
+                "name": "id",
+                "type": "integer"
+            }, {
+                "description": "Political group's (party's) name",
+                "name": "name",
+                "type": "string"
+            }]
+        },
+        "description": "Political groups (parties)",
+        "path": "data/groups.csv",
+        "name": "groups"
     }],
     "name": "sk-nrsr-2-1998-2002-roll-call-votes"
 }

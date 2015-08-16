@@ -1,1 +1,106 @@
-{"description": "Roll-call votes from Czech Lower House from term 3, 1998-2002", "resources": [{"schema": {"primaryKey": "id", "fields": [{"description": "Representative's id", "name": "id", "type": "integer"}, {"description": "Representative's name", "name": "name", "type": "string"}, {"description": "Representative's given name", "name": "given_name", "type": "string"}, {"description": "Representative's given name", "name": "family_name", "type": "string"}, {"description": "Representative's gender", "name": "gender", "type": "string"}]}, "description": "Representatives", "path": "data/voters.csv", "name": "voters"}, {"schema": {"primaryKey": "id", "fields": [{"description": "Id of the vote event", "name": "id", "type": "integer"}, {"description": "Date of the vote event", "name": "start_date", "type": "datetime"}, {"description": "Text (name) of the motion", "name": "motion:text", "type": "string"}, {"description": "Result of the vote event", "name": "result", "type": "string"}, {"description": "Requirement to pass the motion", "name": "motion:requirement", "type": "string"}]}, "description": "Vote events and their motions", "path": "data/vote_events.csv", "name": "vote_events"}, {"schema": {"primaryKey": ["vote_event_id", "voter_id"], "fields": [{"description": "Id of the vote event", "name": "vote_event_id", "type": "integer"}, {"description": "Representative's id", "name": "voter_id", "type": "integer"}, {"description": "Voted option", "name": "option", "type": "string"}, {"description": "Group (party) id", "name": "group_id", "type": "string"}]}, "description": "Votes", "path": "data/votes.csv", "name": "votes"}], "name": "cz-psp-3-1998-2002-roll-call-votes"}
+{
+    "description": "Roll-call votes from Czech Lower House from term 3, 1998-2002",
+    "resources": [{
+        "schema": {
+            "primaryKey": "id",
+            "fields": [{
+                "description": "Representative's id",
+                "name": "id",
+                "type": "integer"
+            }, {
+                "description": "Representative's name",
+                "name": "name",
+                "type": "string"
+            }, {
+                "description": "Representative's given name",
+                "name": "given_name",
+                "type": "string"
+            }, {
+                "description": "Representative's given name",
+                "name": "family_name",
+                "type": "string"
+            }, {
+                "description": "Representative's gender",
+                "name": "gender",
+                "type": "string"
+            }]
+        },
+        "description": "Representatives",
+        "path": "data/voters.csv",
+        "name": "voters"
+    }, {
+        "schema": {
+            "primaryKey": "id",
+            "fields": [{
+                "description": "Id of the vote event",
+                "name": "id",
+                "type": "integer"
+            }, {
+                "description": "Date of the vote event",
+                "name": "start_date",
+                "type": "datetime"
+            }, {
+                "description": "Text (name) of the motion",
+                "name": "motion:text",
+                "type": "string"
+            }, {
+                "description": "Result of the vote event",
+                "name": "result",
+                "type": "string"
+            }, {
+                "description": "Requirement to pass the motion",
+                "name": "motion:requirement",
+                "type": "string"
+            }]
+        },
+        "description": "Vote events and their motions",
+        "path": "data/vote_events.csv",
+        "name": "vote_events"
+    }, {
+        "schema": {
+            "primaryKey": ["vote_event_id", "voter_id"],
+            "fields": [{
+                "description": "Id of the vote event",
+                "name": "vote_event_id",
+                "type": "integer"
+            }, {
+                "description": "Representative's id",
+                "name": "voter_id",
+                "type": "integer"
+            }, {
+                "description": "Voted option",
+                "name": "option",
+                "type": "string"
+            }, {
+                "description": "Group (party) id",
+                "name": "group_id",
+                "type": "string"
+            }]
+        },
+        "description": "Votes",
+        "path": "data/votes.csv",
+        "name": "votes"
+    }, {
+        "schema": {
+            "primaryKey": "id",
+            "fields": [{
+                "description": "Id of the group (party)",
+                "name": "id",
+                "type": "integer"
+            }, {
+                "description": "Political group's (party's) name",
+                "name": "name",
+                "type": "string"
+            }, {
+                "description": "Political group's (party's) abbreviation",
+                "name": "abbreviation",
+                "type": "string"
+            }]
+        },
+        "description": "Political groups (parties)",
+        "path": "data/groups.csv",
+        "name": "groups"
+    }],
+    "name": "cz-psp-3-1998-2002-roll-call-votes"
+}
+
