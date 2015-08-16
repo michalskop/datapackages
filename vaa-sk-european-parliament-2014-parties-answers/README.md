@@ -1,0 +1,1 @@
+# Parties' answers to VolebnaKalkulacka.sk's (VAA) questions, European elections 2014 in Slovakia
