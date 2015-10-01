@@ -34,6 +34,11 @@
                     "description": "party's id"
                 },
                 {
+                    "name": "constituency_id",
+                    "type": "integer",
+                    "description": "candidate's constituency id"
+                },
+                {
                     "name": "votes",
                     "type": "string",
                     "description": "indicator whether the candidate answered to the VAA questions"
@@ -128,6 +133,26 @@
                     "name": "name",
                     "type": "string",
                     "description": "party's name"
+                }
+            ],
+            "primaryKey": ["id"]
+        }
+    },
+    {
+        "name": "constituencies",
+        "path":"data/constituencies.csv",
+        "description": "Constituencies",
+        "schema": {
+            "fields": [
+                {
+                    "name": "id",
+                    "type": "integer",
+                    "description": "constituency's id"
+                },
+                {
+                    "name": "name",
+                    "type": "string",
+                    "description": "constituency's name"
                 }
             ],
             "primaryKey": ["id"]
