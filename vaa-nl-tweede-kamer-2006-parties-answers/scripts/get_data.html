@@ -1,0 +1,38 @@
+<script src="data_es.js"></script>
+
+<div id="voters"></div>
+<div id="vote-events"></div>
+<div id="votes"></div>
+
+<script>
+html = "<table>";
+    for (i in objectIDs) {
+        html += '<tr><td>' + objectIDs[i] + '<td>' + objectNames[i]
+    }
+html += "</table>";
+document.getElementById('voters').innerHTML = html;  
+
+html = "<table>";
+    for (i in propertyIDs) {
+        html += '<tr><td>' + propertyIDs[i] + '<td>' + propertyNames[i]
+    }
+html += "</table>";
+document.getElementById('vote-events').innerHTML = html;
+
+function o2o(o) {
+    if (parseInt(o) == 1)
+        return 'yes'
+    if (parseInt(o) == -1)
+        return 'no'
+    return 'abstain'
+}
+
+html = "<table>";
+    for (i in objectIDs) {
+        for (j in propertyIDs) {
+            html += '<tr><td>' + propertyIDs[j] + '<td>' + objectIDs[i] + '<td>' + o2o(objectPropertyValues[i][j]) + '<td>' + objectPropertyMotivations[i][j]
+        }
+    }
+html += "</table>";
+document.getElementById('votes').innerHTML = html;
+</script>

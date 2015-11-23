@@ -1,0 +1,40 @@
+<script src="../app/module_definition.utf8.js"></script>
+<!--<script src="../app/module_definition_statements.utf8.js"></script>-->
+
+<div id="voters"></div>
+<div id="vote-events"></div>
+<div id="votes"></div>
+
+<script>
+html = "<table>";
+for (i in WOMT_aParteien) {
+    html += '<tr><td>' + (parseInt(i)+1) + '<td>' + WOMT_aParteien[i][0][0] + '<td>' + WOMT_aParteien[i][0][1]
+}
+html += "</table>";
+document.getElementById('voters').innerHTML = html;
+
+html = "<table>";
+for (i in WOMT_aThesen) {
+    html += '<tr><td>' + (parseInt(i)+1) + '<td>' + WOMT_aThesen[i][0][0] + '<td>' + WOMT_aThesen[i][0][1]
+}
+html += "</table>";
+document.getElementById('vote-events').innerHTML = html;
+
+function o2o(o) {
+    if (parseInt(o) == 1)
+        return 'yes'
+    if (parseInt(o) == -1)
+        return 'no'
+    return 'abstain'
+}
+
+html = "<table>";
+for (i in WOMT_aThesenParteien) {
+    for (j in WOMT_aThesenParteien[i]) {
+        html += '<tr><td>' + (parseInt(i)+1) + '<td>' + (parseInt(j)+1) + '<td>' + o2o(WOMT_aThesenParteien[i][j]) + '<td>' + WOMT_aThesenParteienText[i][j][0]
+    }
+}
+html += "</table>";
+document.getElementById('votes').innerHTML = html;
+
+</script>
