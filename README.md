@@ -23,6 +23,8 @@ Voting records follow the [Popolo standard](http://www.popoloproject.com)
 * Czech VAAs for regional elections 2012 (13 regions)
 * Czech VAAs for municipal elections 2014 (14 municipalities)
 * Czech VAAs for senate elections 2012 and 2014
+* Dutch VAAs for general elections 2006, 2010, 2012
+* German VAAs for general elections 2005, 2009, 2013
 * Slovak VAA for European elections 2014 (Slovak parties)
 
 ## Citation
