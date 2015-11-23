@@ -1,9 +1,9 @@
-id,name,abbreviation
-1,Strana zelených,Zelení
-2,Křesťan.a demokrat.unie-Českosl.strana lidová,KDU-ČSL
-3,SNK Evropští demokraté,SNK-ED
-4,Strana svobodných občanů,Svobodní
-5,Národní socialisté - levice 21. století,NS-LEV21
-6,JIHOČEŠI 2012,J2012
-7,Věci veřejné,VV
-8,Česká pirátská strana,Piráti
+id,name,abbreviation,result
+1,Strana zelených,Zelení,1.67
+2,Křesťan.a demokrat.unie-Českosl.strana lidová,KDU-ČSL,6.43
+3,SNK Evropští demokraté,SNK-ED,1.55
+4,Strana svobodných občanů,Svobodní,1.93
+5,Národní socialisté - levice 21. století,NS-LEV21,0.2
+6,JIHOČEŠI 2012,J2012,14.57
+7,Věci veřejné,VV,0.59
+8,Česká pirátská strana,Piráti,1.79

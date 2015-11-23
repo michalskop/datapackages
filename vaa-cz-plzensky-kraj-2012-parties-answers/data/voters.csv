@@ -1,11 +1,11 @@
-id,name,abbreviation
-1,Suverenita-Strana zdravého rozumu,Suverenita-SZR
-2,TOP 09 a Starostové,TOP09+STAN
-3,Koalice pro Plzeňský kraj,Koalice PK
-4,Dělnická strana sociální spravedlnosti,DSSS
-5,Sdružení pro náš kraj SNK,SPNK-SNK
-6,Sdružení nestraníků,SN
-7,Komunistická strana Čech a Moravy,KSČM
-8,Česká pirátská strana,Piráti
-9,Balbínova poetická strana,BPS
-10,Strana zelených,Zelení
+id,name,abbreviation,result
+1,Suverenita-Strana zdravého rozumu,Suverenita-SZR,0.93
+2,TOP 09 a Starostové,TOP09+STAN,5.5
+3,Koalice pro Plzeňský kraj,Koalice PK,4.65
+4,Dělnická strana sociální spravedlnosti,DSSS,1.56
+5,Sdružení pro náš kraj SNK,SPNK-SNK,2.86
+6,Sdružení nestraníků,SN,1.16
+7,Komunistická strana Čech a Moravy,KSČM,20.93
+8,Česká pirátská strana,Piráti,2.68
+9,Balbínova poetická strana,BPS,0.33
+10,Strana zelených,Zelení,2.09

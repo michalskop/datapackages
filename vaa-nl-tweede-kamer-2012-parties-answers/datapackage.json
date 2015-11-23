@@ -1,0 +1,96 @@
+{
+"name": "vaa-nl-tweede-kamer-2012-parties-answers",
+"description": "Parties' answers to Stemwijzer's (VAA) questions, Dutch general elections 2012, Stemwijzer.nl",
+"resources": [
+    {
+        "name": "voters",
+        "path":"data/voters.csv",
+        "description": "Parties' answers",
+        "schema": {
+            "fields": [
+                {
+                    "name": "id",
+                    "type": "integer",
+                    "description": "party's id"
+                },
+                {
+                    "name": "name",
+                    "type": "string",
+                    "description": "party's name"
+                },
+                {
+                    "name": "abbreviation",
+                    "type": "string",
+                    "description": "party's name"
+                },
+                {
+                    "name": "name:en",
+                    "type": "string",
+                    "description": "party's name in English"
+                },
+                {
+                    "name": "result",
+                    "type": "float",
+                    "description": "party's election result (in %)"
+                },
+                {
+                    "name": "result:number",
+                    "type": "float",
+                    "description": "party's election result (number of votes)"
+                }
+            ],
+            "primaryKey": "id"
+        }
+    },
+    {
+        "name": "vote_events",
+        "path":"data/vote_events.csv",
+        "description": "Questions of the VAA",
+        "schema": {
+            "fields": [
+                {
+                    "name": "id",
+                    "type": "integer",
+                    "description": "questions's id"
+                },
+                {
+                    "name": "motion:text",
+                    "type": "string",
+                    "description": "question text"
+                },
+                {
+                    "name": "motion:name",
+                    "type": "string",
+                    "description": "question name"
+                }
+            ],
+            "primaryKey": "id"
+        }
+    },
+    {
+        "name": "votes",
+        "path":"data/votes.csv",
+        "description": "Parties' answers to VAA's questions",
+        "schema": {
+            "fields": [
+                {
+                    "name": "voter_id",
+                    "type": "integer",
+                    "description": "party's id"
+                },
+                {
+                    "name": "vote_event_id",
+                    "type": "integer",
+                    "description": "questions's id"
+                },
+                {
+                    "name": "explanation",
+                    "type": "string",
+                    "description": "explanation of the party's answer"
+                }
+            ],
+            "primaryKey": ["vote_event_id","voter_id"]
+        }
+    }                      
+]
+}

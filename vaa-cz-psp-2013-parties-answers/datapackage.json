@@ -19,6 +19,11 @@
                     "description": "party's name"
                 },
                 {
+                    "name": "abbreviation",
+                    "type": "string",
+                    "description": "party's name"
+                },
+                {
                     "name": "result",
                     "type": "float",
                     "description": "party's election result (in %)"

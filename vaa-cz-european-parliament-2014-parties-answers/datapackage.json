@@ -19,6 +19,10 @@
                 "description": "indicator whether the party answered to the VAA questions",
                 "name": "votes",
                 "type": "string"
+            }, {
+                "description": "party's result in the election in percents",
+                "name": "result",
+                "type": "real"
             }]
         },
         "description": "Parties",

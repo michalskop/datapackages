@@ -1,0 +1,121 @@
+{
+"name": "vaa-de-bundestag-2013-parties-answers",
+"description": "Parties' answers to Wahl-o-mat's (VAA) questions, German general elections 2013, Wahl-o-mat.de",
+"resources": [
+    {
+        "name": "voters",
+        "path":"data/voters.csv",
+        "description": "Parties' answers",
+        "schema": {
+            "fields": [
+                {
+                    "name": "id",
+                    "type": "integer",
+                    "description": "party's id"
+                },
+                {
+                    "name": "name",
+                    "type": "string",
+                    "description": "party's name"
+                },
+                {
+                    "name": "abbreviation",
+                    "type": "string",
+                    "description": "party's name"
+                },
+                {
+                    "name": "name:en",
+                    "type": "string",
+                    "description": "party's name in English"
+                },
+                {
+                    "name": "result",
+                    "type": "float",
+                    "description": "party's election result (in %, party list)"
+                },
+                {
+                    "name": "result-constituency",
+                    "type": "float",
+                    "description": "party's election result (in %, constituency)"
+                },
+                {
+                    "name": "result:number",
+                    "type": "float",
+                    "description": "party's election result (number of votes, party list)"
+                },
+                {
+                    "name": "result-constituency:number",
+                    "type": "float",
+                    "description": "party's election result (number of votes, constituency)"
+                }
+            ],
+            "primaryKey": "id"
+        }
+    },
+    {
+        "name": "vote_events",
+        "path":"data/vote_events.csv",
+        "description": "Questions of the VAA",
+        "schema": {
+            "fields": [
+                {
+                    "name": "id",
+                    "type": "integer",
+                    "description": "questions's id"
+                },
+                {
+                    "name": "motion:text",
+                    "type": "string",
+                    "description": "question text"
+                },
+                {
+                    "name": "motion:name",
+                    "type": "string",
+                    "description": "question name"
+                },
+                {
+                    "name": "motion:text:cs",
+                    "type": "string",
+                    "description": "question text in Czech"
+                },
+                {
+                    "name": "motion:name:cs",
+                    "type": "string",
+                    "description": "question name in Czech"
+                },
+                {
+                    "name": "order",
+                    "type": "integer",
+                    "description": "order of the questions in the VAA"
+                }
+            ],
+            "primaryKey": "id"
+        }
+    },
+    {
+        "name": "votes",
+        "path":"data/votes.csv",
+        "description": "Parties' answers to VAA's questions",
+        "schema": {
+            "fields": [
+                {
+                    "name": "voter_id",
+                    "type": "integer",
+                    "description": "party's id"
+                },
+                {
+                    "name": "vote_event_id",
+                    "type": "integer",
+                    "description": "questions's id"
+                },
+                {
+                    "name": "explanation",
+                    "type": "string",
+                    "description": "explanation of the party's answer"
+                }
+            ],
+            "primaryKey": ["vote_event_id","voter_id"]
+        }
+    }                      
+]
+}

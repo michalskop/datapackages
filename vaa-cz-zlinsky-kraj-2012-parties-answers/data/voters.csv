@@ -1,12 +1,12 @@
-id,name,abbreviation
-1,Strana zelených,Zelení
-2,Dělnická strana sociální spravedlnosti,DSSS
-3,SUVERENITA - Blok Jany Bobošíkové,Suverenita-BJB
-4,Česká pirátská strana,Piráti
-5,Strana Práv Občanů ZEMANOVCI,SPOZ
-6,HNUTÍ ODBORNÍKŮ ZA ZLÍNSKÝ KRAJ,HOZK
-7,Moravané,Moravané
-8,Strana svobodných občanů,Svobodní
-9,"Koruna Česká (Monarch.str.Čech, Moravy a Slezska)",KČ
-10,Komunistická strana Čech a Moravy,KSČM
-11,Starostové a TOP 09,TOP09+STAN
+id,name,abbreviation,result
+1,Strana zelených,Zelení,1.57
+2,Dělnická strana sociální spravedlnosti,DSSS,0.61
+3,SUVERENITA - Blok Jany Bobošíkové,Suverenita-BJB,0.74
+4,Česká pirátská strana,Piráti,1.41
+5,Strana Práv Občanů ZEMANOVCI,SPOZ,7.21
+6,HNUTÍ ODBORNÍKŮ ZA ZLÍNSKÝ KRAJ,HOZK,1.09
+7,Moravané,Moravané,1.25
+8,Strana svobodných občanů,Svobodní,1.16
+9,"Koruna Česká (Monarch.str.Čech, Moravy a Slezska)",KČ,0.2
+10,Komunistická strana Čech a Moravy,KSČM,16.08
+11,Starostové a TOP 09,TOP09+STAN,10.09

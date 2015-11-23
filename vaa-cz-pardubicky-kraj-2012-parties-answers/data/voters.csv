@@ -1,12 +1,12 @@
-id,name,abbreviation
-1,Dělnická strana sociální spravedlnosti,DSSS
-2,Strana svobodných občanů,Svobodní
-3,Moravané,Moravané
-4,Česká pirátská strana,Piráti
-5,VÝCHODOČEŠI,Východočeši
-6,Sdružení sportů České republiky,SSČR
-7,Komunistická strana Čech a Moravy,KSČM
-8,Strana zelených,Zelení
-9,Koalice pro Pardubický kraj,Koalice PK
-10,TOP 09 a Starostové,TOP09+STAN
-11,NEZÁVISLÍ,Nez.
+id,name,abbreviation,result
+1,Dělnická strana sociální spravedlnosti,DSSS,1.43
+2,Strana svobodných občanů,Svobodní,1.52
+3,Moravané,Moravané,0.2
+4,Česká pirátská strana,Piráti,1.84
+5,VÝCHODOČEŠI,Východočeši,3.2
+6,Sdružení sportů České republiky,SSČR,0.86
+7,Komunistická strana Čech a Moravy,KSČM,18.86
+8,Strana zelených,Zelení,1.66
+9,Koalice pro Pardubický kraj,Koalice PK,17.74
+10,TOP 09 a Starostové,TOP09+STAN,6.25
+11,NEZÁVISLÍ,Nez.,3.76

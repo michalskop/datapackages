@@ -1,16 +1,16 @@
-id,name,abbreviation
-1,TOP 09 a Starostové,TOP09+STAN
-2,Strana Práv Občanů ZEMANOVCI,SPOZ
-3,Česká strana národně sociální,ČSNS
-4,Česká pirátská strana,Piráti
-5,Dělnická strana sociální spravedlnosti,DSSS
-6,SNK Evropští demokraté,SNK-ED
-7,Změna pro Královéhradecký kraj,Změna pro K.k.
-8,Národní socialisté - levice 21. století,NS-LEV21
-9,Občanská demokratická strana,ODS
-10,Strana svobodných občanů,Svobodní
-11,Komunistická strana Čech a Moravy,KSČM
-12,Věci veřejné,VV
-13,VÝCHODOČEŠI,Východočeši
-14,Česká strana sociálně demokratická,ČSSD
-15,Koalice pro Královéhradecký kraj,Koalice pro K.k.
+id,name,abbreviation,result
+1,TOP 09 a Starostové,TOP09+STAN,8.25
+2,Strana Práv Občanů ZEMANOVCI,SPOZ,2.76
+3,Česká strana národně sociální,ČSNS,0.09
+4,Česká pirátská strana,Piráti,1.9
+5,Dělnická strana sociální spravedlnosti,DSSS,1.51
+6,SNK Evropští demokraté,SNK-ED,2.23
+7,Změna pro Královéhradecký kraj,Změna pro K.k.,4.09
+8,Národní socialisté - levice 21. století,NS-LEV21,0.25
+9,Občanská demokratická strana,ODS,10.62
+10,Strana svobodných občanů,Svobodní,1.79
+11,Komunistická strana Čech a Moravy,KSČM,19.39
+12,Věci veřejné,VV,0.93
+13,VÝCHODOČEŠI,Východočeši,7.69
+14,Česká strana sociálně demokratická,ČSSD,19.73
+15,Koalice pro Královéhradecký kraj,Koalice pro K.k.,12.07

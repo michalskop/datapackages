@@ -1,10 +1,10 @@
-id,name,abbreviation
-1,Strana svobodných občanů,Svobodní
-2,NÁRODNÍ PROSPERITA,NP
-3,Starostové pro Liberecký kraj,SLK
-4,politické hnutí Změna,Změna
-5,Křesťanská demokratická unie - Československá strana lidová a Strana soukromníků ČR,KDU-ČSL Ss
-6,Nová budoucnost pro Liberecký kraj,NBLK
-7,Národní socialisté - levice 21. století,NS-LEV21
-8,Česká pirátská strana,Piráti
-9,Česká strana selského rozumu,ČSSR
+id,name,abbreviation,result
+1,Strana svobodných občanů,Svobodní,0.79
+2,NÁRODNÍ PROSPERITA,NP,0.13
+3,Starostové pro Liberecký kraj,SLK,22.21
+4,politické hnutí Změna,Změna,16.85
+5,Křesťanská demokratická unie - Československá strana lidová a Strana soukromníků ČR,KDU-ČSL Ss,1.69
+6,Nová budoucnost pro Liberecký kraj,NBLK,2.5
+7,Národní socialisté - levice 21. století,NS-LEV21,0.38
+8,Česká pirátská strana,Piráti,2.22
+9,Česká strana selského rozumu,ČSSR,1.7
