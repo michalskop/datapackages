@@ -1,0 +1,118 @@
+{
+"name": "vaa-ba-skupstina-2014-parties-positions",
+"description": "Parties' positions in Glasometar's (VAA) questions, parliamentarian elections 2014 in Bosnia and Herzegovina, Glasometar.ba",
+"language": "bs",
+"resources": [
+    {
+        "name": "voters",
+        "path":"data/voters.csv",
+        "description": "Parties' positions",
+        "schema": {
+            "fields": [
+                {
+                    "name": "id",
+                    "type": "integer",
+                    "description": "party's id"
+                },
+                {
+                    "name": "name",
+                    "type": "string",
+                    "description": "party's name"
+                },
+                {
+                    "name": "abbreviation",
+                    "type": "string",
+                    "description": "party's abbreviation"
+                },
+                {
+                    "name": "result:fbih",
+                    "type": "float",
+                    "description": "party's election result (in %) in Federacija BiH"
+                },
+                {
+                    "name": "result:fbih:number",
+                    "type": "float",
+                    "description": "party's election result (number of votes) in Federacija BiH"
+                },
+                {
+                    "name": "result:rs",
+                    "type": "float",
+                    "description": "party's election result (in %) in Republika Srpska"
+                },
+                {
+                    "name": "result:rs:number",
+                    "type": "float",
+                    "description": "party's election result (number of votes) in Republika Srpska"
+                },
+                {
+                    "name": "result:seats",
+                    "type": "integer",
+                    "description": "party's election result (number of seats)"
+                }
+            ],
+            "primaryKey": "id"
+        }
+    },
+    {
+        "name": "vote_events",
+        "path":"data/vote_events.csv",
+        "description": "Questions of the VAA",
+        "schema": {
+            "fields": [
+                {
+                    "name": "id",
+                    "type": "integer",
+                    "description": "questions's id"
+                },
+                {
+                    "name": "order",
+                    "type": "integer",
+                    "description": "order of the questions in the VAA"
+                },
+                {
+                    "name": "motion:text",
+                    "type": "string",
+                    "description": "question text"
+                },
+                {
+                    "name": "motion:name",
+                    "type": "string",
+                    "description": "question name"
+                },
+                {
+                    "name": "motion:description",
+                    "type": "string",
+                    "description": "question description"
+                }
+            ],
+            "primaryKey": "id"
+        }
+    },
+    {
+        "name": "votes",
+        "path":"data/votes.csv",
+        "description": "parties' positions to VAA's questions",
+        "schema": {
+            "fields": [
+                {
+                    "name": "voter_id",
+                    "type": "integer",
+                    "description": "party's id"
+                },
+                {
+                    "name": "vote_event_id",
+                    "type": "integer",
+                    "description": "questions's id"
+                },
+                {
+                    "name": "option",
+                    "type": "string",
+                    "description": "party's position"
+                }
+            ],
+            "primaryKey": ["vote_event_id","voter_id"]
+        }
+    }                      
+]
+}
+

@@ -17,6 +17,7 @@ Voting records follow the [Popolo standard](http://www.popoloproject.com)
 * Prague, city council (1998-2015)
  
 ## Data from Voting advice applications
+* Bosnian and Herzegovian VAA for general elections 2014 (Glasometar, http://glasometar.ba)
 * British VAA for general elections 2015 (Vote Match, http://unlockdemocracy.org/vote-match-2015)
 * Czech VAA for general elections 2013 (Volební kalkulačka, http://volebnikalkulacka.cz)
 * Czech VAA for presidential elections 2013 (Volební kalkulačka, http://volebnikalkulacka.cz)
@@ -26,6 +27,7 @@ Voting records follow the [Popolo standard](http://www.popoloproject.com)
 * Czech VAAs for senate elections 2012 and 2014 (Volební kalkulačka, http://volebnikalkulacka.cz)
 * Dutch VAAs for general elections 2006, 2010, 2012 (Stemwijzer, http://stemwijzer.nl)
 * German VAAs for general elections 2005, 2009, 2013 (Wahl-o-mat, http://wahlomar.de)
+* Slovak VAA for presidential elections 2014 (Volebná kalkulačka, https://volebnakalkulacka.sk)
 * Slovak VAA for European elections 2014 (Slovak parties) (Volebna kalkulačka, https://volebnakalkulacka.sk)
 
 ## Citation
