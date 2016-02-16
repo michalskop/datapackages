@@ -1,48 +1,48 @@
 {
-"name": "vaa-gb-parliament-2015-parties-positions",
-"description": "Parties' positions in Vote Match's (VAA) questions, British general elections 2015, UnlockDemocracy.org/vote-match-2015",
-"language": "en",
+"name": "vaa-sk-president-2015-candidates-answers",
+"description": "Candidates' answers in Volebná Kalkulačka's (VAA) questions, Slovak presidential elections 2012, VolebnaKalkulacka.sk",
+"language": "sk",
 "resources": [
     {
         "name": "voters",
         "path":"data/voters.csv",
-        "description": "Parties' positions",
+        "description": "Candidates' answers",
         "schema": {
             "fields": [
                 {
                     "name": "id",
                     "type": "integer",
-                    "description": "party's id"
+                    "description": "candidate's id"
                 },
                 {
                     "name": "name",
                     "type": "string",
-                    "description": "party's name"
-                },
-                {
-                    "name": "abbreviation",
-                    "type": "string",
-                    "description": "party's name"
-                },
-                {
-                    "name": "name@sk",
-                    "type": "string",
-                    "description": "party's name in Slovak"
+                    "description": "candidate's name"
                 },
                 {
                     "name": "result",
                     "type": "float",
-                    "description": "party's election result (in %)"
+                    "description": "candidate's election result (in %), 1st round"
                 },
                 {
                     "name": "result:number",
                     "type": "float",
-                    "description": "party's election result (number of votes)"
+                    "description": "candidate's election result (number of votes), 1st round"
                 },
                 {
-                    "name": "result:seats",
+                    "name": "answer",
+                    "type": "string",
+                    "description": "Whether the candidate answered the VAA questions"
+                },
+                {
+                    "name": "result:2nd",
                     "type": "float",
-                    "description": "party's election result (number of seats won)"
+                    "description": "candidate's election result (in %), 2nd round"
+                },
+                {
+                    "name": "result:2nd:number",
+                    "type": "float",
+                    "description": "candidate's election result (number of votes), 2nd round"
                 }
             ],
             "primaryKey": "id"
@@ -70,14 +70,9 @@
                     "description": "question text"
                 },
                 {
-                    "name": "motion:name@sk",
+                    "name": "motion:name",
                     "type": "string",
-                    "description": "question name in Slovak"
-                },
-                {
-                    "name": "motion:text@sk",
-                    "type": "string",
-                    "description": "question text in Slovak"
+                    "description": "question name"
                 }
             ],
             "primaryKey": "id"
@@ -86,13 +81,13 @@
     {
         "name": "votes",
         "path":"data/votes.csv",
-        "description": "Parties' answers to VAA's questions",
+        "description": "Candidates' answers to VAA's questions",
         "schema": {
             "fields": [
                 {
                     "name": "voter_id",
                     "type": "integer",
-                    "description": "party's id"
+                    "description": "candidate's id"
                 },
                 {
                     "name": "vote_event_id",
@@ -102,7 +97,7 @@
                 {
                     "name": "option",
                     "type": "string",
-                    "description": "party's answer"
+                    "description": "candidate's answer"
                 }
             ],
             "primaryKey": ["vote_event_id","voter_id"]

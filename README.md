@@ -17,6 +17,7 @@ Voting records follow the [Popolo standard](http://www.popoloproject.com)
 * Prague, city council (1998-2015)
  
 ## Data from Voting advice applications
+* British VAA for general elections 2015 (Vote Match, http://unlockdemocracy.org/vote-match-2015)
 * Czech VAA for general elections 2013 (Volební kalkulačka, http://volebnikalkulacka.cz)
 * Czech VAA for presidential elections 2013 (Volební kalkulačka, http://volebnikalkulacka.cz)
 * Czech VAA for European elections 2014 (Czech parties) (Volební kalkulačka, http://volebnikalkulacka.cz)
