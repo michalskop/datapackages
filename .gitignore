@@ -3,3 +3,4 @@ dev/*
 webcache
 __pycache__
 .~lock*
+*/dev/*

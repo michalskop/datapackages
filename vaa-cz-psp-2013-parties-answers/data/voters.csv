@@ -1,22 +1,22 @@
-id,name,abbreviation,result
-ano,ANO 2011,ANO,18.65
-politicke-hnuti-zmena,politické hnutí Změna,Změna,0.57
-volte-pravy-blok-www-cibulka-net,Volte Pravý Blok www.cibulka.net,PB,0.02
-hnuti-usvit-prime-demokracie,Hnutí Úsvit Přímé demokracie ,Úsvit,6.88
-spoz,Strana práv občanů Zemanovci,SPOZ,1.51
-top-09,TOP 09,TOP 09,11.99
-delnicka-strana-socialni-spravedlnosti,Dělnická strana sociální spravedlnosti,DSSS,0.86
-komunisticka-strana-cech-a-moravy,Komunistická strana Čech a Moravy,KSČM,14.91
-lev-21-narodni-socialiste,LEV 21 - národní socialisté,LEV 21,0.07
-hlavu-vzhuru,HLAVU VZHŮRU,HLAVU VZHǓRU,0.42
-koruna-ceska-monarchisticka-strana-cech-moravy-a-slezska,"Koruna česká (monarchistická strana Čech, Moravy a Slezska",KČ,0.17
-cssd,Česká strana sociálně demokratická,ČSSD,20.45
-ceska-piratska-strana,Česká pirátská strana,Piráti,2.66
-kdu-csl,Křesťanská-demokratická unie – Československá strana lidová,KDU-ĆSL,6.78
-suverenita-strana-zdraveho-rozumu,Suverenita - Strana zdravého rozumu,Suverenita,0.27
-obcanska-demokraticka-strana-ods,Občanská demokratická strana,ODS,7.72
-strana-zelenych,Strana zelených,Zelení,3.19
-strana-svobodnych-obcanu,Strana svobodných občanů,Svobodní,2.46
-strana-soukromniku-ceske-republiky,Strana soukromníků České republiky,SsČR,0.26
-obcane-2011,Občané 2011,Občané 2011,0
-klub-angazovanych-nestraniku,Klub angažovaných nestraníků,KAN,0
+id,name,abbreviation,result,color
+ano,ANO 2011,ANO,18.65,#272660
+politicke-hnuti-zmena,politické hnutí Změna,Změna,0.57,
+volte-pravy-blok-www-cibulka-net,Volte Pravý Blok www.cibulka.net,PB,0.02,
+hnuti-usvit-prime-demokracie,Hnutí Úsvit Přímé demokracie ,Úsvit,6.88,
+spoz,Strana práv občanů Zemanovci,SPOZ,1.51,
+top-09,TOP 09,TOP 09,11.99,#6b3362
+delnicka-strana-socialni-spravedlnosti,Dělnická strana sociální spravedlnosti,DSSS,0.86,
+komunisticka-strana-cech-a-moravy,Komunistická strana Čech a Moravy,KSČM,14.91,#E00219
+lev-21-narodni-socialiste,LEV 21 - národní socialisté,LEV 21,0.07,
+hlavu-vzhuru,HLAVU VZHŮRU,HLAVU VZHǓRU,0.42,
+koruna-ceska-monarchisticka-strana-cech-moravy-a-slezska,"Koruna česká (monarchistická strana Čech, Moravy a Slezska",KČ,0.17,
+cssd,Česká strana sociálně demokratická,ČSSD,20.45,#F29400
+ceska-piratska-strana,Česká pirátská strana,Piráti,2.66,
+kdu-csl,Křesťanská-demokratická unie – Československá strana lidová,KDU-ĆSL,6.78,
+suverenita-strana-zdraveho-rozumu,Suverenita - Strana zdravého rozumu,Suverenita,0.27,
+obcanska-demokraticka-strana-ods,Občanská demokratická strana,ODS,7.72,#034EA2
+strana-zelenych,Strana zelených,Zelení,3.19,
+strana-svobodnych-obcanu,Strana svobodných občanů,Svobodní,2.46,
+strana-soukromniku-ceske-republiky,Strana soukromníků České republiky,SsČR,0.26,
+obcane-2011,Občané 2011,Občané 2011,0,
+klub-angazovanych-nestraniku,Klub angažovaných nestraníků,KAN,0,
