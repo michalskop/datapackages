@@ -1,0 +1,1327 @@
+vote_event_id,voter_id,option,explanation
+23,23,yes,
+47,23,no,"Nie, lebo plot postavilo Maďarsko. Ale v núdzovom prípade treba zvážiť aj túto opciu."
+1,23,yes,Štát by mal z daní financovať iba verejné statky a vlaková doprava k ním rozhodne nepatrí
+24,23,yes,
+7,23,no,"Myšlienka spoločného trhu je príliš dobrá na to, aby sme sa nepokúsili o zásadnú reformu EÚ"
+44,23,no,
+36,23,yes,
+11,23,yes,
+50,23,yes,
+13,23,yes,
+22,23,yes,
+54,23,no,"Nie, považujeme to za zbytočné"
+48,23,no,"Áno, platy učiteľov sú príliš nízke"
+49,23,yes,"Áno, avšak platy majú byť rozdielne, lebo každá škola si ich stanoví podľa vlastného uváženia"
+16,23,no,"Nie, výroba elektriny má byť len súkromná záležitosť"
+30,23,yes,
+31,23,yes,
+40,23,no,"Nie, niekoľko málo typov očkovania má zostať povinných"
+42,23,yes,
+18,23,no,"Nie, výdavky na lieky treba obmedziť tak, že poisťovňa preplatí len generický liek"
+45,23,abstain,"Toto sa nedá posúdiť, lebo rozhodujúce je množstvo"
+29,23,yes,
+25,23,no,
+15,23,yes,
+57,23,yes,
+21,23,yes,
+28,23,yes,
+55,23,no,
+59,23,yes,
+17,23,yes,"Áno, ak je to súkromný zamestnávateľ. Najlepšia sociálna ochrana je dostatok pracovných miest."
+58,23,no,
+34,23,yes,"Študent by mal hradiť časť skutočných nákladov. Ak potrebuje, môže dostať bezúročnú pôžičku"
+46,23,no,Nie. Vplyv na bezpečnosť štátu má naše členstvo v NATO.
+6,23,no,"Nie, avšak maximálna povolená rýchlosť by mala byť stanovená podľa konkrétneho úseku a kludne aj vyššia ako 130 km/h"
+9,23,no,"Nie, lebo v tomto momente nie je známe, čo všetko zmluva obsahuje"
+27,23,no,"Nie, inštitúcie by mali byť tam, kde to dáva zmysel. Napríklad úrad splnomocnenca pre Rómov by mal byť v Prešove"
+38,23,no,
+5,23,no,
+41,23,no,"Ako vidieť, nie sú. Riešenie je všetky nemocnice odštátniť"
+52,23,no,"Nie, lebo slovenčina je štátny jazyk"
+32,23,yes,
+12,23,no,"Nie, lebo nie je dobré meniť každú chvíľu takto závažné pravidlá"
+33,23,yes,"Áno, ide takmer výlučne o verejné zdroje, občania majú nárok vedieť, ako strany s nimi nakladajú"
+2,23,no,"Najefektívnejšia je jedna sadzba dane. Okrem toho nižšia sadzba DPH na potraviny je veľmi nákladná sociálna pomoc, lebo z nej profitujú najmä bohatí"
+26,23,no,
+60,23,no,
+56,23,no,
+3,23,no,Stratégia Slovenska pri všetkých spotrebných daniach by mala byť držať sa minimálnych sadzieb stanovených EÚ
+53,23,yes,"Áno, školy by mali mať možnosť slobodne rozhodovať o tom, ktoré predmety budú voliteľné."
+4,23,no,"Nie, záujem štátu je dostať čím viac áut na diaľnicu, aby nezapchávali mestá a obce"
+37,23,no,Navrhujeme existujúce pravidlo nemeniť
+43,23,yes,
+51,23,no,"Nie, sme za to, aby školy boli financované len cez normatív"
+19,23,no,"Nie, avšak musíme prestať likvidovať slovenských výrobcov"
+10,23,no,
+35,23,yes,"Áno, možnosť (nie povinnosť) škôlky má mať každé dieťa."
+14,23,no,"Nie, ale sme za to, aby pracujúci dôchodcovia, nemuseli platiť odvody na starobné poistenie"
+20,23,no,"Nie, avšak v odôvodnených prípadoch je správne takúto výrobu zakázať"
+8,23,no,Náklady na vystúpenie by boli príliš vysoké
+39,23,yes,
+23,6,no,
+47,6,yes,
+1,6,no,
+24,6,no,
+7,6,no,
+44,6,no,
+36,6,no,
+11,6,yes,
+50,6,yes,
+13,6,yes,
+22,6,no,
+54,6,no,
+48,6,yes,
+49,6,no,
+16,6,no,
+30,6,yes,
+31,6,yes,
+40,6,yes,
+42,6,yes,
+18,6,yes,
+45,6,yes,
+29,6,yes,
+25,6,no,
+15,6,yes,
+57,6,no,
+21,6,yes,
+28,6,no,
+55,6,no,
+59,6,abstain,
+17,6,yes,
+58,6,yes,
+34,6,no,
+46,6,no,
+6,6,no,
+9,6,no,
+27,6,yes,
+38,6,yes,
+5,6,no,
+41,6,no,
+52,6,no,
+32,6,yes,
+12,6,no,
+33,6,yes,
+2,6,yes,
+26,6,yes,
+60,6,yes,
+56,6,no,
+3,6,abstain,
+53,6,no,
+4,6,yes,
+37,6,yes,
+43,6,yes,
+51,6,yes,
+19,6,yes,
+10,6,no,
+35,6,yes,
+14,6,yes,
+20,6,yes,
+8,6,no,
+39,6,yes,
+23,1,yes,
+47,1,no,Európa musí spoločne zabezpečiť ochranu schengenskej hranice.
+1,1,no,"Sú ľudia, ktorým by štát mal pomáhať."
+24,1,yes,
+7,1,no,
+44,1,no,Sme zásadne proti povinným kvótam
+36,1,abstain,Mala by sa touto témou zaoberať odborná verejnosť a až potom politici.
+11,1,no,"Áno, iba ak nebude plniť dohodnuté reformy a naďalej bude problémom."
+50,1,yes,
+13,1,yes,
+22,1,no,
+54,1,abstain,
+48,1,yes,
+49,1,no,
+16,1,yes,
+30,1,no,
+31,1,no,"31:Problémom referenda nie je účasť, ale hlúpe otázky."
+40,1,yes,
+42,1,yes,Ale zvyšovať treba mzdy nielen učiteľom
+18,1,yes,Celkovo marketing v zdravotníctve by mal byť viac obmedzený a prísne regulovaný
+45,1,yes,Skúsenosť západnej Európy to plne potvrdzuje.
+29,1,yes,
+25,1,no,
+15,1,no,Zákony majú platiť na celom území.
+57,1,yes,S mandátom OSN
+21,1,no,"Štát si potrebuje zabezpečiť najvyššiu kvalitu za najnižšiu cenu bez
+ohľadu, kde je adresa firmy. A ak je to firma v daňovom raji, treba ju zdaniť zavedením dane z obratu."
+28,1,yes,
+55,1,yes,Ale týmto tempom to bude v roku 2116.
+59,1,no,
+17,1,no,"Zamestnanci si zaslúžia určitý stupeň ochrany, toto by bola anarchia."
+58,1,yes,Je potrebná volebná reforma.
+34,1,no,
+46,1,no,
+6,1,no,"Sú ale úseky, kde môže byť pri zachovaní všetkých bezpečnostných
+parametrov zvýšená na 150 km/h"
+9,1,yes,Od jej finálneho textu sme ale ešte aspoň niekoľko rokov ďaleko.
+27,1,no,
+38,1,no,
+5,1,no,Populistický a nerealizovateľný návrh
+41,1,no,
+52,1,no,"Súčasný stav vyhovuje, nerobme problém tam, kde nie je."
+32,1,yes,A vyskúšať to prvý raz vo voľbách do VÚC
+12,1,no,
+33,1,yes,"Áno, ale obchádzaniu zákona to aj tak nezabráni"
+2,1,yes,"Znižovať treba všetky dane, nielen jednu."
+26,1,yes,"Skúsenosť zo západnej Európy ukazuje, že moslimské komunity sa
+nevedia integrovať."
+60,1,no,
+56,1,no,
+3,1,no,
+53,1,no,"Rómom nepomôže ovládanie rómčiny, ale prevzatie spôsobu života nerómskej väčšiny."
+4,1,no,"Sme proti mýtu na diaľniciach, diaľničné známky v tejto podobe stačia."
+37,1,no,
+43,1,abstain,
+51,1,abstain,
+19,1,no,"Slovenské výrobky sa musia presadiť kvalitou, nie byrokratickým
+nariadením. Slovenských výrobcov treba podporiť predajom z dvora alebo štátnymi odbytovými centrami."
+10,1,no,
+35,1,yes,"Príspevok na starostlivosť o dieťa by mal rodič dostať od štátu
+šek alebo poukážku v určitej nominálnej hodnote a sám sa rozhodnúť, či ňou uhradí náklady na predškolskú starostlivosť o dieťa v škôlke alebo inde."
+14,1,no,"Je viacero rizikových skupín z hľadiska zamestnávania, nielen preddôchodkový vek"
+20,1,yes,
+8,1,no,
+39,1,yes,
+23,7,yes,
+47,7,no,
+1,7,no,
+24,7,yes,
+7,7,no,
+44,7,no,
+36,7,yes,"Komplikovaná otázka, ktorá vyžadeuje verejnú diskusiu."
+11,7,yes,
+50,7,yes,
+13,7,yes,
+22,7,no,Preferujeme hromadnú dopravu. Treba ju teda rozšíriť s zvýhodniť.
+54,7,no,
+48,7,yes,"Predstavujeme si, že všetky platy by sa mali do roku 2020 zvýšiť aby sme sa priblížili európskemu štandardu."
+49,7,yes,
+16,7,no,
+30,7,yes,
+31,7,yes,
+40,7,abstain,
+42,7,yes,Všetky platy na Slovensku sú nízke.
+18,7,yes,
+45,7,yes,
+29,7,yes,
+25,7,no,
+15,7,yes,Presadyujeme zrušenie výherných hracích automatov a kasín okrem kúpeľných miest.
+57,7,yes,
+21,7,yes,
+28,7,yes,
+55,7,abstain,
+59,7,abstain,
+17,7,no,
+58,7,yes,
+34,7,no,
+46,7,abstain,
+6,7,no,
+9,7,yes,
+27,7,yes,
+38,7,yes,
+5,7,yes,
+41,7,abstain,
+52,7,no,
+32,7,yes,
+12,7,no,
+33,7,yes,
+2,7,yes,
+26,7,yes,
+60,7,no,
+56,7,no,
+3,7,yes,
+53,7,no,
+4,7,no,
+37,7,no,
+43,7,yes,
+51,7,yes,
+19,7,yes,Určite áno. Je to naša priorita.
+10,7,no,
+35,7,yes,
+14,7,yes,
+20,7,yes,
+8,7,no,
+39,7,yes,"Áno, predišli by sme korupcii v zdravotníctve."
+23,5,yes,
+47,5,no,
+1,5,yes,
+24,5,yes,
+7,5,no,
+44,5,abstain,V prvom rade potrebujeme spoločné európske riešenie.
+36,5,abstain,
+11,5,no,
+50,5,yes,
+13,5,yes,Len pre vlastnú potrebu.
+22,5,yes,Navrhujeme návrat systému zliav.
+54,5,yes,
+48,5,yes,A viac.
+49,5,abstain,
+16,5,no,
+30,5,no,
+31,5,no,
+40,5,no,
+42,5,yes,
+18,5,yes,
+45,5,no,
+29,5,yes,
+25,5,abstain,
+15,5,yes,A nielen tam.
+57,5,yes,
+21,5,yes,
+28,5,yes,
+55,5,yes,
+59,5,yes,
+17,5,no,
+58,5,yes,
+34,5,yes,Spolu so zavedením systému štipendií a pôžičiek.
+46,5,yes,
+6,5,yes,"V prvom kroku potrebujeme zvýšiť maximálnu rýchlosť zo 130 na 150 na vybraných úsekoch D1, D2 a R1."
+9,5,abstain,V prvom rade by jej znenie (a znenie jej dodatkov) malo byť zverejnené a podrobené odbornej diskusií.
+27,5,yes,Štátne inštitúcie máme skôr v pláne rušiť ako zakladať ďalšie.
+38,5,abstain,
+5,5,no,
+41,5,abstain,"Záleží od okolností, ak im vláda nedá inú možnosť, tak áno."
+52,5,yes,
+32,5,yes,
+12,5,no,
+33,5,yes,
+2,5,abstain,Cieľom vlády by malo byť návrat k rovnej dani.
+26,5,no,
+60,5,no,
+56,5,no,
+3,5,no,"Potrebujeme však doriešiť nesystémové nastavenia v rámci spotrebnej dane na alkohol a tabak, ktorými dnes štát prichádza o desiatky miliónov eur ročne."
+53,5,yes,
+4,5,no,Navrhujeme zaviesť regionálne diaľničné známky pre osobné automobily.
+37,5,no,
+43,5,yes,
+51,5,yes,
+19,5,no,
+10,5,no,
+35,5,yes,
+14,5,no,Treba to riešiť cez odvody.
+20,5,yes,
+8,5,no,
+39,5,yes,
+23,12,no,
+47,12,no,Pokiaľ bude schengenská hranica dobre chránená.
+1,12,no,
+24,12,no,"Registrované partnerstvá sú prvým krokom k tomu, že homosexuálne páry budú môcť adoptovať deti."
+7,12,no,EÚ však bezpodmienečne potrebuje reformu.
+44,12,no,"Slovensko je suverénny štát a má právo rozhodnúť, aký počet utečencov je schopné absorbovať."
+36,12,no,Vždy treba bojovať o každý ľudský život.
+11,12,yes,Ak  nebude ochotné splácať svoje dlhy.
+50,12,yes,
+13,12,no,
+22,12,no,
+54,12,no,Súčasná platná legislatíva to neumožňuje a nevidíme dôvod na zmenu legislatívy.
+48,12,yes,"Ale nevieme, či to bude objektívne možné."
+49,12,no,Mzda je za vykonanú prácu.
+16,12,no,
+30,12,no,
+31,12,yes,
+40,12,no,"Nie vždy. Sú prípady dobrovoľného očkovania, napr. tetanus u dospelých ľudí, či chrípka. Asi ste však mali na mysli protesty skupiny rodičov proti povinnému očkovaniu detí."
+42,12,yes,
+18,12,yes,
+45,12,yes,"Pokiaľ pôjde o enormne vysoký počet utečencov takého vierovyznania, ktoré sa vyznačuje istou agresivitou."
+29,12,yes,
+25,12,no,Práva dieťaťa sú nadradené záujmom dospelých jednotlivcov.
+15,12,abstain,"Nie je celkom jasné, aká je definícia sociálne vylúčenej lokality."
+57,12,yes,Veď sa na zahraničných mierových misiách OSN už zúčastňuje.
+21,12,yes,
+28,12,no,Pokiaľ Maďarsko nezruší svoj neštandardný mechanizmus prijímania dvojitého štátneho občianstva bez väzby na trvalý pobyt v Maďarsku.
+55,12,no,
+59,12,no,"Dieťa si bohatú rodinu nevybralo, štát má mať záujem na podpore všetkých detí. Štát musí mať nástroje pomôcť rodinám s deťmi s nižšími príjmami inou formou príspevkov."
+17,12,no,
+58,12,no,
+34,12,no,Nie pokiaľ ide o prvé vysokoškolské štúdium v rámci prípravy na budúce povolanie na štátnej škole. Možnosť štúdia musia mať aj mladí z rodín s nízkymi príjmami.
+46,12,no,Základňa NATO na Slovensku neovplyvní bezpečnosť našej republiky.
+6,12,yes,Ale len na niektorých vybraných úsekoch.
+9,12,abstain,Zatiaľ je jej obsah neverejný a rokovania o obsahu nie sú ukončené.
+27,12,no,Vo väčšine štátov sú centrálne štátne orgány skoncentrované v hlavnom meste - z čisto pragmatických dôvodov.
+38,12,yes,"Musíme však podotknúť, že ak je potravina povolená do predaja, tak nie je zdraviu škodlivá. Možno by to zaslúžilo inú formuláciu otázky."
+5,12,no,
+41,12,no,
+52,12,no,Slovenčina je štátny jazyk na celom území Slovenska.
+32,12,yes,
+12,12,no,
+33,12,yes,"Bezpredmetná otázka alebo zle formulovaná: tá povinnosť existuje. Politické strany musia každoročne zverejniť výročnú finančnú správu, každý rok prebieha audit účtovníctva nezávislým audítorom."
+2,12,yes,
+26,12,yes,"Rešpektujeme právo každého človeka na vierovyznanie, ale islam nie je registrovanou cirkvou na Slovensku."
+60,12,no,"Slovensko je v istej konkrétnej geopolitickej pozícii, ktorú môže rešpektovať, alebo nemusí. Ak ju bude rešpektovať, tak môže žiť a prežiť. Ak by ju nerešpektovalo, jednoducho by prestalo existovať. Máme záujem, aby Slovensko existovalo, rešpektujeme toto geopolitické postavenie."
+56,12,abstain,"Žiaden politik sa nedá hodnotiť čierno-bielo, bol politikom svojej doby a dnešné kritériá sú úplne niekde inde. Mal možnosti v danej dobe. A je otázka pre historikov."
+3,12,no,
+53,12,yes,V rovnakom rozsahu ako iné jazyky národnostných menšín.
+4,12,yes,"Alternatívne musia byť k dispozícii 10-dňové, mesačné a ročné elektronické nálepky."
+37,12,no,Je to právo ženy rozhodnúť sa. Interrupcie majú výrazne klesajúci trend.
+43,12,no,
+51,12,no,Do škôl treba investovať podľa naliehavosti a aktuálnych potrieb rekonštrukcií.
+19,12,abstain,"Hypotetická otázka - už len jej formulácia je v rozpore s legislatívou EÚ, podľa ktorej sa slobodný pohyb tovaru nesmie obmedzovať. Bez ohľadu na náš názor, tá legislatíva platí a musíme ju dodržiavať."
+10,12,no,
+35,12,yes,
+14,12,yes,
+20,12,yes,
+8,12,no,Koruna by bola aj tak naviazaná na euro.
+39,12,yes,Alebo musia mať možnosť pripoistiť sa.
+23,22,no,"Neuznávame ""sobáše osôb rovnakého pohlavia"". Vzťahy medzi takýmito osobami by mali byť riešené zmluvou medzi nimi."
+47,22,no,"Ak by hrozilo reálne a masové ""zaplavovanie"" Európy nelegálnymi migrantami, postavenie ""plotu"" by bolo potrebné po celom obvode štátu."
+1,22,no,"Bezplatnú dopravu umožníme každému občanovi. Vlaky a železnice vybudované a prevádzkované štátom z verejných prostriedkov, by mali občania užívať bez ďalších poplatkov."
+24,22,yes,"Neuznávame ""sobáše osôb rovnakého pohlavia"". Vzťahy medzi takýmito osobami by mali byť riešené zmluvou medzi nimi, ktoré môžu byť nejakým spôsobom registrované."
+7,22,no,"Vystúpenie z EÚ by sme riešili referendom a to iba v prípade, keď EÚ nebude v krátkom čase zásadne zreformovaná. V terajšej podobe EÚ, by sme EÚ opustili."
+44,22,no,Mal by platiť postup určený súčasným azylovým zákonom.
+36,22,yes,"Za prísnych podmienok, na základe zahraničných skúseností, či vzorov."
+11,22,no,"Grécko by nemalo dostávať žiadne dotácie do svojej ekonomiky zvonku. V takom prípade odíde z eurozóny samo. Nechceme udržať eurozónu ""za každú cenu""."
+50,22,no,
+13,22,yes,
+22,22,no,"Bezplatnú dopravu umožníme každému občanovi. Vlaky a železnice vybudované a prevádzkované štátom z verejných prostriedkov, by mali občania užívať bez ďalších poplatkov."
+54,22,yes,
+48,22,yes,Sme za takéto zvýšenie platov všetkým zamestnancom v národnom hospodárstve.
+49,22,no,
+16,22,yes,"Jadrová energetika pokrýva a dlhodobo bude pokrývať viac, ako 50% výroby elektriny, preto by mala byť celá štátna."
+30,22,yes,Navrhujeme 30 000 pre bežné otázky a zákony a 60 000 pre ústavné zákony.
+31,22,yes,"Navrhujeme úplne zrušiť toto kvórum, podľa švajčiarskeho modelu."
+40,22,abstain,
+42,22,yes,"Áno, ale nie len učiteľov.Problém je inde a je to celospoločenský, nie špecifický pre učiteľov."
+18,22,abstain,"Základné lieky, hradené poisťovňou, nepotrebujú reklamu."
+45,22,no,"Nie, pokiaľ sa zachovajú postupy podľa platného azylového zákona."
+29,22,yes,
+25,22,no,
+15,22,no,"Ak má byť regulované rozmiestňovanie hazardných prístrojov, treba to ponechať v kompetencii orgánov samospráv obcí."
+57,22,no,
+21,22,no,"Chceme zaviesť jedinú daň - daň z pohybu peňazí. V takomto systéme nie je zaujímavé odkiaľ sú firmy, uchádzajúce sa o verejné zákazky."
+28,22,yes,
+55,22,no,
+59,22,no,"Sme za zavedenie systému nepodmieneného základného príjmu, v ktorom prídavky na deti neexistujú."
+17,22,yes,"Áno, ale iba za podmienky, že táto možnosť bude uvedená v pracovnej zmluve medzi zamestnancom a zamestnávateľom. Nemalo by sa to riešiť paušálne zákonom."
+58,22,yes,
+34,22,no,"Bezplatné školstvo presadzujeme, okrem základných škôl, na jednu strednú školu a jednu vysokú školu pre každého občana. Nad rámec toho si vieme predstaviť zavedenie školného."
+46,22,no,
+6,22,yes,"Obmedzenie rýchlosti uplatniť dopravným značením, iba v nebezpečných úsekoch."
+9,22,no,"Slovensko by malo byť ekonomicky, potravinovo a energeticky nezávislé a sebestačné. V podmienkach TTIP, by to bolo nemožné."
+27,22,no,"Bratislava je hlavným mestom Slovenska. Ak by to nevyhovovalo väčšine občanov, môžu to zmeniť referendom. Logistiku z pohľadu občanov, treba riešiť detašovanými pracoviskami."
+38,22,no,"Skutočne, všeobecne zdraviu škodlivé potraviny, by sa vôbec nemali predávať, či konzumovať. Limonády, cukrovinky, či hranolky, nie sú všeobecne zdraviu škodlivé."
+5,22,no,
+41,22,yes,"V súčasnom stave áno, avšak je to riešenie nesystémové. Problém je inde a je to celospoločenský, nie špecifický pre zdravotné sestry."
+52,22,yes,"Úradné jazyky v regiónoch, okrem celoštátneho úradného jazyka, by mali byť v právomoci regionálneho hlasovania v referendách tak, ako to existuje napríklad vo Švajčiarsku."
+32,22,yes,
+12,22,no,
+33,22,no,"Sme za povinné zverejňovanie iba v prípadoch kedy politické strany čerpajú prostriedky zo štátnej, teda spoločnej kasy. Chceme zakázať financovanie politických strán z verejných zdrojov. Dnešný stav je neústavný."
+2,22,no,"DPH úplne zrušíme tak, ako všetky terajšie dane a odvody. Zavedieme jedinú daň - daň z pohybu peňazí, ako daň za spotrebu."
+26,22,no,"Táto vec je riešiteľná v súbore zákonov v stavebnom konaní - v územných plánoch. V ""citlivých"" prípadoch, ako sú mešity, by sme to riešili referendami."
+60,22,yes,"Sme za neutrálne Slovensko, bez účasti v akomkoľvek vojenskom zoskupení. Ak by sa taká požiadavka vyskytla, riešili by sme to výhradne cez referendum občanov."
+56,22,abstain,"Vieme, že bol prezidentom."
+3,22,no,Spotrebná daň v terajšej podobe bude zrušená.
+53,22,yes,"Nie však celoštátne, ale iba v právomoci jednotlivých škôl a obcí."
+4,22,yes,"Občanov (autá), jazdiacich na štátom vybudovaných a prevádzkovaných z verejných prostriedkov, oslobodíme od povinnosti platenia mýta."
+37,22,abstain,"Uprednostňoval by som rozhodnutie budúcej matky, po dôkladnej psychoanalýze a poradenstve."
+43,22,yes,"V terajšom parlamentnom systéme, s delením na ""koalíciu a opozíciu"", áno. Po zavedení princípov priamej demokracie do riadenia štátu, by ústavní sudcovia mali byť volení celoštátnym referendom priamo."
+51,22,no,"Sme za rovnosť šancí a spravodlivosť pre všetky školy. Rozdeľovanie eurofondov je spolitizované. Všeobecne by sme uvítali chod štátu bez eurofondov, z vlastných prostriedkov."
+19,22,no,"V ponuke majú byť tovary, ktoré požaduje spotrebiteľ, bez ohľadu na výrobcu. Podiel slovenských výrobcov na trhu treba presadzovať cez kvalitu a cenu."
+10,22,yes,"Nie celkom ""Áno"" - preferujeme ""konfederáciu"", podľa švajčiarskeho modelu fungovania štátu a spoločnosti."
+35,22,yes,"Kapacity verejných škôlok by mali byť také, aby rodičia mohli do nich umiestniť deti, keď to chcú, či potrebujú. Príspevky na iný spôsob starostlivosti neodporúčame."
+14,22,no,Odmietame akúkoľvek vekovú diskrimináciu.
+20,22,abstain,Štát by mal obmedzovať výrobu iba v prípadoch preukázania škodlivosti výrobkov.
+8,22,yes,Štát potrebuje vlastnú menu. Euro nie je vlastnou menou Slovenska - nevládne ňou.
+39,22,yes,Musí však byť definovaná štandardná zdravotná starostlivosť.
+23,2,abstain,
+47,2,no,
+1,2,no,
+24,2,abstain,
+7,2,no,
+44,2,abstain,
+36,2,yes,
+11,2,yes,
+50,2,yes,
+13,2,yes,
+22,2,no,
+54,2,yes,
+48,2,abstain,
+49,2,no,
+16,2,yes,
+30,2,yes,
+31,2,yes,
+40,2,yes,
+42,2,abstain,
+18,2,yes,
+45,2,yes,
+29,2,yes,
+25,2,abstain,
+15,2,yes,
+57,2,no,
+21,2,yes,
+28,2,yes,
+55,2,yes,
+59,2,no,
+17,2,yes,
+58,2,yes,
+34,2,no,
+46,2,yes,
+6,2,yes,
+9,2,yes,
+27,2,yes,
+38,2,no,
+5,2,yes,
+41,2,yes,
+52,2,yes,
+32,2,yes,
+12,2,yes,
+33,2,yes,
+2,2,yes,
+26,2,yes,
+60,2,no,
+56,2,abstain,
+3,2,yes,
+53,2,yes,
+4,2,yes,
+37,2,yes,
+43,2,yes,
+51,2,yes,
+19,2,yes,
+10,2,no,
+35,2,yes,
+14,2,yes,
+20,2,yes,
+8,2,no,
+39,2,yes,
+23,16,no,
+47,16,no,"Slovensko urobilo opatrenia na svojej južnej hranici, aby bolo pripravené na prípadný nápor migrantov po potenciálnej zmene ich migračných trás. Bezpečnosť na území Slovenska musí byť prvoradou úlohou každej vlády. Slovensko má zakúpené tzv. navádzacie bariéry, ktoré by v prípade veľkého migračného toku vedeli byť použité na zhromaždenie migrantov na jednom mieste, kde by došlo k ich registrácii. Navyše robíme rôzne ďalšie opatrenia a máme pripravené aj ďalšie technické prostriedky, aby ľudia u nás neboli konfrontovaní s takými obrázkami, aké sme mohli vidieť vlani na budapeštianskej stanici."
+1,16,no,
+24,16,no,
+7,16,no,
+44,16,no,
+36,16,no,
+11,16,no,
+50,16,no,"Vláda sa snaží dobudovať sieť materských skôl tak, aby každé dieťa vo veku 5 rokov, ktorého rodičia majú záujem, aby navštevovalo materskú školu, v nej malo miesto. Počas posledných dvoch rokov boli vypísané výzvy na rozširovanie kapacít materských škôl v celkovej hodnote takmer 100 mil. eur."
+13,16,no,
+22,16,no,
+54,16,no,Súčasná právna úprava je vyhovujúca.
+48,16,abstain,SMER-SD sa zaviazal ďalej zvyšovať platy učiteľov a to minimálne o 25 % do roku 2020.
+49,16,no,
+16,16,no,
+30,16,no,"Doposiaľ žiadne referendum nebolo úspešné. Náklady na jedno referendum sú asi 7 mil. eur. Ak by sme znížili počet podpisov, mohlo by to znamenať navýšenie finančných prostriedkov v rozpočte na konania ľudových hlasovaní."
+31,16,no,"Myslíme si, že 50 percent je adekvátne číslo."
+40,16,no,
+42,16,yes,"Mzdy učiteľov by mali ďalej rásť, tak ako boli zvýšené za ostatné roky o 22 % a prvou vládou, vedenou SMERom - SD v rokoch 2006 - 2010 zvýšené o 26 %. Na rozdiel od vlády I. Radičovej, ktorá zvýšila nad rámec štandardného výpočtu mzdy dvakrát o nula eur. V prípade, že bude SMER - SD súčasťou vládnej koalície, bude vo zvyšovaní platov učiteľov pokračovať, pričom sa sústredí najmä na zvýšenie platových tabuliek pre začínajúcich učiteľov."
+18,16,yes,Dnes platná legislatíva takúto reklamu zakazuje.
+45,16,abstain,"Úvaha prezidenta pri posudzovaní kandidátov je založená na tom, že kandidáta vyberá z dvojnásobného počtu navrhnutých. Prezident SR však má vybrať podľa tohto princípu vždy jedného z dvoch navrhnutých kandidátov."
+29,16,no,"Vývoj verejných financií v ostatnej dobe však naznačuje, že dosiahnutie vyrovnaného rozpočtu je na Slovensku reálne už v horizonte roku 2018."
+25,16,no,
+15,16,no,
+57,16,yes,"Slovensko sa ako člen OSN, NATO a EU zúčastňuje na mierotvorných, bezpečnostných, stabilizačných, pozorovateľských či vojenských misiách s jasným medzinárodným mandátom. Takto pôsobia, alebo pôsobili naši vojaci napr. v misiách NATO v Afganistane či Kosove, v misiách OSN na Golanských výšinách, na Cypre, či európskych misiách v Bosne a Hercegovine, alebo v Mali."
+21,16,yes,"Súčasná vláda schválila právnu úpravu, podľa ktorej firmy, ktoré chcú byť úspešné vo verejných obstarávaniach, musia odhaliť svoju vlastnícku štruktúru."
+28,16,abstain,"Dvojité občianstvo sa udeľuje vo výnimočných prípadoch tak, aby jeho hromadné udeľovanie nemohlo byť využívané s cieľom podpory aktivít, zameraných na spochybňovanie územnej celistvosti Slovenskej republiky do budúcnosti."
+55,16,abstain,"Otázka členstva Ukrajiny v EÚ nie je v dnešnej situácii aktuálna a ešte istý čas nebude na programe dňa. My však vnímame a berieme na vedomie európske ašpirácie Ukrajiny. Sme presvedčení, že európska perspektíva je najlepšia motivácia pre transformáciu a modernizáciu krajín nášho kontinentu. A podporujeme aj uplatnenie článku 49 Lisabonskej zmluvy, ktorý hovorí o tom, že o vstup do EÚ môže požiadať každá európska krajina, ktorá o to prejaví záujem, spĺňa potrebné kritériá a pri ktorej sa na jej prijatí zhodnú všetci existujúci členovia EÚ."
+59,16,no,
+17,16,no,
+58,16,no,
+34,16,no,
+46,16,no,
+6,16,no,
+9,16,abstain,"Dohoda, ktorá má potenciál výrazne pomôcť európskej ekonomike, by mala byť schválená, avšak v podobe, ktorá nebude znamenať zásah do oblasti spotrebiteľských práv, ako aj celkovej úrovne sociálnej ochrany na Slovensku."
+27,16,abstain,"Na Slovensku nevznikajú nové štátne inštitúcie, preto je táto otázka bezpredmetná."
+38,16,no,
+5,16,no,
+41,16,no,"Adekvátnou odpoveďou je sociálny dialóg, v rámci ktorého boli napríklad súčasnou vládou zvýšené platy sestier v priemere o 190 eur."
+52,16,no,
+32,16,no,"Cena, pomer, výkon v tomto smere hovorí, že ani v takých krajinách akou je Estónsko sa volieb cez internet zúčastnilo 12 percent ľudí. Ide o investíciu v desiatkach miliónov eur, keďže je nutné vytvoriť technologickú infraštruktúru, vylučujúcu manipuláciu volebného aktu a procesu volieb a následné spochybnenie ich výsledkov."
+12,16,no,
+33,16,abstain,"Nemáme jednoznačný názor, pretože otázka je z hľadiska jej praktickej realizácie formulovaná nejednoznačne. Súčasnú právnu úpravu v oblasti transparentnosti financovania politických strán považujeme za dostatočnú, pričom počas tohto volebného obdobia nadobudli účinnosť nové zákony, ktoré zjednotili základné pravidlá pre všetky druhy volieb vrátane vedenia volebnej kampane a zabezpečia väčšiu transparentnosť financovania politických strán a volebných kampaní. Prijatie týchto zákonov ocenila Skupina štátov proti korupcii (GRECO) pri Rade Európy a Slovenská republika prestala byť monitorovaná za neplnenie odporúčaní v oblasti transparentnosti financovania politických strán. V novoprijatej legislatíve boli zavedené nové kontrolné mechanizmy a sankcie za porušenie zákonov, vznikol nezávislý orgán na kontrolu financovania politických strán - Štátna komisia pre voľby a kontrolu financovania politických strán, bol zakotvený inštitút osobitných transparentných účtov, z ktorých sa môže financovať volebná kampaň, hospodárenie a financovanie politických strán je preverované nezávislým audítorom, ktorého určuje Slovenská komora audítorov žrebom zo zoznamu audítorov. Otázka je nejednoznačná a nedáva odpoveď na otázku, v akom rozsahu by sa zverejňovalo účtovníctvo politickej strany s tým, že treba zobrať do úvahy aj iné skutočnosti ako napr. je potrebné rozlišovať medzi čisto tzv. verejnými inštitúciami a politickými stranami, politická strana nehospodári iba s verejnými prostriedkami, ale hospodári aj s vlastnými prostriedkami (príjmy z členských príspevkov, darov, z predaja alebo prenájmu jej hnuteľného majetku alebo nehnuteľností, z úrokov z vkladov jej prostriedkov v bankách, z pôžičiek a úverov) ktorých oddelenie v rámci hospodárenia nie je v možné, ochrana osobných údajov (údaj o členstve  v  politických  stranách  patrí v zmysle platnej právnej úpravy do osobitnej kategórie chránených osobných údajov), ochrana obchodného tajomstva, problém s „mediálnou“ škandalizáciou darcov a podnikateľských subjektov poskytujúcich bežné činnosti, veľká administratívna a technická náročnosť pre „malé“ politické strany a mnohé ďalšie skutočnosti."
+2,16,yes,Súčasná vláda znížila sadzbu DPH na viac ako 100 základných potravín o polovicu na 10 %.
+26,16,abstain,
+60,16,no,
+56,16,no,
+3,16,no,
+53,16,no,Jedným z dlhodobých problémov Slovenska je slabá miera a schopnosť integrácie rómskej menšiny do majoritnej spoločnosti. Štátna podpora výučby rómskeho jazyka by väčšej miere integrácie určite nepomohla.
+4,16,no,
+37,16,no,
+43,16,abstain,"Úvaha prezidenta pri posudzovaní kandidátov je založená na tom, že kandidáta vyberá z dvojnásobného počtu navrhnutých. Prezident SR však má vybrať podľa tohto princípu vždy jedného z dvoch navrhnutých kandidátov."
+51,16,no,"Každá škola je autonómny subjekt, ktorý sa uchádza o žiaka. Štát bude školy dovybavovať rovnomerne, pričom školy sa môžu naďalej uchádzať aj o eurofondy. Špecificky v bratislavskom kraji, kde školy nemohli dostať peniaze na vybavenie z eurofondov, musí štát dať na didaktické pomôcky väčšiu dotáciu, aby tieto školy úrovňou vybavenosti dostihli školy v ostatných krajoch."
+19,16,yes,
+10,16,no,
+35,16,abstain,"Súčasná vláda rozširuje kapacity materských škôl, pričom počas posledných dvoch rokov boli vypísané výzvy na rozširovanie kapacít materských škôl v celkovej hodnote takmer 100 mil. eur. Súčasne vláda zvýšila príspevok na starostlivosť o deti do 3 rokov na 280 eur."
+14,16,no,Súčasná vláda však spustila projekt podpory zamestnávania ľudí vo veku nad 50 rokov.
+20,16,yes,Štát by mal zakázať výrobu potravín z geneticky modifikovaných organizmov.
+8,16,no,
+39,16,no,"Existuje však možnosť priplatiť si za nadštandardné služby, napríklad nadštandardnú izbu, výber pôrodníka či operatéra a iné služby."
+23,11,no,
+47,11,no,
+1,11,yes,Mala by byť zavedená adresnosť tohto opatrenia. Vieme si predstaviť ponechať cestovanie zadarmo pre študentov z miesta bydliska do školy.
+24,11,no,"Sme však za zjednodušenie ich života - napríklad umožniť dedenie, či prístup k zdravotnej dokumentácii partnera."
+7,11,no,"Prosperita, demokratický vývoj a bezpečnosť Slovenska vie garantovať len naše členstvo v EÚ."
+44,11,no,Povinné kvóty nefungujú a sú mŕtvy projekt.
+36,11,no,
+11,11,no,Pokiaľ  bude plniť prísne stanovené podmienky na zotrvanie v eurozóne a prijímať reformy.
+50,11,yes,
+13,11,no,
+22,11,yes,Sme za zavedenie adresnosti tohto opatrenia.
+54,11,yes,
+48,11,abstain,"Sme za zásadne zvyšovanie platov učiteľov, ale nutné je zvýšiť aj prostriedky do školstva ako celku. Je však potrebné prijať dlhodobú koncepciu rozvoja školstva naprieč politickým spektrom."
+49,11,no,
+16,11,yes,
+30,11,no,Sme za záväznosť platnosti referenda.
+31,11,no,
+40,11,no,"POvinné očkovanie zachránilo už tísicky životov tým, že predchádza niekotrým závažným a nebezpečným chorobám."
+42,11,yes,
+18,11,yes,
+45,11,no,Utečencov nemožme deliť podľa vierovyznania alebo farby pleti. Je to zavádzanie princípu kolektívnej viny.
+29,11,yes,Tento cieľ je potrebné dosiahnuť čím skôr.
+25,11,no,
+15,11,abstain,Táto záležitosť je v kompetencií obcí.
+57,11,yes,Slovensko by malo aktívne participovať na riešení problémov vo svete.
+21,11,no,"Ani to nie je právne možné. Avšak by malo byť verejne známe, kto je konečným užívateľom výhod."
+28,11,yes,
+55,11,yes,
+59,11,yes,Sme za adresnú sociálnu politiku.
+17,11,no,Zákonník práce stanovuje jasne možné dôvody rozviazania pracovného pomeru.
+58,11,yes,
+34,11,no,
+46,11,yes,Situácia na Ukrajine sa môže kedykoľvek zvrtnúť k horšiemu a Slovensko potrebuje byť reálnou súčasťou NATO.
+6,11,no,Naše diaľnice až na niekoľko úsekov nie sú dimenzované na vyššie rýchlosti.
+9,11,yes,
+27,11,no,"Slovensko nepotrebuje vytvárať nové štátne inštitúcie. Naopak je skôr potrebné, aby dochádzalo k zlučovaniu a zefektívňovaniu (aj prostredníctvom elektronizácie) verejnej správy."
+38,11,no,
+5,11,abstain,
+41,11,yes,Zdravotné sesty boli dohnané do tohto stavu ignorovaním ich požiadaviek vládou.
+52,11,yes,
+32,11,yes,Ale mal by sa tento systém najprv vyskúšať na miestnej úrovni. Takisto je to legitímna otázka pri voľbe zo zahraničia.
+12,11,no,
+33,11,abstain,"Každoročne sú vykonávané audity hospodárenia politických strán, ktoré majú možnosť odhaliť prípadne nezrovnalosti."
+2,11,yes,"Sadzba DPH by mala byť rovnaká pre všetky potraviny, nielen pre vybrané."
+26,11,abstain,"Výstavba náboženských priestorov sa riadi zákonom. Ten to umožnňuje len registrovaným cirkvám, pričom islam na Slovensku registrovanou cirvkou nie je."
+60,11,no,Jedine NATO dokáže garantovať našu bezpečnosť.
+56,11,no,
+3,11,no,"Nie sme za zvyšovanie daní, štát by mal hľadať prostriedky na výdavkovej časti."
+53,11,yes,
+4,11,no,Súčasné nastavenie systému považujeme za dostatočné.
+37,11,no,"Počet interrupcií klesá, preto nevidíme dôvod meniť súčasnú legislatívu."
+43,11,yes,
+51,11,yes,"Je potrebné uprednostňovať tie, ktoré sú v havarijnom stave a nutne potrebujú opravy."
+19,11,no,"Zákazník by mal sám rozhodnúť, aké výrobky si chce kúpiť. Je však potrebné vytvoriť také legislatívne prostredie, aby domácich potravín bolo na pultoch obchodov, čo najviac."
+10,11,abstain,"Aj udalosti minulého roku - grécka a migračná kríza ukázali, že sú potrebné zásadné zmeny vo fungovaní únie."
+35,11,yes,"Je potrebné čo najskôr zvýšiť dostupnosť materských škôl, ale aj jaslí."
+14,11,abstain,Určite je však potrebné hľadať nástroje pre možnosti ako pomôcť týmto ľuďom po strate zamestnania nájsť si znovu prácu.
+20,11,yes,"Už od roku 2006 platí zákon, ktorý obmedzuje výmeru pôdy pre pestovanie takýchto potravín."
+8,11,no,Vstup do eurozóny bol pre Slovensko výhodný a priniesol stabilitu a dôveryhodnosť nášmu hospodárskemu prostrediu. Svedčí aj vysoký hospodársky rast
+39,11,yes,Už dnes sa to deje.
+23,4,no,
+47,4,no,
+1,4,no,Pre študentov nie
+24,4,yes,
+7,4,no,
+44,4,no,
+36,4,no,
+11,4,yes,
+50,4,yes,
+13,4,no,
+22,4,no,
+54,4,no,
+48,4,yes,
+49,4,no,
+16,4,yes,
+30,4,yes,
+31,4,no,
+40,4,yes,
+42,4,yes,
+18,4,yes,
+45,4,yes,
+29,4,yes,
+25,4,no,
+15,4,yes,
+57,4,yes,
+21,4,yes,
+28,4,yes,
+55,4,no,
+59,4,yes,
+17,4,no,
+58,4,yes,
+34,4,yes,
+46,4,yes,
+6,4,no,
+9,4,abstain,
+27,4,yes,
+38,4,yes,
+5,4,no,
+41,4,yes,
+52,4,no,
+32,4,yes,
+12,4,yes,
+33,4,yes,
+2,4,yes,Jednoznačne treba znížiť DPH na všetky potraviny
+26,4,yes,
+60,4,no,
+56,4,abstain,
+3,4,no,
+53,4,no,
+4,4,yes,
+37,4,no,
+43,4,yes,
+51,4,yes,
+19,4,yes,
+10,4,no,
+35,4,yes,
+14,4,yes,
+20,4,yes,
+8,4,no,
+39,4,yes,
+23,18,yes,
+47,18,no,
+1,18,abstain,"Vlaky zadarmo nie sú systémovým riešením a cieľom SKOK!u je namiesto vlakov zadarmo presadzovať opatrenia, ktoré povedú k tomu, že nikto nebude odkázaný cestovať zadarmo v zastaraných a preplnených vlakoch. Táto téma však nepatrí k tým kľúčovým, ktoré ľudí na Slovensku najviac trápia - a ak by ponechanie vlakov zadarmo pre študentov bolo napríklad podmienkou pre presadenie našich zásadnejších opatrení v oblasti zvyšovania platov, tvorby pracovných miest a zlepšovania príležitostí pre mladých ľudí, vedeli by sme sa s tým uspokojiť."
+24,18,yes,"Áno, Slovensko je civilizovaná krajina a štát sa nemá starať ľuďom do života. SKOK! ako jediná strana protestoval proti referendu o ľudských právach vo februári minulého roka aj formou kampane na billboardoch."
+7,18,no,"Nie. Liberalizmus nie je euroskeptický. Európska únia je najúspešnejší mierový projekt na našom kontinente v celej jeho histórii. EÚ má mnoho problémov, byrokracie a zbytočnej regulácie, proti ktorým treba bojovať, ale jej prínosy vysoko prekračujú náklady. Slovensko patrí medzi civilizované krajiny Európy."
+44,18,no,"Európa bude musieť nájsť mechanizmus, ten by však nemal byť povinný."
+36,18,yes,"Hoci nejde o najdôležitejšiu otázku, ktorá dnes trápi ľudí, ide o slobodné rozhodnutie každého človeka."
+11,18,yes,"V zásade áno, ak nezačne Grécko plniť podmienky záchranného plánu a ak bude tento krok dostatočne jasne a vopred odkomunikovaný, aby nespôsobil šok na finančných trhoch. V takom prípade by to spoločnú európsku menu euro posilnilo."
+50,18,no,Rozhodne nie pre všetky deti.
+13,18,yes,"Nie je dôvod, aby na Slovensku boli trestaní mladí ľudia za to, čo je legálne v susedných krajinách, vrátane Českej republiky - a neprinieslo to žiadne nežiadúce dôsledky."
+22,18,abstain,
+54,18,abstain,"Toto je problém, ktorý reálne nie je pre ľudí dôležitý, využívajú ho len strany, ktoré chcú vytĺkať body zo zneužívania etnických tém."
+48,18,yes,"Áno, presne takýto záväzok je súčasťou nášho programu v oblasti školstva, ktorý odborníci hodnotia ako najlepší spomedzi všetkých strán."
+49,18,abstain,Diferenciácia platov by skôr mala byť založená na kvalite práce.
+16,18,no,"Výstavbu novej jadrovej elektrárne by mal štát podporovať iba za podmienky, že bude financovaná zo súkromných zdrojov."
+30,18,yes,"Zároveň je však potrebné zadefinovať materiálne jadro ústavy, aby bolo zrejmejšie, že o ľudských právach nie je možné vypísať referendum. Slovensko sa môže inšpirovať aj ďalšími opatreniami zo Švajčiarska a SKOK! presadzuje niekoľko ďalších opatrení na posilnenie priamej demokracie."
+31,18,yes,"Zároveň je však potrebné zadefinovať materiálne jadro ústavy, aby bolo zrejmejšie, že o ľudských právach nie je možné vypísať referendum. Slovensko sa môže inšpirovať aj ďalšími opatreniami zo Švajčiarska a SKOK! presadzuje niekoľko ďalších opatrení na posilnenie priamej demokracie, napríklad zavedenie legislatívnej iniciatívy občanov."
+40,18,abstain,"Niektoré očkovania je možné zdobrovoľniť, niektoré by mali zostať povinné."
+42,18,yes,"Áno, mdzy slovenských učiteľov sú najnižšie spomedzi vyspelých krajín (dosahujú len 47 % priemeru ostatných vysokoškolsky vzdelaných ľudí). Školstvo potrebuje oveľa viac riešení, ako len zvýšenie platov pre učiteľov, no zvýšenie platov je nutnou podmienkou."
+18,18,abstain,"Toto nie je zásadný problém slovenského zdravotníctva. Zásadným problémom je to, že sa podľa odborníkov štvrtina až polovica zdrojov v zdravotníctve rozkradne a vyplytvá."
+45,18,no,"Na takto formulovanú otázku je odpoveď nie - je aj veľa kresťanov, ktorí nie sú katolíci."
+29,18,yes,Našim cieľom je vyrovnaný rozpočet do konca ďalšieho volebného obdobia.
+25,18,yes,"Už dnes táto možnosť existuje, keďže dieťa si môže adoptovať aj jednotlivec a skúmanie jeho sexuálnej orientácie nie je dovolené."
+15,18,yes,"Ako jedno z riešení problémov v týchto komunitách, ktoré pomôže s bojom proti úžere a s ďalším zadlžovaním, podporujeme toto opatrenie."
+57,18,yes,"Slovensko je plnohodnotným členom medzinárodného spoločenstva a máme profesionálnu armádu, ktorá vie špičkovo plniť úlohy aj v medzinárodných misiách."
+21,18,yes,"SKOK! presadzuje zákaz účasti schránkových firiem na verejnom obstarávaní, a vytvorenie verejného registra konečných prijímateľov výhod, aby sa pri každej firme, ktorá dostane verejnú zákazku, dalo dopátrať k tomu, kto ju vlastní."
+28,18,yes,"Ide o osobné rozhodnutie človeka, v prípade, ak má jasný vzťah (tzv. genuine link, napr. narodený v jednej krajine, ale posledné roky žije v inej), nemá mu štát brániť."
+55,18,abstain,"V dlhodobom horizonte áno, avšak najprv musí prejsť prístupovým procesom, kde bude musieť splniť mnoho podmienok (ako kedysi Slovensko), ktoré zatiaľ rozhodne nespĺňa."
+59,18,yes,"Naopak, rodiny s vyšším príjmom by nemali platiť extra dane pre bohatých."
+17,18,yes,"Áno, v takomto prípade však zároveň majú platiť ďalšie zmluvné podmienky, ako napríklad odstupné či výpovedná lehota. Fakty ukazujú, že krajiny, v ktorých je prepúšťanie jednoduchšie, zároveň majú nižšiu nezamestnanosť a ľudia si v nich jednoduchšie a rýchlejšie hľadajú novú prácu."
+58,18,yes,"SKOK! presadzuje zmenu volebného systému tak, aby aspoň polovica poslancov bola volená v jednomandátových obvodoch (priamo v okresoch)."
+34,18,abstain,"Najprv je potrebné zvýšiť kvalitu a zmeniť systém, lebo samotné zavedenie poplatkov pri zachovaní ostatných vecí by ničomu nepomohlo."
+46,18,abstain,
+6,18,yes,Na niektorých vymedzených úsekoch ciest je takéto riešenie možné.
+9,18,abstain,"Podporujeme voľný a slobodný obchod, no pred uzavretím tejto zmluvy je potrebné, aby boli i na verejnosť odkomunikované a vysvetlené všetky sporné časti tejto dohody."
+27,18,abstain,"Našou prioritou je decentralizácia moci - nie sťahovať úradníkov mimo hlavného mesta, ale presúvať kompetencie priamo do regiónov. Čiže menej centrálnych úradov, a viac právomocí pre regióny."
+38,18,no,Dnes nie je žiaden dôvod zvyšovať žiadne dane.
+5,18,yes,"Áno, išlo by o spravodlivé nastavenie systému, ktoré by postihovalo skutočných cestných pirátov. Celkovú výšku pokút je pritom potrebné znížiť, pretože pokuty na Slovensku sú výrazne vyššie, než napríklad v Rakúsku."
+41,18,yes,"Áno, ide o legitímnu nátlakovú akciu - štrajk. Podľa odborníkov sa v zdravotníctve rozkradne a vyplytvá štvrtina až polovica všetkých zdrojov. Problémom nie sú sestry, ale politici, ktorí takéto rozkrádanie dovolili."
+52,18,yes,"Je úradným jazykom, no vždy je potrebné, aby sa občan mal možnosť dorozumieť vo všetkých úradných jazykoch, čiže aj po slovensky."
+32,18,yes,
+12,18,yes,
+33,18,yes,"SKOK! je jediná strana, ktorá kompletne zverejnila všetky údaje o svojom financovaní - doklad o tom, ako Juraj Miškov predal svoju firmu, ktorú vybudoval z nuly bez štátnych zákaziek či eurofondov, bankové prevody o tom, ako časť peňazí z tohto predaja poukázal na financovanie SKOK!u."
+2,18,yes,"SKOK! presadzuje zníženie DPH na VŠETKY potraviny, a zároveň zavedenie sociálnej zníženej sadzby DPH na energie pre domácnosti. Všetci ľudia na Slovensku by tak mali okamžite lacnejšiu elektrinu, plyn, vodu aj kúrenie. Toto opatrenie máme aj rozpočtovo kryté úsporami vo verejnom rozpočte."
+26,18,no,"Presadzujeme odluku cirkví od štátu. Ľudia si môžu slobodne zvoliť svoje náboženstvo, ale výstavba žiadnych svätostánkov by nemala byť financovaná štátom."
+60,18,no,"Nie je dôvod na takýto krok. NATO dnes garantuje Slovensku bezpečnosť a ochranu, a vydať Slovensko napospas rizikám navrhujú len nezodpovední populisti, ktorí ani nechápu, o čo vlastne ide."
+56,18,no,A bodka.
+3,18,no,"Nepodporujeme zvyšovanie daní. Po rokoch uťahovania opaskov je skôr čas, aby štát vrátil peniaze ľuďom."
+53,18,yes,"Medzi voliteľnými predmetmi by mali mať žiaci čo najviac na výber - nie je dôvod, aby (ak je o ňu záujem) nemohla byť medzi voliteľnými predmetmi aj rómčina."
+4,18,abstain,"Všeobecne ide o správne riešenie, avšak bez stanovenia sadzby poplatkov na ňu nie je možné presne odpovedať. Je správne, aby vodiči, ktorí diaľnice využívajú viac, aj viac za ich využívanie platili, no na druhej strane by platba vodiča, ktorý diaľnice využíva priemerne, nemala presiahnuť platbu za súčasnú diaľničnú známku. Navyše je potrebné vytvoriť systém monitorovania prejazdenej vzdialenosti, a bez určenia správneho systému nie je možné presne povedať, či by takéto opatrenie poviedlo k zlepšeniu dnešnej situácie, alebo len k pumpovaniu peňazí navyše z vreciek vodičov do štátneho rozpočtu."
+37,18,no,"Zákaz interrupcií, ktorých počet aj tak výrazne klesá, by spôsobil len problémy, ohrozil ženy na živote a zdraví. Štát, aj podľa rozhodnutia ústavného súdu, nesmie žene zakázať rozhodovať o svojom tele. Nepodporujeme interrupcie, ale uvedomujeme si, že ich zákaz by spôsobil len zlo a bolesť."
+43,18,yes,"Áno, v súčasnom stave politického zasahovania ide o účinný kontrolný mechanizmus, ktorý bráni v svojvoľnom dosadení nekvalitných kandidátov jednou stranou či vládou."
+51,18,abstain,"Štát by sa mal rozhodovať na základe analýz prínosov a nákladov, pričom toto je len jeden z faktorov."
+19,18,no,"Nie, povinný predpis nefunguje a je v rozpore s pravidlami EÚ. Zároveň však štát má vytvoriť podmienky pre podporu predaja slovenských výrobkov - napríklad oceňovaním predajcov, ktorí ich ponúkajú najviac, certifikovaním výrobkov, ktoré sú naozaj slovenské, a podobne."
+10,18,no,"V prvom rade je potrebné sfunkčniť a riadne využívať všetky súčasné mechanizmy. Tak, ako rozvráteným vzťahom v manželstve nepomôže, keď si rodičia urobia dieťa, ani problémom spolupráce v Európe nepomôže hlbšia integrácia len pre integráciu."
+35,18,yes,"Áno, štát má poskytovať rovnaké služby všetkým občanom, nesmie nikoho diskriminovať. Toto opatrenie je súčasťou nášho programu."
+14,18,abstain,"Zamestnávanie by malo byť zvýhodnené pre všetky vekové skupiny. Preto SKOK! presadzuje plán Singapur - sto konkrétnych, jasných a merateľných opatrení na tvorbu pracovných miest. Singapur presadzoval Juraj Miškov už ako minister hospodárstva, a za rok a pol pribudlo na Slovensku 54 tisíc pracovných miest. To je správna cesta, v ktorej treba pokračovať."
+20,18,abstain,
+8,18,no,"Nie, takýto krok by dnes bol veľmi nákladný a slovenskej ekonomike by uškodil, bez reálnych prínosov."
+39,18,yes,Zdravotné poistenie by malo byť rozdelené na základné a doplnkové.
+23,3,no,
+47,3,no,
+1,3,no,
+24,3,no,"Homosexuálnym párom by sme mali odstrániť bariéry, s ktorými sa stretajú vo svojom civilnom živote - informovanie sa o zdravotnom stave ..."
+7,3,no,
+44,3,no,
+36,3,no,
+11,3,no,"Kým plní podmienky, tak nie."
+50,3,yes,
+13,3,no,
+22,3,no,
+54,3,yes,
+48,3,yes,
+49,3,no,"Odmeňovanie učiteľov by malo zohľadňovať v prvom rade kvalitu ich práce, a nie miesto ich bydliska."
+16,3,abstain,Preferované by mali byť obnoviteľné zdroje.
+30,3,yes,100 tisíc by bol dostatočný počet
+31,3,yes,na 20%
+40,3,no,
+42,3,yes,
+18,3,yes,
+45,3,abstain,"Závisí od počtu. Tisíc určite nie, milión určite áno ;o)"
+29,3,yes,
+25,3,no,
+15,3,yes,
+57,3,yes,
+21,3,yes,
+28,3,yes,"Ak občan má reálnu väzbu na inú krajinu, o ktorej občianstvo žiada - rodina, štúdium, podnikanie, práca ..."
+55,3,yes,Samozrejme za splnenia všetkých podmienok.
+59,3,no,"Záleží od definície ""nižších prijímov""."
+17,3,no,
+58,3,yes,
+34,3,no,
+46,3,no,
+6,3,no,
+9,3,abstain,Záleží od konkrétneho finálneho znenia dohody.
+27,3,no,"Pri niektorých to zmysel má, pri iných nie."
+38,3,no,
+5,3,no,
+41,3,yes,"V situácii, keď sú dlhodobo ignorované ich požiadavky."
+52,3,no,Avšak občania maďarskej národnosti by mali mať právo plne využívať svoj jazyk pri komunikácii s úradmi v mieste svojho bydliska.
+32,3,yes,
+12,3,no,
+33,3,yes,
+2,3,yes,
+26,3,abstain,"Len, ak splnia podmienky na registráciu cirkvi."
+60,3,no,
+56,3,no,
+3,3,no,
+53,3,yes,
+4,3,yes,
+37,3,abstain,
+43,3,yes,
+51,3,yes,
+19,3,abstain,Je to proti pravidlám voľného trhu v EÚ.
+10,3,no,
+35,3,yes,
+14,3,yes,Skôr odvodovo zvýhodniť.
+20,3,yes,
+8,3,no,
+39,3,yes,
+23,15,abstain,
+47,15,no,EU musi chranit spolocne vonkajsie hranice EU.
+1,15,yes,Nesmie však finančne ohroziť možnosť študovať každému študentovi.
+24,15,yes,
+7,15,no,
+44,15,no,
+36,15,abstain,
+11,15,no,"Grécko, ale i ostatné štáty by mali byť tvrdo nútené plniť kritériá."
+50,15,abstain,
+13,15,abstain,
+22,15,yes,"Nahradená symbolickým cestovným, napríklad 1eur za cestu."
+54,15,abstain,
+48,15,abstain,
+49,15,yes,
+16,15,abstain,
+30,15,no,
+31,15,no,
+40,15,abstain,
+42,15,yes,
+18,15,no,
+45,15,no,
+29,15,yes,
+25,15,no,
+15,15,abstain,
+57,15,yes,
+21,15,yes,
+28,15,yes,
+55,15,yes,
+59,15,yes,
+17,15,yes,
+58,15,abstain,
+34,15,yes,
+46,15,yes,
+6,15,yes,"Nie je preukázaná súvislosť medzi obmedzením rýchlosti a nehodovosťou, skôr naopak, tzv Montansky paradox."
+9,15,abstain,
+27,15,no,
+38,15,no,
+5,15,no,
+41,15,yes,
+52,15,no,
+32,15,yes,
+12,15,no,
+33,15,yes,
+2,15,no,Presadzujem erovnú daň.
+26,15,abstain,
+60,15,no,
+56,15,no,
+3,15,abstain,
+53,15,no,
+4,15,no,
+37,15,abstain,
+43,15,abstain,
+51,15,yes,
+19,15,no,
+10,15,abstain,
+35,15,yes,
+14,15,no,"zamestnávanie ľudí nízkokvalifikovaných by malo byť zvýhodnené, napríklad nižšími alebo žiadnymi odvodmi."
+20,15,abstain,
+8,15,no,
+39,15,yes,
+23,13,yes,Slovensko nie je členská krajina EU ale členský štát EU.
+47,13,no,
+1,13,no,"No trvám na tom, aby bola takáto preprava pre všetkých občanov Slovenska."
+24,13,yes,
+7,13,no,Avšak všetky smernice EU v prospech občanov musia byť ihneď implementované do nášho právneho poriadku.
+44,13,no,Podľa medzinárodného práva má každý štát svoju vlastnú politiku pre prijímanie utečencov.
+36,13,no,
+11,13,no,
+50,13,yes,
+13,13,yes,Pravdaže za takých podmienok ako v iných štátoch.
+22,13,no,
+54,13,yes,
+48,13,yes,"Som za to, aby sme všetci občania mali európske platy, mzdy, dávky a dôchodky."
+49,13,no,
+16,13,yes,
+30,13,yes,
+31,13,no,
+40,13,yes,Ako očkovanie proti tetanu.
+42,13,yes,V Rakúsku majú 3 x vyššie mzdy.
+18,13,no,Všetky lieky majú byť hradené zo zdravotného poistenia.
+45,13,no,
+29,13,yes,
+25,13,no,
+15,13,yes,Všade by mali byť vylúčené.
+57,13,yes,
+21,13,yes,Verejné zákazky majú robiť výlučne slovenské firmy.
+28,13,yes,
+55,13,abstain,Slovenska republika nie je kompetentná rozhodovať o vstupe Ukrajiny do EU.
+59,13,no,
+17,13,no,Pretože zamestnávateľ by mal mať ochranu štátu za zaplatené dane a odvody.
+58,13,yes,
+34,13,no,
+46,13,no,Po roku 1989 sme sa pripojili k programu odzbrojenia a mali by sme trvať na tom.
+6,13,yes,No sú úseky kde je nutné obmedzenie a tie treba rešpektovať ako v Nemecku.
+9,13,no,
+27,13,yes,
+38,13,yes,
+5,13,yes,
+41,13,yes,Na Slovensku áno pretože na Slovensku neexistuje lepší nástroj.
+52,13,yes,
+32,13,yes,
+12,13,yes,
+33,13,yes,
+2,13,yes,
+26,13,yes,
+60,13,yes,
+56,13,yes,V prvom rade bol slovenský štátnik a hrdina je pre občanov ktorí ho považujú za hrdinu.
+3,13,no,Je dostatočná.
+53,13,yes,
+4,13,yes,Avšak cena za úsek byť úmerná príjmom obyvateľstva.
+37,13,no,
+43,13,no,Je to jedna z jeho právomocí.
+51,13,yes,Peniaze z eurofondov sú peniaze občanov Slovenska. Ni je správne diskriminovať ktorúkoľvek školu.
+19,13,yes,
+10,13,no,"Pre prípad, že by sa stala musí ísť o rovnocenné postavenie členských štátov so zachovaním zvrchovanosti každého."
+35,13,yes,
+14,13,yes,
+20,13,yes,Štát by mal zakázať výrobu potravín z geneticky modifikovaných organizmov.
+8,13,yes,
+39,13,yes,
+23,21,no,
+47,21,no,
+1,21,no,
+24,21,no,
+7,21,no,
+44,21,no,
+36,21,no,
+11,21,no,
+50,21,yes,
+13,21,no,
+22,21,no,
+54,21,yes,
+48,21,yes,
+49,21,no,
+16,21,no,
+30,21,no,
+31,21,no,
+40,21,no,
+42,21,yes,
+18,21,yes,
+45,21,abstain,"Hrozbu znamená samotná utečenecká kríza, a tá nezávisí od vierovyznania utečencov."
+29,21,yes,"Neskôr, až po roku 2020"
+25,21,no,
+15,21,yes,
+57,21,abstain,
+21,21,yes,"Nielen znevýhodnené, ale úplne vylúčené."
+28,21,yes,
+55,21,yes,V dlhšom časovom horizonte a v závislosti od možných bezpečnostno-politických rizík prijatia do EÚ.
+59,21,yes,
+17,21,no,
+58,21,no,
+34,21,no,
+46,21,no,
+6,21,no,
+9,21,abstain,Naša podpora závisí od konečného obsahu TTIP
+27,21,abstain,
+38,21,yes,V porovnaní so základnými potravinami - v tomto prípade ponechať 20 %.
+5,21,no,
+41,21,yes,
+52,21,yes,
+32,21,yes,
+12,21,no,
+33,21,yes,
+2,21,yes,
+26,21,no,
+60,21,no,
+56,21,no,
+3,21,no,
+53,21,yes,
+4,21,no,
+37,21,no,
+43,21,abstain,Bolo by potrebné zmeniť proces voľby ústavných sudcov.
+51,21,abstain,
+19,21,yes,Minimálnu hranicu domácich potravín navrhujeme stanoviť na 70 %.
+10,21,no,
+35,21,yes,
+14,21,yes,
+20,21,yes,
+8,21,no,
+39,21,yes,
+23,19,no,
+47,19,yes,
+1,19,yes,
+24,19,no,
+7,19,yes,
+44,19,no,
+36,19,no,
+11,19,abstain,
+50,19,yes,
+13,19,no,
+22,19,no,
+54,19,no,
+48,19,yes,
+49,19,no,
+16,19,yes,
+30,19,yes,
+31,19,yes,
+40,19,yes,
+42,19,yes,
+18,19,yes,
+45,19,yes,
+29,19,yes,
+25,19,no,
+15,19,yes,
+57,19,no,
+21,19,yes,
+28,19,yes,
+55,19,no,
+59,19,no,
+17,19,no,
+58,19,no,
+34,19,no,
+46,19,no,
+6,19,no,
+9,19,no,
+27,19,yes,
+38,19,yes,
+5,19,yes,
+41,19,yes,
+52,19,no,
+32,19,no,
+12,19,no,
+33,19,yes,
+2,19,yes,
+26,19,yes,
+60,19,yes,
+56,19,yes,
+3,19,no,
+53,19,no,
+4,19,no,
+37,19,yes,
+43,19,yes,
+51,19,yes,
+19,19,yes,
+10,19,no,
+35,19,yes,
+14,19,no,
+20,19,yes,
+8,19,yes,
+39,19,yes,
+23,10,yes,
+47,10,no,
+1,10,no,
+24,10,yes,
+7,10,yes,
+44,10,no,
+36,10,yes,
+11,10,yes,"Áno, lebo toto riešenie by bolo najlepšie pre Grékov, Eurozóna slúži len záujmom najbohatších štátov EÚ a oligarchom  ich silnej lobby."
+50,10,yes,
+13,10,yes,
+22,10,no,
+54,10,yes,
+48,10,no,
+49,10,no,
+16,10,yes,
+30,10,yes,
+31,10,no,
+40,10,no,
+42,10,yes,
+18,10,no,
+45,10,no,
+29,10,yes,
+25,10,no,
+15,10,yes,
+57,10,no,
+21,10,yes,
+28,10,no,
+55,10,no,
+59,10,no,
+17,10,no,
+58,10,yes,
+34,10,no,
+46,10,no,
+6,10,no,
+9,10,no,
+27,10,yes,
+38,10,yes,
+5,10,no,
+41,10,yes,
+52,10,yes,
+32,10,no,
+12,10,no,
+33,10,yes,
+2,10,yes,
+26,10,yes,
+60,10,yes,
+56,10,no,
+3,10,no,
+53,10,yes,
+4,10,no,
+37,10,no,
+43,10,no,
+51,10,no,
+19,10,yes,
+10,10,no,"Nie, Slovensko musí z EÚ vystúpiť."
+35,10,yes,
+14,10,yes,
+20,10,yes,Sme za úplny zákaz a dovoz GMO potravín na našom území.
+8,10,yes,
+39,10,no,
+23,17,no,
+47,17,no,
+1,17,no,Ale redukovať len na trasu do školy.
+24,17,no,
+7,17,no,
+44,17,no,
+36,17,no,
+11,17,no,
+50,17,no,
+13,17,no,
+22,17,yes,Mali by však platiť len symbolické euro mesačne.
+54,17,yes,
+48,17,yes,
+49,17,no,
+16,17,yes,
+30,17,no,
+31,17,no,
+40,17,no,
+42,17,yes,
+18,17,no,
+45,17,no,
+29,17,yes,Cieľ je však mať rozpočet s prebytkom.
+25,17,no,
+15,17,yes,
+57,17,yes,Ak si to vyžaduje ohrozenie civilného obyvateľstva alebo začiatok vojenského konfliktu.
+21,17,yes,
+28,17,yes,Za zachovania európskych štandardov.
+55,17,yes,
+59,17,no,
+17,17,no,
+58,17,yes,
+34,17,no,
+46,17,no,
+6,17,no,
+9,17,yes,
+27,17,yes,"Ale len v tom prípade, že to nepredraží a nenaruší bežný chod tejto inštitúcie."
+38,17,yes,
+5,17,no,
+41,17,no,
+52,17,no,
+32,17,no,
+12,17,no,
+33,17,yes,
+2,17,yes,Rozšírené o ovocie a zleleninu
+26,17,no,
+60,17,no,
+56,17,no,
+3,17,no,Skôr treba dbať na zvýšenú prevenciu a výchovu mládeže
+53,17,yes,
+4,17,no,
+37,17,yes,
+43,17,yes,
+51,17,yes,
+19,17,no,"Nie sme za povinné kvóty, sme za podporu slovenských výrobcov"
+10,17,no,
+35,17,yes,
+14,17,no,
+20,17,yes,
+8,17,no,
+39,17,yes,
+23,14,no,
+47,14,no,"Ochranu hraníc by sme mali, ako doposiaľ, riešiť spolu s ostatnými krajinami vo V4."
+1,14,no,"Preto, lebo väčšina študentov je z rodín, ktoré nedosahujú dôstojné príjmy."
+24,14,no,Táto téma pre našu stranu nie je aktuálna.
+7,14,no,"Za členstvo Slovenska v EÚ sme, ale bez diktátu USA a NATO. Žiaľ, dnešná EÚ je viac o ""nemeckej únii"" a v takej byť nechceme."
+44,14,no,Odmietame kvóty a diktát Bruselu.
+36,14,no,
+11,14,yes,Pre Grécko by bol najlepší odchod z Eurozóny a nastolenie centrálne-riadenej ekonomiky.
+50,14,yes,Táto prax je odskúšaná a mala dobré výsledky.
+13,14,no,
+22,14,no,"Ide o najchudobnejšiu vrstvu spoločnosti. Ide o ľudí, ktorí vytvorili väčšinu hodnôt, ktoré dnešných časoch predmetom rabovania a rozkrádania."
+54,14,yes,
+48,14,yes,"Nie len platy učiteľov, ale aj iných pracujúcich."
+49,14,no,"Rozdiely v životnej úrovni medzi jednotlivými krajmi, by mali byť riešené aktívnou politikou štátu."
+16,14,yes,Jadrová energetika je strategickou záležitosťou a preto by mala byť jednoznačne v rukách štátu.
+30,14,yes,Sme za zjednodušenie participácie občanov na rozhodovaní o veciach verejných.
+31,14,no,
+40,14,no,
+42,14,yes,Ale nízke sú aj v ostatných rezortoch.
+18,14,yes,"Lieky by v žiadnom prípade nemali byť predmetom reklamy, ba dokonca ani obchodu."
+45,14,no,
+29,14,yes,
+25,14,no,Táto téma pre našu stranu nie je aktuálna.
+15,14,yes,
+57,14,yes,"Ale, iba v prípade misii so súhlasom BR OSN."
+21,14,yes,
+28,14,no,
+55,14,no,
+59,14,no,
+17,14,no,V žiadnom prípade takéto právo zamestnávatelia voči pracujúcim nemôžu mať.
+58,14,yes,
+34,14,no,Bezplatné školstvo patrí medzi hlavné priority našej strany.
+46,14,no,NATO je teroristická organizácia z ktorej musí SR čím skôr vystúpiť.
+6,14,yes,"Skúsenosti viacerých štátov potvrdzujú, že je to dobré."
+9,14,no,"Zblíženie v rámci TTIP je iba v prospech veľkokapitálu a nadnárodných spoločností, čo je pre pracujúcich a jednotlivé štáty únie jednoznačne najhoršie."
+27,14,yes,
+38,14,no,
+5,14,yes,Lebo súčasné sadzby sú priam šikanovaním vodičov s nižšími príjmami.
+41,14,yes,
+52,14,no,
+32,14,yes,
+12,14,no,
+33,14,yes,
+2,14,yes,
+26,14,no,
+60,14,yes,"Táto organizácia je agresívnou organizáciou, ktorá zasahuje do vnútorných záležitostiach suverénnych štátov, porušuje medzinárodne právo a ohrozuje medzinárodný mier a zasahuje do vnútorných záležitostiach suverénnych štátov."
+56,14,no,Bol to kolaborant a vojnový zločinec.
+3,14,yes,
+53,14,yes,
+4,14,yes,
+37,14,no,
+43,14,no,Podľa ústavy je to v kompetencii NR SR.
+51,14,yes,
+19,14,yes,
+10,14,no,Odmietame federáciu ako formu spolupráce v EÚ.
+35,14,yes,
+14,14,yes,"Sme za takúto pozitívnu diskrimináciu, lebo táto kategória ľudí má sťažený prístup k pracovným príležitostiam."
+20,14,yes,
+8,14,yes,KSS bola od začiatku proti vstupu do Eurozóny. Dnes musíme kalkulovať so všetkými alternatívami.
+39,14,no,Zdravotná strostlivosť by nemala byť predmetom obchodu.
+23,20,abstain,
+47,20,abstain,
+1,20,no,
+24,20,abstain,
+7,20,no,
+44,20,no,
+36,20,no,
+11,20,abstain,
+50,20,yes,"Každé dieťa by malo pred nástupom do školy dostať šancu na rozvoj svojho talentu. Predškolské vzdelávanie by sme presunuli do budov škôl, aby sme uvoľnili kapacity materských škôl a zaplnili čoraz prázdnejšie základné 
+školy."
+13,20,yes,
+22,20,no,
+54,20,abstain,
+48,20,yes,#Sieť sa zaviazala zvýšiť celkové financie smerujúce do školstva aspoň o 30% do roku 2020
+49,20,abstain,
+16,20,yes,
+30,20,no,"Pre vypísanie referenda by mali platiť prísnejšie podmienky, avšak kvórum pre jeho platnosť by malo byť zrušené."
+31,20,yes,"Ak sa ľuďom podarí vyzbierať dostatok podpisov pod referendum za prísnejších podmienok, kvórum pre jeho platnosť by malo byť zrušené. Chceme menej referend, ktorým však bude prikladaná pozornosť, ktorú si občianske iniciatívy zdola zaslúžia."
+40,20,no,"Deti, ktoré chcú navštevovať detské kolektívy, by mali byť zaočkované."
+42,20,yes,
+18,20,yes,
+45,20,abstain,
+29,20,yes,
+25,20,abstain,
+15,20,yes,
+57,20,yes,
+21,20,yes,"Jednou z dvoch základných cieľov #Siete je úplné vylúčenie spoločností z daňových rajov, ktoré majú neznámeho vlastníka, zo všetkých obchodov so štátom."
+28,20,no,
+55,20,yes,
+59,20,no,
+17,20,no,
+58,20,yes,
+34,20,abstain,Školné na VŠ sa už platí - pri predĺžení štúdia a pri jeho externej forme.
+46,20,abstain,
+6,20,no,
+9,20,abstain,"Naša podpora bude závisieť od toho, či bude navrhované znenie rešpektovať štátnu suverenitu pri úprave regulácií chrániacich človeka a životné prostredie"
+27,20,yes,#Sieť by presunula do regiónov aj viaceré existujúce inštitúcie.
+38,20,abstain,
+5,20,yes,
+41,20,yes,
+52,20,no,
+32,20,yes,
+12,20,no,
+33,20,yes,
+2,20,yes,
+26,20,no,
+60,20,no,
+56,20,no,
+3,20,abstain,
+53,20,abstain,"Pre deti narodené a žijúce na Slovensku je v prvom rade potrebná podpora stopercentnej znalosti slovenského jazyka a angličtiny, čo dnes nie je samozrejmé."
+4,20,abstain,
+37,20,no,
+43,20,yes,
+51,20,no,
+19,20,abstain,#Sieť bude presadzovať zvýšenie podielu slovenských potravín na trhu na 80 %.
+10,20,abstain,
+35,20,yes,
+14,20,no,
+20,20,abstain,
+8,20,no,
+39,20,yes,
+23,8,no,
+47,8,no,
+1,8,no,
+24,8,no,
+7,8,yes,"V prípade, že sa nezmenia súčasné pravidlá fungovania EÚ"
+44,8,no,
+36,8,no,
+11,8,yes,
+50,8,yes,
+13,8,no,
+22,8,no,
+54,8,yes,
+48,8,yes,
+49,8,no,
+16,8,yes,
+30,8,yes,
+31,8,yes,Kvórum by sa malo zrušiť.
+40,8,yes,
+42,8,yes,"nielen učiteľov, zavedieme základnú mzdu 8 €/hod"
+18,8,yes,
+45,8,yes,
+29,8,yes,
+25,8,no,
+15,8,yes,
+57,8,abstain,
+21,8,yes,
+28,8,yes,
+55,8,no,
+59,8,no,
+17,8,no,
+58,8,yes,
+34,8,no,
+46,8,no,
+6,8,no,
+9,8,no,
+27,8,no,Koalícia SPOLOČNE ZA SLOVENSKO nemá v pláne vytvárať žiadne nové inštitúcie.
+38,8,no,
+5,8,no,
+41,8,no,
+52,8,no,
+32,8,abstain,
+12,8,no,
+33,8,yes,
+2,8,yes,DPH zrušíme a zavedieme daň z predaja vo výške 6%
+26,8,yes,
+60,8,yes,
+56,8,yes,
+3,8,no,
+53,8,yes,
+4,8,no,
+37,8,yes,
+43,8,no,
+51,8,yes,
+19,8,yes,
+10,8,no,
+35,8,yes,
+14,8,no,
+20,8,yes,
+8,8,yes,
+39,8,yes,
