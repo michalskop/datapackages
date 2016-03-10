@@ -1,5 +1,7 @@
 {
+    "name": "vaa-sk-european-parliament-2014-parties-answers",
     "description": "Parties' answers to VolebnaKalkulacka.sk's (VAA) questions, European elections 2014 in Slovakia",
+    "language": "sk",
     "resources": [{
         "schema": {
             "primaryKey": "id",
@@ -49,15 +51,15 @@
                 "type": "integer"
             }, {
                 "description": "name of the question in Hungarian",
-                "name": "motion:name:hu",
+                "name": "motion:name@hu",
                 "type": "string"
             }, {
                 "description": "question text in Hungarian",
-                "name": "motion:text:hu",
+                "name": "motion:text@hu",
                 "type": "string"
             }, {
                 "description": "description of the question in Hungarian",
-                "name": "motion:description:hu",
+                "name": "motion:description@hu",
                 "type": "string"
             }]
         },
@@ -88,7 +90,5 @@
         "description": "Parties' answers to VAA's questions",
         "path": "data/votes.csv",
         "name": "votes"
-    }],
-    "name": "vaa-sk-european-parliament-2014-parties-answers"
+    }]
 }
-
