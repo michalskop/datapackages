@@ -1,0 +1,102 @@
+{
+    "description": "Roll-call votes from European Parliamnet from term 8, 2014-",
+    "language": "en",
+    "resources": [{
+        "schema": {
+            "primaryKey": "id",
+            "fields": [{
+                "description": "Representative's id",
+                "name": "id",
+                "type": "integer"
+            }, {
+                "description": "Representative's name",
+                "name": "name",
+                "type": "string"
+            }, {
+                "description": "Code of representative's country",
+                "name": "country_code",
+                "type": "string"
+            }, {
+                "description": "Representative's country",
+                "name": "family_name",
+                "type": "string"
+            }, {
+                "description": "Representative's last political group",
+                "name": "political group",
+                "type": "string"
+            }, {
+                "description": "Political party",
+                "name": "party",
+                "type": "string"
+            }]
+        },
+        "description": "Representatives",
+        "path": "data/voters.csv",
+        "name": "voters"
+    }, {
+        "schema": {
+            "primaryKey": "id",
+            "fields": [{
+                "description": "Id of the vote event",
+                "name": "id",
+                "type": "integer"
+            }, {
+                "description": "Date of the vote event",
+                "name": "start_date",
+                "type": "datetime"
+            }, {
+                "description": "Title (name) of the motion",
+                "name": "motion:title",
+                "type": "string"
+            }, {
+                "description": "Source url",
+                "name": "motion:url",
+                "type": "string"
+            }, {
+                "description": "EP title",
+                "name": "motion:ep_title",
+                "type": "string"
+            }, {
+                "description": "Report",
+                "name": "motion:report",
+                "type": "string"
+            }, {
+                "description": "Type of issue",
+                "name": "motion:issue_type",
+                "type": "string"
+            }, {
+                "description": "epref",
+                "name": "motion:epref",
+                "type": "string"
+            }, {
+                "description": "ID of rappourteurs",
+                "name": "motion:rappourteurs",
+                "type": "string"
+            }]
+        },
+        "description": "Vote events and their motions",
+        "path": "data/vote_events.csv",
+        "name": "vote_events"
+    }, {
+        "schema": {
+            "primaryKey": ["vote_event_id", "voter_id"],
+            "fields": [{
+                "description": "Id of the vote event",
+                "name": "vote_event_id",
+                "type": "integer"
+            }, {
+                "description": "Representative's id",
+                "name": "voter_id",
+                "type": "integer"
+            }, {
+                "description": "Voted option",
+                "name": "option",
+                "type": "string"
+            }]
+        },
+        "description": "Votes",
+        "path": "data/votes.csv",
+        "name": "votes"
+    }],
+    "name": "eu-parliament-8-2014-2018-roll-call-votes"
+}
