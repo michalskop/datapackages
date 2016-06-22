@@ -1,0 +1,87 @@
+{
+"name": "vaa-hu-orszaggyules-2014-parties-positions",
+"description": "Parties' positions in Voksmonitor's (VAA) questions, parliamentarian elections 2014 in Hungary, voksmonitor.hu",
+"language": "hu",
+"resources": [
+    {
+        "name": "voters",
+        "path":"data/voters.csv",
+        "description": "Parties' positions",
+        "schema": {
+            "fields": [
+                {
+                    "name": "id",
+                    "type": "integer",
+                    "description": "party's id"
+                },
+                {
+                    "name": "name",
+                    "type": "string",
+                    "description": "party's name"
+                },
+                {
+                    "name": "abbreviation",
+                    "type": "string",
+                    "description": "party's abbreviation"
+                }
+            ],
+            "primaryKey": "id"
+        }
+    },
+    {
+        "name": "vote_events",
+        "path":"data/vote_events.csv",
+        "description": "Questions of the VAA",
+        "schema": {
+            "fields": [
+                {
+                    "name": "id",
+                    "type": "integer",
+                    "description": "questions's id"
+                },
+                {
+                    "name": "order",
+                    "type": "integer",
+                    "description": "order of the questions in the VAA"
+                },
+                {
+                    "name": "motion:text",
+                    "type": "string",
+                    "description": "question text"
+                },
+                {
+                    "name": "motion:name",
+                    "type": "string",
+                    "description": "question name"
+                }
+            ],
+            "primaryKey": "id"
+        }
+    },
+    {
+        "name": "votes",
+        "path":"data/votes.csv",
+        "description": "parties' positions to VAA's questions",
+        "schema": {
+            "fields": [
+                {
+                    "name": "voter_id",
+                    "type": "integer",
+                    "description": "party's id"
+                },
+                {
+                    "name": "vote_event_id",
+                    "type": "integer",
+                    "description": "questions's id"
+                },
+                {
+                    "name": "option",
+                    "type": "string",
+                    "description": "party's position"
+                }
+            ],
+            "primaryKey": ["vote_event_id","voter_id"]
+        }
+    }
+]
+}

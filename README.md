@@ -15,7 +15,7 @@ Voting records follow the [Popolo standard](http://www.popoloproject.com)
 * Slovakia, parliament (1998-2002)
 
 ### City councils
-* Prague, city council (1998-2015)
+* Prague, city council (1998-2016)
 
 ## Data from Voting advice applications
 * Bosnian and Herzegovian VAA for general elections 2014 (Glasometar, http://glasometar.ba)
@@ -28,6 +28,9 @@ Voting records follow the [Popolo standard](http://www.popoloproject.com)
 * Czech VAAs for senate elections 2012 and 2014 (Volební kalkulačka, http://volebnikalkulacka.cz)
 * Dutch VAAs for general elections 2006, 2010, 2012 (Stemwijzer, http://stemwijzer.nl)
 * German VAAs for general elections 2005, 2009, 2013 (Wahl-o-mat, http://wahlomar.de)
+* Hungarian VAA for general elections 2014 (Voksmonitor, http://voksmonitor.hu)
+* Hungarian VAA for European elections 2014 (Hungarian parties) (Voksmonitor, http://voksmonitor.hu)
+* Hungarian VAA for municipal elections in Budapest 2014 (Voksmonitor, http://voksmonitor.hu)
 * Slovak VAA for general elections 2012, 2016 (Volebná kalkulačka, https://volebnakalkulacka.sk)
 * Slovak VAA for presidential elections 2014 (Volebná kalkulačka, https://volebnakalkulacka.sk)
 * Slovak VAA for European elections 2014 (Slovak parties) (Volebna kalkulačka, https://volebnakalkulacka.sk)

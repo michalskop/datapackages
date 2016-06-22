@@ -1,0 +1,51 @@
+id,order,motion:text,motion:name
+101,1,Magyarországnak ki kellene lépnie az Európai Unióból.,Magyarország az EU-ban
+102,2,Magyarországnak NATO-tagnak kellene maradnia.,Magyarország a NATO-ban
+103,3,A keleti partnerség fontosabb a nyugati országokkal való együttműködésnél.,Keleti partnerség
+104,4,A határon túli magyarok szavazati jogát fenn kell tartani.,Határon túli szavazójog
+105,5,Magyarországon a munkahelyteremtés érdekében a külföldi befektetők számára kedvező gazdasági környezet kialakítására van szükség.,Üzleti környezet
+106,6,A multinacionális cégek piaci részesedését csökkenteni kell a gazdaságban.,Multik részesedése
+107,7,A külföldiek földvásárlását továbbra is meg kellene tiltani Magyarországon.,Külföldiek földvásárlása
+108,8,Magyarországnak el kell halasztania az euró bevezetését.,Euro bevezetése
+109,9,"Rezsicsökkentés helyett az energiatakarékosságot, szigetelést kellene elsősorban támogatni.",Rezsicsökkentés vagy energiatakarékosság
+110,10,"Túl sok az ügydöntő népszavazás kiírásához szükséges 200 ezer aláírás, könnyíteni kellene a feltételeken.",Népszavazás - aláírások
+111,11,Magyarország jelenlegi Alaptörvényét meg kell tartani.,Alaptörvény megtartása
+112,12,Az Alkotmánybíróság jogköreit vissza kellene állítani a 2010 előtti szintre.,AB jogkörei
+113,13,"A kormányzatot vagy pártokat ellenőrző intézmények (ügyészség, médiát felügyelő testület, Állami Számvevőszék, Alkotmánybíróság) elnökét és vezető tisztségviselőit kizárólag pártok közötti konszenzussal lehessen megválasztani.",Független intézmények
+114,14,A jelenlegi választási rendszer garancia a szabad országgyűlési választások lebonyolítására.,Választási rendszer megítélése
+115,15,Magyarországon jelenleg szabad a sajtó és a média.,Szabad sajtó
+116,16,"A jó vezető fontosabb, mint a demokratikus intézményrendszer minősége.",Vezető vagy demokrácia
+117,17,"Az egykulcsos adót meg kellene tartani, nincs szükség többkulcsos jövedelemadóra.",Egykulcsos adó
+118,18,Távlati célként be kellene vezetni a mindenkinek alanyi jogon járó feltétel nélküli alapjövedelmet.,Feltétel nélküli alapjövedelem
+119,19,A felsőoktatásban szükség van tandíjra.,Tandíj a felsőoktatásban
+120,20,Az egyházak adómentességét fenn kellene tartani a továbbiakban is.,Egyházak adómentessége
+121,21,"Törekedni kell arra, hogy minél több szociális ellátás legyen munkához kötve.",Munkáért segélyt
+122,22,A közmunkaprogram megfelelő eszköz a szegénység vagy a munkanélküliség enyhítésére.,Közmunkaprogram
+123,23,A paksi atomerőmű bővítése hibás lépés.,Paksi bővítés
+124,24,A roma származású diákok elkülönített oktatása megengedhető az iskolarendszerben.,Szegregált oktatás
+125,25,"Fenn kell tartani a dohányzás tiltását bizonyos magánintézményekben, kocsmákban, éttermekben",Dohányzás tilalma
+126,26,A magánnyugdíj-pénztárak államosítása helyes döntés volt.,Magánnyugdíj-pénztárak államosítása
+127,27,Az Országgyűlésben női kvótát kellene bevezetni.,Női kvóta a parlamentben
+128,28,"Az egynemű párokat azonos jogok kell, hogy megillessék, mint a férfi-nő párokat.",Melegjogok
+129,29,Bizonyos védőoltásokat kötelezővé kellene tenni mindenki számára.,Kötelező oltások
+130,30,A marihuána-fogyasztás büntethetőségét fenn kell tartani.,Cannabis dekirmimalizáció
+131,31,Az abortusz szabályozását szigorítani kellene Magyarországon.,Abortusz szigoírása
+132,32,A közterületen való életvitelszerű tartózkodás büntethetőségét meg kellene szüntetni.,Hajléktalanság büntethetősége
+133,33,A vallás- és erkölcstan kötelező oktatását fenn kellene tartani.,Hitoktatás iskolákban
+134,34,"Létezik olyan, hogy etnikai bűnözés.",Cigánybűnözés fogalma
+135,35,"Magas pénzbírsággal kellene büntetni azokat a munkaadókat, akik kevesebb fizetést adnak hasonló beosztásban dolgozó nőknek, mint férfiaknak.",Férfi-női egyenlő bér
+136,36,A Corvinus Egyetem aulájából a Marx-szobrot el kellene távolítani.,Marx szobor - Corvinus
+137,37,A Szabadság téren a német megszállás emlékművét a jelenlegi terveknek megfelelően kell felállítani.,Német emlékmű
+138,38,A stratégiai jelentőségű vállalatokat állami tulajdonba kell venni.,Nagyvállalatok államosítása
+139,39,Az álláskeresési járadék (munkanélküli segély) folyósítási idejét 3 hónapról legalább a kétszeresére kellene növelni.,Munkanélküli segély 3 hónap
+140,40,A mezőgazdaságban támogatni kellene a szövetkezeti rendszer újraépítését.,Agrárszövetkezetek
+141,41,A halálbüntetést vissza kellene állítani Magyarországon.,Halálbüntetés
+142,42,A képviselők vagyonnyilatkozata mellett a vele egy háztartásban élők vagyonnyilatkozatát is nyilvánosságra kell hozni.,Rokonok vagyonnyilatkozata
+143,43,"Minden, az állam által kötött - nem szigorúan nemzetbiztonsági szempontból kockázatos – szerződés csak azt követően legyen érvényes, hogy nyilvánosságra hozták.",Szerződések nyilvánossága
+144,44,Az iskolákat és egészségügyi intézményeket az önkormányzatoknak kellene üzemeltetniük a központi kormányzat helyett.,Iskolák államosítása
+145,45,A rágalmazás büntethetőségét meg kell szüntetni.,Rágalmazás büntethetősége
+146,46,A hosszabb ideje üresen álló ingatlanokat meg kellene adóztatni.,Üres lakások adója
+147,47,A pártoknak nyilvános számlát kellene vezetniük működési kiadásaikról és kampányköltségeikről.,Nyilvános pártszámla
+148,48,"Továbbra is dönthessenek arról kórházigazgatók, hogy az orvosok elfogadhatnak-e utólagos hálapénzt.",Hálapénz elfogadhatósága
+149,49,Törökországnak csatlakoznia kellene az Európai Unióhoz.,Törökország az EU-ban
+150,50,Az oroszokkal kötött megállapodást a paksi atomerőműről fel kellene mondani.,Oroszok - Paks
