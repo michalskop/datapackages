@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+body {
+  font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.bar {
+  fill: steelblue;
+}
+
+.x.axis path {
+  display: none;
+}
+
+.opaque {
+  fill-opacity: 0.25;
+}
+
+.negative {
+  fill-color:red;
+}
+
+.zeman {
+  fill: Red;
+}
+
+.dienstbier {
+  fill: DarkOrange;
+}
+.sobotka {
+  fill: Blue;
+}
+.fischer {
+  fill: CornflowerBlue;
+}
+.kscm {
+  fill: DarkRed;
+}
+.schwarzenberg {
+  fill: DarkViolet;
+}
+.roithova {
+  fill: Gold;
+}
+.fischerova {
+  fill: Green;
+}
+.franz {
+  fill: Black;
+}
+.bobosikova {
+  fill: Yellow;
+}
+
+</style>
+<body>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<!--<script src="http://code.jquery.com/jquery-1.8.2.min.js"></script>-->
+<script>
+
+var margin = {top: 20, right: 20, bottom: 30, left: 40},
+    width = 700 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
+
+var color = d3.scale.ordinal()
+    .range(["#080", "#0b0", "#0f0","#4f4"]);
+var color2 = d3.scale.ordinal()
+    .range(["darkred", "red"]);
+var color3 = d3.scale.ordinal()
+    .range(["green", "black"]);
+
+function reorder(o) {
+  sorted = []
+  for (k in o) {
+    sorted.push({
+      key: k,
+      val: o[k]
+    })
+  }
+  sorted = sorted.sort(
+    function(a, b){
+      if(a.key < b.key) return -1;
+      if(a.key > b.key) return 1;
+      return 0;
+    });
+  out = {};
+  for (k in sorted) {
+    out[sorted[k].key] = sorted[k].val;
+  }
+  return out;
+}
+
+
+d3.json("d11chart.json", function(error, data) {
+  
+  var names = [];
+  nnames = [];
+  positive = [];
+  negative = [];
+  totals = [];
+  sort_ar = [];
+  ndata = [];
+  var tot = {};
+  for (var key in data) {
+    sort_ar.push({
+      key:data[key].name,
+      tot:data[key].total.t1,
+      nname:data[key].nname,
+      positive:data[key]['positive'],
+      negative:data[key]['negative'],
+      totals:data[key]['total'],
+      data:data[key]
+    });
+  }
+  sort_ar = sort_ar.sort(function(x,y){return y.tot - x.tot});
+  for (var i=0;i<sort_ar.length;i++) {
+    names.push(sort_ar[i].key);
+    nnames.push(sort_ar[i].nname);
+    tot[sort_ar[i].key] = Math.round(100*sort_ar[i].tot) + "%";
+    positive.push(reorder(sort_ar[i].positive));
+    negative.push(reorder(sort_ar[i].negative));
+    totals.push(sort_ar[i].totals);
+    ndata.push(sort_ar[i].data);
+  }
+  
+  data = ndata;
+  
+  var x = d3.scale.ordinal()
+    .rangeRoundBands([0, width], .25) //the 2nd number is the width of gap
+    .domain(nnames);
+    
+  var y = d3.scale.linear()
+    .rangeRound([height, 0])
+    .domain([-0.4,0.3]);
+    
+  var x2 = d3.scale.linear()
+    .rangeRound([0, width])
+    .domain([0,100]);
+    
+  var x3 = d3.scale.ordinal()
+    .rangeRoundBands([0, width])
+    .domain(names);
+    
+  var xAxis = d3.svg.axis()
+    .scale(x)
+    .orient("bottom");
+    
+  var xAxis2 = d3.svg.axis()
+    .scale(x2)
+    .orient("bottom")
+    .ticks(0);
+    
+  var xAxis3 = d3.svg.axis()
+    .scale(x3)
+    .orient("bottom")
+    .tickFormat(function (d) {
+      return tot[d]
+    });
+
+  var yAxis = d3.svg.axis()
+    .scale(y)
+    .orient("left")
+    //.tickFormat(d3.format(".2s")); 
+    .ticks(10, "%");
+
+  var svg = d3.select("body").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+
+  svg.append("g")
+      .attr("class", "x axis")
+      .attr("transform", "translate(0," + height + ")")
+      .call(xAxis);
+  
+  svg.append("g")
+      .attr("class", "y axis")
+      .attr("transform", "translate(0," + y(0) + ")")
+      .call(xAxis2); 
+      
+  svg.append("g")
+      .attr("class", "x axis")
+      .attr("transform", "translate(0,10)")
+      .call(xAxis3);    
+      
+  svg.append("g")
+      .attr("class", "y axis")
+      .call(yAxis)
+    .append("text")
+      .attr("transform", "rotate(-90)")
+      .attr("y", 6)
+      .attr("dy", ".71em")
+      .style("text-anchor", "end");
+      //.text("Hlasy");
+
+  color.domain(d3.keys(positive[0]));
+  color2.domain(d3.keys(negative[0]));
+  color3.domain(d3.keys(totals[0]));
+
+  positive.forEach(function(d) {
+    var y0 = 0;
+    d.ages = color.domain().map(function(name) { return {
+      name: name, 
+      y0: y0, 
+      y1: y0 += +d[name]
+    }; });
+    d.total = d.ages[d.ages.length - 1].y1;
+  });
+  
+  Object.keys(data)
+      .sort()
+      .forEach(function(v, i) {
+          console.log(v, data[v]);
+       });
+  
+  negative.forEach(function(d) {
+    var y0 = 0;
+    d.ages = color2.domain().map(function(name) { return {
+      name: name, 
+      y0: y0,
+      y1: y0 += +d[name]
+    }; });
+    d.total = d.ages[d.ages.length - 1].y1;
+  });
+  
+  totals.forEach(function(d) {
+    var y0 = 0;
+    d.ages = color3.domain().map(function(name) { return {
+      name: name, 
+      y0: y0,
+      y1: y0 += +d[name]
+    }; });
+    d.total = d.ages[d.ages.length - 1].y1;
+  });
+  
+  breakpoint=1;
+  
+  //positive.sort(function(a, b) { return b.total - a.total; });
+  
+  for (var key in positive) {
+    data[key].positive.total = positive[key].total
+    data[key].positive.ages = positive[key].ages
+    data[key].negative.total = negative[key].total
+    data[key].negative.ages = negative[key].ages
+    data[key].total.total = totals[key].total
+    data[key].total.ages = totals[key].ages
+  }
+  
+  
+  
+  x.domain(data.map(function(d) { return d.name; }));
+  y.domain([-0.4, 0.3]);
+  
+  var state = svg.selectAll(".name")
+      .data(data)
+    .enter().append("g")
+      .attr("class", "g")
+      .attr("transform", function(d) { return "translate(" + x(d.name) + ",0)"; });
+      
+   state.selectAll(".rect1")
+        .data(function(d) {return d.positive.ages; })
+      .enter().append("rect")
+        .attr("x", function (d) {return -x.rangeBand()/5;})
+        .attr("class", function(d) {return "bar opaque";})
+        .attr("width", x.rangeBand())
+        .attr("y", function(d) { 
+          return y(d.y1); 
+        })
+        .attr("height", function(d) { return y(d.y0) - y(d.y1); })
+        .style("fill", function(d) { return color(d.name); });
+        
+   state.selectAll(".rect2")
+        .data(function(d) {
+          return d.negative.ages; 
+        })
+      .enter().append("rect")
+        .attr("x", function (d) {return -x.rangeBand()/5;})
+        .attr("class", function(d) {return "bar opaque";})
+        .attr("width", x.rangeBand())
+        .attr("y", function(d) { 
+          return y(-d.y0); 
+        })
+        .attr("height", function(d) { return y(d.y0) - y(d.y1) + 1; }) //to compansate for gap that occured sometimes
+        .style("fill", function(d) { return color2(d.name); });
+        
+   state.selectAll(".rect3")
+        .data(function(d) {
+          for (k in d.total.ages) {
+            d.total.ages[k].nam = d.name;
+          }
+          return d.total.ages; 
+        })
+      .enter().append("rect")
+        .attr("class", function(d) {
+          return d.name;
+        })
+        .attr("width", x.rangeBand())
+        .attr("class", function(d) {
+          return d.nam;
+        })
+        .attr("y", function(d) { 
+          if (d.y1 > 0)
+            return y(d.y1); 
+          else
+            return y(d.y0)
+        })
+        .attr("height", function(d) { return Math.abs(y(d.y0) - y(d.y1)); })
+        //.style("fill", function(d) { return color3(d.name); });
+  
+});
+
+</script>

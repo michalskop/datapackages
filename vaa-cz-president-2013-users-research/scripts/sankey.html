@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Voters transfers during Czech presidential elections 2013</title>
+<style>
+
+#chart {
+  height: 600px;
+}
+
+.node rect {
+  cursor: move;
+  fill-opacity: .9;
+  shape-rendering: crispEdges;
+}
+
+.node text {
+  pointer-events: none;
+  text-shadow: 0 1px 0 #fff;
+}
+
+.link {
+  fill: none;
+  stroke: #000;
+  stroke-opacity: .2;
+}
+
+.link:hover {
+  stroke-opacity: .5;
+}
+
+</style>
+<body>
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css">
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="#">Voters transfers during Czech presidential elections 2013</a>
+        </div>
+      </div>
+    </div>
+
+
+
+<div style="position:fixed;top:50px;z-index:1000;">
+      <div class="alert alert-info" >The data is from <a href="http://volebnikalkulacka.cz/volba-prezidenta-cr-2013/kalkulacka-vyzkum.php">research</a> conducted among users of voting advice application <a href="http://volebnikalkulacka.cz">Volební kalkulačka</a>. It is weighted so the 1st round of the real elections and the 2nd round of the real elections match the 1st and last round of the potentional <a href="http://en.wikipedia.org/wiki/Instant-runoff_voting">instant-runoff voting (alternative vote) electoral system</a>.</div>
+</div>
+<div style="padding-bottom:130px"></div>
+<p id="chart"></p>
+
+<p>The analysis flow: 
+<ol><li>get weights from <a href="http://bl.ocks.org/michalskop/8155694/">this bl.ock</a> (compare)</li>
+<li>extract_everything_weighted.py -> responses_weighted_info.csv</li>
+<li>cal3_2.py -> sankey2.json</li>
+</ol>
+</p>
+
+<script src="http://d3js.org/d3.v2.min.js?2.9.1"></script>
+<script src="sankey.js"></script>
+<script>
+
+var margin = {top: 1, right: 1, bottom: 6, left: 1},
+    width = 700 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
+
+var formatNumber = d3.format(",.0f"),
+    format = function(d) { return formatNumber(d); },
+    color = function(d){ return d.color; };//d3.scale.category20();
+
+var svg = d3.select("#chart").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+var sankey = d3.sankey()
+    .nodeWidth(15)
+    .nodePadding(10)
+    .size([width, height]);
+
+var path = sankey.link();
+
+d3.json("sankey3_2.json", function(energy) {
+
+  sankey
+      .nodes(energy.nodes)
+      .links(energy.links)
+      .layout(32);
+
+  var link = svg.append("g").selectAll(".link")
+      .data(energy.links)
+    .enter().append("path")
+      .attr("class", "link")
+      .attr("d", path)
+      .style("stroke-width", function(d) { return Math.max(1, d.dy); })
+      .sort(function(a, b) { return b.dy - a.dy; });
+
+  link.append("title")
+      .text(function(d) { return d.source.name + " → " + d.target.name + "\n" + format(d.value/11525*100) + ' %'; });
+
+  var node = svg.append("g").selectAll(".node")
+      .data(energy.nodes)
+    .enter().append("g")
+      .attr("class", "node")
+      .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
+    .call(d3.behavior.drag()
+      .origin(function(d) { return d; })
+      .on("dragstart", function() { this.parentNode.appendChild(this); })
+      .on("drag", dragmove));
+
+  node.append("rect")
+      .attr("height", function(d) { return d.dy; })
+      .attr("width", sankey.nodeWidth())
+      .style("fill", function(d) { return d.color; })
+      .style("stroke", function(d) { return d3.rgb(d.color).darker(2); })
+    .append("title")
+      .text(function(d) { return d.name + "\n" + format(d.value/11525*100) + ' %'; });
+
+  node.append("text")
+      .attr("x", -6)
+      .attr("y", function(d) { return d.dy / 2; })
+      .attr("dy", ".35em")
+      .attr("text-anchor", "end")
+      .attr("transform", null)
+      .text(function(d) { return d.name; })
+    .filter(function(d) { return d.x < width / 2; })
+      .attr("x", 6 + sankey.nodeWidth())
+      .attr("text-anchor", "start");
+
+  function dragmove(d) {
+    d3.select(this).attr("transform", "translate(" + d.x + "," + (d.y = Math.max(0, Math.min(height - d.dy, d3.event.y))) + ")");
+    sankey.relayout();
+    link.attr("d", path);
+  }
+});
+
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-8592359-13', 'ocks.org');
+  ga('send', 'pageview');
+
+</script>

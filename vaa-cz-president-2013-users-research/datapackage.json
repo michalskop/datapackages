@@ -1,0 +1,249 @@
+{
+    "name": "vaa-cz-president-2013-users-research",
+    "description": "Research on users from VolebniKalkulacka.cz, Presidential elections 2013 in the Czech Republic",
+    "resources": [
+        {
+            "description": "Raw research data",
+            "path": "data/research.csv",
+            "name": "research",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "session_id",
+                        "description": "Session id",
+                        "type": "string"
+                    },
+                    {
+                        "name": "date",
+                        "type": "date",
+                        "format": "YYYY-mm-dd HH:MM:SS",
+                        "description": "Date of conducting the research"
+                    },
+                    {
+                        "name": "values",
+                        "type": "string",
+                        "description": "JSON encoded answers to the questionnaire"
+                    }
+                ]
+            }
+        },
+        {
+            "description": "Responses of users selected for further analyses (who ordered the candidates by their preferences)",
+            "path": "data/responses_weighted_data.csv",
+            "name": "responses_weighted_data",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "weight",
+                        "type": "number",
+                        "description": "Calculated weight of each answer"
+                    },
+                    {
+                        "name": "session_id",
+                        "type": "string",
+                        "description": "Sessind id"
+                    },
+                    {
+                        "name": "bobosikova",
+                        "type": "integer",
+                        "description": "User's preference of Ms. Bobšíková (rank)"
+                    },
+                    {
+                        "name": "dienstbier",
+                        "type": "integer",
+                        "description": "User's preference of Mr. Dienstbier (rank)"
+                    },
+                    {
+                        "name": "fischer",
+                        "type": "integer",
+                        "description": "User's preference of Mr. Fischer (rank)"
+                    },
+                    {
+                        "name": "fischerova",
+                        "type": "integer",
+                        "description": "User's preference of Ms. Fischerová (rank)"
+                    },
+                    {
+                        "name": "franz",
+                        "type": "integer",
+                        "description": "User's preference of Mr. Franz (rank)"
+                    },
+                    {
+                        "name": "roithova",
+                        "type": "integer",
+                        "description": "User's preference of Ms. Roithová (rank)"
+                    },
+                    {
+                        "name": "schwartzenberg",
+                        "type": "integer",
+                        "description": "User's preference of Mr. Schwartzenberg (rank)"
+                    },
+                    {
+                        "name": "sobotka",
+                        "type": "integer",
+                        "description": "User's preference of Mr. Sobotka (rank)"
+                    },
+                    {
+                        "name": "zeman",
+                        "type": "integer",
+                        "description": "User's preference of Mr. Zeman (rank)"
+                    },
+                    {
+                        "name": "input-age",
+                        "type": "string",
+                        "description": "User's Age category"
+                    },
+                    {
+                        "name": "input-attend",
+                        "type": "string",
+                        "description": "User's attitude towards their participation in the elections"
+                    },
+                    {
+                        "name": "input-change_mind",
+                        "type": "integer",
+                        "description": "User's opinion whether the VAA previously changed their mind (-100,100), 0 was default"
+                    },
+                    {
+                        "name": "input-change_result",
+                        "type": "integer",
+                        "description": "User's opinion whether the VAA is going to change their mind (-100,100), 0 was default"
+                    },
+                    {
+                        "name": "input-info_from",
+                        "type": "string",
+                        "description": "User's answer where they seek information on politics"
+                    },
+                    {
+                        "name": "input-info_from-other",
+                        "type": "string",
+                        "description": "User's answer where they seek information on politics ('other')"
+                    },
+                    {
+                        "name": "input-looking_for_info",
+                        "type": "string",
+                        "description": "User's answer how actively they seek the information on politics (-100,100), 0 was default"
+                    },
+                    {
+                        "name": "input-negative_vote",
+                        "type": "string",
+                        "description": "User's negative preference"
+                    },
+                    {
+                        "name": "input-occupation",
+                        "type": "string",
+                        "description": "User's occupation"
+                    },
+                    {
+                        "name": "input-place",
+                        "type": "string",
+                        "description": "Size of user's municipality"
+                    },
+                    {
+                        "name": "input-previously",
+                        "type": "string",
+                        "description": "Whether the user filled the VAA in the past"
+                    },
+                    {
+                        "name": "input-sex",
+                        "type": "string",
+                        "description": "User's gender"
+                    },
+                ]
+            }
+        },
+
+        {
+        "schema": {
+            "primaryKey": "id",
+            "fields": [{
+                "description": "Candidates's id",
+                "name": "id",
+                "type": "integer"
+            }, {
+                "description": "Candidates's name",
+                "name": "name",
+                "type": "string"
+            }, {
+                "description": "Candidates's given name",
+                "name": "given_name",
+                "type": "string"
+            }, {
+                "description": "Candidates's family name",
+                "name": "family_name",
+                "type": "string"
+            }, {
+                "description": "indicator whether the candidate answered to the VAA questions",
+                "name": "votes",
+                "type": "string"
+            }]
+        },
+        "description": "Candidates",
+        "path": "data/voters.csv",
+        "name": "voters"
+    }, {
+        "schema": {
+            "primaryKey": "id",
+            "fields": [{
+                "description": "questions's id",
+                "name": "id",
+                "type": "integer"
+            }, {
+                "description": "name of the question",
+                "name": "motion:name",
+                "type": "string"
+            }, {
+                "description": "question text",
+                "name": "motion:text",
+                "type": "string"
+            }, {
+                "description": "description of the question",
+                "name": "motion:description",
+                "type": "string"
+            }, {
+                "description": "order of the question in the VAA",
+                "name": "order",
+                "type": "integer"
+            }, {
+                "description": "question text (as asked to the candidates)",
+                "name": "motion:text_candidates",
+                "type": "integer"
+            }, {
+                "description": "order of the question in the long version of the VAA",
+                "name": "order_long",
+                "type": "integer"
+            }, {
+                "description": "order of the question in the VAA for the 2nd round of the elections",
+                "name": "order_2",
+                "type": "integer"
+            }]
+        },
+        "description": "Questions of the VAA",
+        "path": "data/vote_events.csv",
+        "name": "vote_events"
+    }, {
+        "schema": {
+            "primaryKey": ["vote_event_id", "voter_id"],
+            "fields": [{
+                "description": "questions's id",
+                "name": "vote_event_id",
+                "type": "integer"
+            }, {
+                "description": "candidate's id",
+                "name": "voter_id",
+                "type": "integer"
+            }, {
+                "description": "candidate's answer",
+                "name": "option",
+                "type": "string"
+            }, {
+                "description": "candidate's explanation of the answer",
+                "name": "explanation",
+                "type": "string"
+            }]
+        },
+        "description": "Candidates' answers to VAA's questions",
+        "path": "data/votes.csv",
+        "name": "votes"
+    }],
+    "name": "vaa-cz-president-2013-users-research"
+}
