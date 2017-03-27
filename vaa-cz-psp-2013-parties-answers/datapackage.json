@@ -10,7 +10,7 @@
             "fields": [
                 {
                     "name": "id",
-                    "type": "integer",
+                    "type": "string",
                     "description": "party's id"
                 },
                 {
@@ -60,7 +60,7 @@
             "fields": [
                 {
                     "name": "voter_id",
-                    "type": "integer",
+                    "type": "string",
                     "description": "party's id"
                 },
                 {
@@ -76,6 +76,6 @@
             ],
             "primaryKey": ["vote_event_id","voter_id"]
         }
-    }                      
+    }
 ]
 }
